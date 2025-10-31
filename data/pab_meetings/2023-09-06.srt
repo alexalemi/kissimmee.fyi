@@ -1,0 +1,4723 @@
+﻿1
+00:00:11,870 --> 00:00:14,013
+- Testing, 1, 2, 3, testing.
+
+2
+00:00:17,130 --> 00:00:17,963
+- Hello.
+
+3
+00:00:25,071 --> 00:00:27,147
+- I pledge allegiance to the flag
+
+4
+00:00:27,147 --> 00:00:29,122
+of the United States of America,
+
+5
+00:00:29,122 --> 00:00:31,518
+and to the republic for which it stands;
+
+6
+00:00:31,518 --> 00:00:34,418
+one nation, under God, indivisible,
+
+7
+00:00:34,418 --> 00:00:37,350
+with liberty and justice for all.
+
+8
+00:00:37,350 --> 00:00:39,027
+- Thank you, please be seated.
+
+9
+00:00:39,027 --> 00:00:41,580
+And I'm gonna ask
+everybody to please silence
+
+10
+00:00:41,580 --> 00:00:44,463
+any electronic devices out of courtesy.
+
+11
+00:00:45,990 --> 00:00:50,280
+And we are looking at our minutes
+
+12
+00:00:50,280 --> 00:00:53,310
+from July 19th, 2023 PAB meeting.
+
+13
+00:00:53,310 --> 00:00:56,310
+Do we have any motions
+regarding those minutes?
+
+14
+00:00:56,310 --> 00:00:58,260
+Robert, we have a motion to approve
+
+15
+00:00:58,260 --> 00:00:59,880
+and a second from Melissa.
+
+16
+00:00:59,880 --> 00:01:01,800
+Any discussion, amendments, changes?
+
+17
+00:01:01,800 --> 00:01:03,003
+All in favor, please say, "Aye."
+
+18
+00:01:03,003 --> 00:01:03,960
+Aye.
+- Aye.
+
+19
+00:01:03,960 --> 00:01:04,980
+- Opposed, please say, "No."
+
+20
+00:01:04,980 --> 00:01:07,120
+Hearing none, minutes are approved.
+
+21
+00:01:07,120 --> 00:01:10,209
+4A Old Business, public
+care and conditional use
+
+22
+00:01:10,209 --> 00:01:12,630
+with site-specific redevelopment plan.
+
+23
+00:01:12,630 --> 00:01:13,890
+- Yes, thank you.
+
+24
+00:01:13,890 --> 00:01:14,940
+This is a conditional use
+
+25
+00:01:14,940 --> 00:01:17,100
+with site-specific redevelopment plan
+
+26
+00:01:17,100 --> 00:01:19,440
+to redevelop the property located
+
+27
+00:01:19,440 --> 00:01:22,380
+at 51 through 53 West Pine Street.
+
+28
+00:01:22,380 --> 00:01:25,093
+This is gonna be on the
+northwest corner of Main Street.
+
+29
+00:01:25,093 --> 00:01:28,383
+- I'm sorry, Brenda, let
+me just jump in there.
+
+30
+00:01:29,550 --> 00:01:30,690
+Short term memory, sorry.
+
+31
+00:01:30,690 --> 00:01:32,790
+I wanna ask if any board members have
+
+32
+00:01:32,790 --> 00:01:35,250
+any sort of conflict of interest,
+
+33
+00:01:35,250 --> 00:01:36,660
+had ex parte communication,
+
+34
+00:01:36,660 --> 00:01:38,706
+site visits, discussions,
+
+35
+00:01:38,706 --> 00:01:41,550
+research on their own regarding
+any of these agenda items.
+
+36
+00:01:41,550 --> 00:01:44,010
+And this one here, as
+we are addressing that,
+
+37
+00:01:44,010 --> 00:01:45,513
+please let that be known.
+
+38
+00:01:46,664 --> 00:01:48,504
+- I will for 5A and 5B,
+
+39
+00:01:48,504 --> 00:01:49,572
+but I do not for this.
+
+40
+00:01:49,572 --> 00:01:50,999
+- Okay. Brenda, go ahead.
+
+41
+00:01:50,999 --> 00:01:51,903
+Sorry.
+
+42
+00:01:51,903 --> 00:01:52,736
+- No, no worries.
+
+43
+00:01:52,736 --> 00:01:55,080
+So this is gonna be the
+redevelopment of that site located
+
+44
+00:01:55,080 --> 00:01:56,940
+on the northwest, sorry,
+
+45
+00:01:56,940 --> 00:01:59,730
+yes, northwest corner
+of Main Street and Vine.
+
+46
+00:01:59,730 --> 00:02:01,350
+This is gonna be a redevelopment
+
+47
+00:02:01,350 --> 00:02:05,880
+of a 538 hundred square
+foot car wash facility.
+
+48
+00:02:05,880 --> 00:02:08,940
+Within your packet is a depiction
+
+49
+00:02:08,940 --> 00:02:12,060
+of the redevelopment of that site.
+
+50
+00:02:12,060 --> 00:02:13,500
+A bit of a background,
+
+51
+00:02:13,500 --> 00:02:15,010
+currently right now the property has
+
+52
+00:02:15,010 --> 00:02:19,003
+about a 3,000 square foot building,
+
+53
+00:02:19,003 --> 00:02:22,320
+a former 7-11, and also
+a tenant space too,
+
+54
+00:02:22,320 --> 00:02:24,780
+located at 53 West Vine.
+
+55
+00:02:24,780 --> 00:02:26,970
+That was part of the approval
+
+56
+00:02:26,970 --> 00:02:30,180
+with the zoning being a mixed
+use planned unit development.
+
+57
+00:02:30,180 --> 00:02:33,300
+This property, as well as
+the property to the west,
+
+58
+00:02:33,300 --> 00:02:36,840
+are all part of the same zoning,
+
+59
+00:02:36,840 --> 00:02:39,843
+which is the Scottie's modification.
+
+60
+00:02:39,843 --> 00:02:42,540
+That was approved back in 1999.
+
+61
+00:02:42,540 --> 00:02:45,300
+Some of the recent changes
+was with the widening
+
+62
+00:02:45,300 --> 00:02:47,010
+of Main Street.
+
+63
+00:02:47,010 --> 00:02:49,793
+It included, I believe, some improvements
+
+64
+00:02:49,793 --> 00:02:52,626
+to add the turn lane back in 2018.
+
+65
+00:02:54,188 --> 00:02:57,390
+That affected the existing improvements
+
+66
+00:02:57,390 --> 00:02:58,740
+on the 7-11.
+
+67
+00:02:58,740 --> 00:03:00,720
+So that plan, which is called a Cure Plan,
+
+68
+00:03:00,720 --> 00:03:04,290
+whenever we have
+redevelopment that's affected
+
+69
+00:03:04,290 --> 00:03:06,120
+by any type of eminent domain,
+
+70
+00:03:06,120 --> 00:03:08,310
+or any type of roadway improvements.
+
+71
+00:03:08,310 --> 00:03:11,250
+So those modifications to
+that site was submitted
+
+72
+00:03:11,250 --> 00:03:13,440
+and approved in 2018.
+
+73
+00:03:13,440 --> 00:03:18,360
+So fast forward today, that
+PUD does allow for a car wash
+
+74
+00:03:18,360 --> 00:03:20,220
+via a conditional use approval
+
+75
+00:03:20,220 --> 00:03:22,920
+by the planning advisory board.
+
+76
+00:03:22,920 --> 00:03:24,480
+Within that car wash facility,
+
+77
+00:03:24,480 --> 00:03:26,430
+as known, includes a drive through,
+
+78
+00:03:26,430 --> 00:03:28,890
+which will consist of
+the three lanes queuing
+
+79
+00:03:28,890 --> 00:03:30,930
+on the south side of the property
+
+80
+00:03:30,930 --> 00:03:33,120
+adjacent to Vine Street
+
+81
+00:03:33,120 --> 00:03:35,070
+and will move forward to the tunnel,
+
+82
+00:03:35,070 --> 00:03:39,063
+which will be oriented
+towards Main Street itself.
+
+83
+00:03:39,960 --> 00:03:42,720
+It'll also include the vacuum
+stations that you see there,
+
+84
+00:03:42,720 --> 00:03:45,480
+so that way customers,
+after going into the tunnel,
+
+85
+00:03:45,480 --> 00:03:48,034
+will have had the
+ability to use the vacuum
+
+86
+00:03:48,034 --> 00:03:49,867
+for interior cleaning.
+
+87
+00:03:51,237 --> 00:03:54,300
+With that in mind, we have
+been working with the applicant
+
+88
+00:03:54,300 --> 00:03:57,810
+because this is part of
+the city's initiative
+
+89
+00:03:57,810 --> 00:04:00,840
+and goal to redevelop
+the Vine Street corridor.
+
+90
+00:04:00,840 --> 00:04:01,673
+As you all know,
+
+91
+00:04:01,673 --> 00:04:05,940
+in 2020 the city incorporated
+the form-based standards,
+
+92
+00:04:05,940 --> 00:04:09,660
+form-based code, to actually
+re-envision the Vine Street
+
+93
+00:04:09,660 --> 00:04:11,490
+to less of a auto-oriented,
+
+94
+00:04:11,490 --> 00:04:14,070
+but to include different design
+and development standards
+
+95
+00:04:14,070 --> 00:04:17,250
+to make that corridor
+more pedestrian friendly
+
+96
+00:04:17,250 --> 00:04:20,190
+and to encourage additional types of uses
+
+97
+00:04:20,190 --> 00:04:22,980
+to further redevelop both
+the Vine Street corridor
+
+98
+00:04:22,980 --> 00:04:24,900
+and the downtown area.
+
+99
+00:04:24,900 --> 00:04:26,250
+So with that being said,
+
+100
+00:04:26,250 --> 00:04:30,030
+with the existing zoning
+on the property being PUD,
+
+101
+00:04:30,030 --> 00:04:31,710
+we've worked with the applicant
+
+102
+00:04:31,710 --> 00:04:34,020
+to incorporate different design standards
+
+103
+00:04:34,020 --> 00:04:37,110
+that will, one, further the city's goals
+
+104
+00:04:37,110 --> 00:04:38,460
+for the form based standards,
+
+105
+00:04:38,460 --> 00:04:41,040
+form based standards
+within the Vine Street
+
+106
+00:04:41,040 --> 00:04:42,840
+and the downtown area,
+
+107
+00:04:42,840 --> 00:04:46,047
+and to, again, further
+redevelop this corridor
+
+108
+00:04:46,047 --> 00:04:47,913
+and this intersection in particular.
+
+109
+00:04:49,290 --> 00:04:50,700
+As mentioned in the staff report,
+
+110
+00:04:50,700 --> 00:04:53,631
+there will be some, what
+we call, non-conformities
+
+111
+00:04:53,631 --> 00:04:55,770
+or existing improvements that will remain,
+
+112
+00:04:55,770 --> 00:04:58,740
+such as the south side
+on the stormwater pond.
+
+113
+00:04:58,740 --> 00:05:00,690
+But for the most part,
+as you can see here,
+
+114
+00:05:00,690 --> 00:05:03,360
+that the existing building
+will be demolished
+
+115
+00:05:03,360 --> 00:05:06,963
+and redeveloped into the
+layout that you see here today.
+
+116
+00:05:09,690 --> 00:05:12,660
+I do want you to point out
+that within your packet
+
+117
+00:05:12,660 --> 00:05:15,635
+that you have hard copy,
+
+118
+00:05:15,635 --> 00:05:18,090
+I want to bring to your
+attention that staff
+
+119
+00:05:18,090 --> 00:05:21,930
+with the publication of
+this agenda included the,
+
+120
+00:05:21,930 --> 00:05:22,763
+was it seven?
+
+121
+00:05:22,763 --> 00:05:24,780
+Yes, sorry; eight conditions,
+
+122
+00:05:24,780 --> 00:05:27,000
+but working with the applicant,
+
+123
+00:05:27,000 --> 00:05:29,790
+there are changes that
+you have for the car wash
+
+124
+00:05:29,790 --> 00:05:31,140
+that should be part of your packet
+
+125
+00:05:31,140 --> 00:05:34,500
+where there's a modification
+to condition number one
+
+126
+00:05:34,500 --> 00:05:37,980
+and a modification to
+condition number two.
+
+127
+00:05:37,980 --> 00:05:39,720
+All of the other conditions,
+
+128
+00:05:39,720 --> 00:05:42,030
+from condition three through eight,
+
+129
+00:05:42,030 --> 00:05:43,410
+will remain the same,
+
+130
+00:05:43,410 --> 00:05:47,830
+but we provided those
+revisions to you via copy
+
+131
+00:05:48,863 --> 00:05:52,460
+to you to see the changes to
+conditions number one and two.
+
+132
+00:05:52,460 --> 00:05:54,000
+So at this time,
+
+133
+00:05:54,000 --> 00:05:58,230
+staff is requesting that you
+approve this application,
+
+134
+00:05:58,230 --> 00:06:01,080
+conditional use request
+subject to the changes
+
+135
+00:06:01,080 --> 00:06:03,390
+to conditions one and two
+
+136
+00:06:03,390 --> 00:06:07,110
+that you have included
+provided with your packet.
+
+137
+00:06:07,110 --> 00:06:08,250
+If there are any questions,
+
+138
+00:06:08,250 --> 00:06:11,820
+I am here, as well as
+we have representation
+
+139
+00:06:11,820 --> 00:06:14,100
+regarding the project itself.
+
+140
+00:06:14,100 --> 00:06:16,560
+- And board, do you have any
+questions for the city staff
+
+141
+00:06:16,560 --> 00:06:17,400
+before I call,
+
+142
+00:06:17,400 --> 00:06:18,930
+ask if the applicant is here
+
+143
+00:06:18,930 --> 00:06:21,033
+and would like to state anything?
+
+144
+00:06:24,540 --> 00:06:28,773
+Please state your name and
+business address for the record.
+
+145
+00:06:30,300 --> 00:06:33,780
+- Matt Britton, 3708 West
+Lawn Avenue, Tampa, Florida.
+
+146
+00:06:33,780 --> 00:06:35,789
+We agree with all the
+conditions that were stated
+
+147
+00:06:35,789 --> 00:06:36,622
+and here and happy to
+answer any questions.
+
+148
+00:06:36,622 --> 00:06:37,658
+Thank you.
+
+149
+00:06:37,658 --> 00:06:40,776
+- Board, any questions for the applicant?
+
+150
+00:06:40,776 --> 00:06:42,480
+If not, do we have any public comments?
+
+151
+00:06:42,480 --> 00:06:44,160
+Any members of the public
+like to make comments
+
+152
+00:06:44,160 --> 00:06:45,213
+on this agenda item?
+
+153
+00:06:46,680 --> 00:06:48,660
+Any public comments?
+
+154
+00:06:48,660 --> 00:06:49,643
+No? Okay.
+
+155
+00:06:50,700 --> 00:06:52,200
+Any discussion by the board?
+
+156
+00:06:52,200 --> 00:06:54,610
+If not, we'll entertain any motion.
+
+157
+00:06:54,610 --> 00:06:55,647
+- I motion to approve.
+
+158
+00:06:55,647 --> 00:06:57,826
+- Heard Melissa motion to approve
+
+159
+00:06:57,826 --> 00:06:59,520
+and we have second from Robert.
+
+160
+00:06:59,520 --> 00:07:00,798
+Any discussion?
+
+161
+00:07:00,798 --> 00:07:01,631
+- With the conditions.
+
+162
+00:07:01,631 --> 00:07:03,030
+- With the condition.
+
+163
+00:07:03,030 --> 00:07:05,542
+Melissa, with the conditions,
+I'm assuming the motion.
+
+164
+00:07:05,542 --> 00:07:06,690
+Okay, all right.
+
+165
+00:07:06,690 --> 00:07:08,648
+- I'm sorry, with the modified conditions,
+
+166
+00:07:08,648 --> 00:07:10,045
+number one, number two.
+
+167
+00:07:10,045 --> 00:07:10,923
+- Okay.
+
+168
+00:07:10,923 --> 00:07:13,170
+All in favor, please say, "Aye."
+
+169
+00:07:13,170 --> 00:07:15,090
+Aye, opposed, please say, "No."
+
+170
+00:07:15,090 --> 00:07:16,530
+Hearing none, motion carries.
+
+171
+00:07:16,530 --> 00:07:17,363
+Congratulations.
+
+172
+00:07:18,960 --> 00:07:22,290
+And five, New Business 5A: Public Hearing.
+
+173
+00:07:22,290 --> 00:07:24,420
+Again, I'll ask if any board members have
+
+174
+00:07:24,420 --> 00:07:27,090
+any conflicts of interest
+with this agenda item,
+
+175
+00:07:27,090 --> 00:07:28,410
+had ex parte communications,
+
+176
+00:07:28,410 --> 00:07:30,585
+site visits, done any
+of your own research,
+
+177
+00:07:30,585 --> 00:07:32,179
+please let that be known for the record.
+
+178
+00:07:32,179 --> 00:07:33,826
+- I have conflict of interest
+
+179
+00:07:33,826 --> 00:07:35,370
+and will be abstaining.
+
+180
+00:07:35,370 --> 00:07:36,203
+- Okay.
+
+181
+00:07:37,710 --> 00:07:39,257
+Yes, sir.
+
+182
+00:07:39,257 --> 00:07:40,989
+- Good evening.
+
+183
+00:07:40,989 --> 00:07:44,310
+Christian Arias, Development Services.
+
+184
+00:07:44,310 --> 00:07:46,710
+The applicant has filed
+an annexation application
+
+185
+00:07:46,710 --> 00:07:50,310
+to annex approximately 556 acres of land
+
+186
+00:07:50,310 --> 00:07:53,610
+into the city, into the city of Kissimmee
+
+187
+00:07:53,610 --> 00:07:55,760
+for the project identified
+as Taylor Aisle.
+
+188
+00:07:56,970 --> 00:08:01,260
+Before I proceed, if I
+may, to add to the record,
+
+189
+00:08:01,260 --> 00:08:03,810
+there was a submitted
+error on the public notice
+
+190
+00:08:03,810 --> 00:08:06,120
+regarding the legal description.
+
+191
+00:08:06,120 --> 00:08:08,798
+This has been corrected
+and it has been presented
+
+192
+00:08:08,798 --> 00:08:09,813
+in front of you,
+
+193
+00:08:10,800 --> 00:08:13,196
+and this has been provided to you
+
+194
+00:08:13,196 --> 00:08:16,323
+to compliment that error that was made.
+
+195
+00:08:18,240 --> 00:08:20,190
+Continuing with the site, subject site,
+
+196
+00:08:23,474 --> 00:08:24,307
+the subject site's actually
+located, as we can see,
+
+197
+00:08:28,020 --> 00:08:30,010
+east of Simpson Road and west
+
+198
+00:08:31,210 --> 00:08:36,210
+of Lake Toho.
+
+199
+00:08:36,457 --> 00:08:39,737
+So, we can see here, East
+Toho Lake, I'm sorry.
+
+200
+00:08:39,737 --> 00:08:42,420
+As you can see in this map,
+this is the subject site.
+
+201
+00:08:45,663 --> 00:08:46,687
+As part of this application,
+
+202
+00:08:46,687 --> 00:08:48,900
+staff and the applicant have had meetings
+
+203
+00:08:48,900 --> 00:08:50,730
+with the Osceola County
+
+204
+00:08:50,730 --> 00:08:53,180
+regarding this proposed annexation.
+
+205
+00:08:54,263 --> 00:08:56,700
+The proposed annexation meets
+the requirements set forth
+
+206
+00:08:56,700 --> 00:08:59,500
+by the local and state statutes
+for voluntary annexation
+
+207
+00:09:00,570 --> 00:09:03,330
+as the property are contiguous
+for adjacent to city limits.
+
+208
+00:09:03,330 --> 00:09:05,671
+To the northern side, as you can see,
+
+209
+00:09:05,671 --> 00:09:09,573
+it's abutting the already
+annexed property to the north.
+
+210
+00:09:10,710 --> 00:09:13,200
+The development review
+committee has reviewed this
+
+211
+00:09:13,200 --> 00:09:18,200
+and recommended approval on
+March 21st of this year, 2023.
+
+212
+00:09:18,223 --> 00:09:19,800
+The first staff is recommending approval
+
+213
+00:09:19,800 --> 00:09:22,290
+of this annexation application
+
+214
+00:09:22,290 --> 00:09:24,800
+and this concludes my
+report and I'll have...
+
+215
+00:09:26,233 --> 00:09:27,066
+If you have any questions, please,
+
+216
+00:09:27,066 --> 00:09:28,367
+I would be more than happy
+to answer any questions,
+
+217
+00:09:28,367 --> 00:09:31,670
+or forward any questions
+to the city staff.
+
+218
+00:09:32,614 --> 00:09:33,971
+If not...
+
+219
+00:09:33,971 --> 00:09:36,415
+I'm sorry, Alex, I apologize.
+
+220
+00:09:36,415 --> 00:09:39,560
+There were also public
+comments that were added,
+
+221
+00:09:39,560 --> 00:09:40,770
+as part of this application,
+
+222
+00:09:40,770 --> 00:09:42,510
+which will be distributed,
+
+223
+00:09:42,510 --> 00:09:44,240
+that has been distributed to you
+
+224
+00:09:44,240 --> 00:09:49,240
+and we have to identify and
+also to respond to the...
+
+225
+00:09:49,795 --> 00:09:52,473
+Do you have those in
+the package, the uptown?
+
+226
+00:09:52,473 --> 00:09:53,970
+- They have been included in the package,
+
+227
+00:09:53,970 --> 00:09:55,200
+as part of the package.
+
+228
+00:09:55,200 --> 00:09:59,250
+And it has been received
+by the end of this day.
+
+229
+00:09:59,250 --> 00:10:02,100
+So that's why it wasn't added
+to the original that you have,
+
+230
+00:10:02,100 --> 00:10:05,009
+but it's being added to
+your packet as we speak.
+
+231
+00:10:05,009 --> 00:10:08,306
+Okay, Alex, you had a comment or question.
+
+232
+00:10:08,306 --> 00:10:09,900
+- Yeah, I guess I was just wondering,
+
+233
+00:10:09,900 --> 00:10:12,136
+looking at the planned annexation,
+
+234
+00:10:12,136 --> 00:10:14,275
+there's a little like abutment that,
+
+235
+00:10:14,275 --> 00:10:16,470
+as far as I can tell, is
+part of like Borinquen Drive.
+
+236
+00:10:16,470 --> 00:10:19,075
+I was wondering what the
+purpose of for the annexation.
+
+237
+00:10:19,075 --> 00:10:21,102
+Is that just the
+right-of-way in the street,
+
+238
+00:10:21,102 --> 00:10:23,190
+or is that kind of the...
+
+239
+00:10:23,190 --> 00:10:24,896
+- You mean the little sliver to the-
+
+240
+00:10:24,896 --> 00:10:25,729
+- Yeah, the sliver.
+
+241
+00:10:25,729 --> 00:10:27,270
+- That's a right-of-way,
+
+242
+00:10:27,270 --> 00:10:29,707
+but it's actually platted.
+
+243
+00:10:29,707 --> 00:10:32,327
+It's part of the plat
+part within the portion
+
+244
+00:10:32,327 --> 00:10:33,630
+of the property,
+
+245
+00:10:33,630 --> 00:10:35,057
+therefore it was included
+in this annexation.
+
+246
+00:10:35,057 --> 00:10:36,831
+- It was part of the original plat.
+
+247
+00:10:36,831 --> 00:10:37,664
+- That is correct, yes.
+
+248
+00:10:37,664 --> 00:10:38,664
+- Thank you.
+
+249
+00:10:41,117 --> 00:10:44,103
+- Board, any other comments
+or questions for the city?
+
+250
+00:10:45,450 --> 00:10:47,350
+I'm trying to find where the public...
+
+251
+00:10:49,740 --> 00:10:50,573
+I'm sorry, I thought.
+
+252
+00:10:50,573 --> 00:10:52,318
+I guess I misunderstood.
+
+253
+00:10:52,318 --> 00:10:53,967
+You're saying that-
+
+254
+00:10:53,967 --> 00:10:55,315
+(audience member speaking faintly)
+
+255
+00:10:55,315 --> 00:10:59,233
+- Okay, where can we see those comments?
+
+256
+00:10:59,233 --> 00:11:01,801
+- It's just one email
+that we received today.
+
+257
+00:11:01,801 --> 00:11:04,767
+One email that it's in the back of...
+
+258
+00:11:04,767 --> 00:11:06,380
+- We're going to read it into the record.
+
+259
+00:11:06,380 --> 00:11:07,213
+- I'm sorry, say again.
+
+260
+00:11:07,213 --> 00:11:08,705
+- We're gonna read it into the record.
+
+261
+00:11:08,705 --> 00:11:10,165
+- Okay, so we're going to hear those-
+
+262
+00:11:10,165 --> 00:11:10,998
+- Yes, yes.
+
+263
+00:11:10,998 --> 00:11:12,645
+- Comments tonight, okay.
+
+264
+00:11:12,645 --> 00:11:15,233
+- I'm going to read this into the record.
+
+265
+00:11:15,233 --> 00:11:17,710
+And this is from Lisa Gonzalez in email.
+
+266
+00:11:17,710 --> 00:11:20,040
+"In regards to the meeting today,
+
+267
+00:11:20,040 --> 00:11:22,860
+the letter was placed in
+our mailbox yesterday, 9/5,
+
+268
+00:11:22,860 --> 00:11:25,710
+and not gave us much time to plan.
+
+269
+00:11:25,710 --> 00:11:28,380
+I live in 237 Aurora Court.
+
+270
+00:11:28,380 --> 00:11:30,810
+What is an emergency egress?
+
+271
+00:11:30,810 --> 00:11:32,760
+Will our area be considered city
+
+272
+00:11:32,760 --> 00:11:35,730
+and no longer county
+when this is complete?
+
+273
+00:11:35,730 --> 00:11:38,817
+If so, are we going to have city water?"
+
+274
+00:11:40,320 --> 00:11:41,153
+I conclude that.
+
+275
+00:11:42,237 --> 00:11:43,070
+(participant speaking faintly)
+
+276
+00:11:43,070 --> 00:11:44,400
+The answer to this email...
+
+277
+00:11:46,657 --> 00:11:48,870
+"Lisa, unfortunately we
+do not have the ability
+
+278
+00:11:48,870 --> 00:11:50,730
+to control the delivery schedule
+
+279
+00:11:50,730 --> 00:11:53,460
+of the USPS regarding the notices.
+
+280
+00:11:53,460 --> 00:11:55,110
+Tonight's meeting is the,
+
+281
+00:11:55,110 --> 00:11:57,570
+it's not the final
+approval of this project.
+
+282
+00:11:57,570 --> 00:12:00,870
+The first city commission
+date has not been determined..
+
+283
+00:12:00,870 --> 00:12:03,870
+An emergency egress is
+a roadway that is used
+
+284
+00:12:03,870 --> 00:12:06,009
+for emergency services only.
+
+285
+00:12:06,009 --> 00:12:08,620
+It is not open to the
+general public to use.
+
+286
+00:12:08,620 --> 00:12:11,850
+The annexation to the city
+will only include the areas
+
+287
+00:12:11,850 --> 00:12:13,770
+highlighted within the notice.
+
+288
+00:12:13,770 --> 00:12:15,660
+It will not include your property,
+
+289
+00:12:15,660 --> 00:12:18,990
+but will include the
+adjacent 32 acre parcel
+
+290
+00:12:18,990 --> 00:12:20,790
+at the end of Aurora court.
+
+291
+00:12:20,790 --> 00:12:22,890
+The city does not provide water services.
+
+292
+00:12:22,890 --> 00:12:25,800
+Those services are provided
+by to Toho Water Authority."
+
+293
+00:12:25,800 --> 00:12:27,420
+That's the end of the email.
+
+294
+00:12:27,420 --> 00:12:28,441
+- All right, thank you.
+
+295
+00:12:28,441 --> 00:12:29,940
+- Is that the only public comment or?
+
+296
+00:12:29,940 --> 00:12:30,773
+- That is correct.
+
+297
+00:12:30,773 --> 00:12:31,606
+- Okay, thank you.
+
+298
+00:12:31,606 --> 00:12:34,530
+Is the applicant here to approach
+
+299
+00:12:34,530 --> 00:12:36,206
+and state your name and business address
+
+300
+00:12:36,206 --> 00:12:37,253
+for the record, please.
+
+301
+00:12:41,520 --> 00:12:43,590
+- Good evening, Chair, commissioners.
+
+302
+00:12:43,590 --> 00:12:45,570
+Eric Raasch with Inspired Placemaking,
+
+303
+00:12:45,570 --> 00:12:50,220
+4767 New Broad Street,
+Orlando, Florida 32814.
+
+304
+00:12:50,220 --> 00:12:53,400
+We are in agreement with
+the staff's recommendation.
+
+305
+00:12:53,400 --> 00:12:54,900
+We wanna thank staff
+who are working with us
+
+306
+00:12:54,900 --> 00:12:55,733
+on this project.
+
+307
+00:12:55,733 --> 00:12:58,350
+We've been working on
+it for over a year now.
+
+308
+00:12:58,350 --> 00:13:01,710
+I do have a presentation, if
+it would please the board.
+
+309
+00:13:01,710 --> 00:13:03,840
+Otherwise, we will be responsible
+
+310
+00:13:03,840 --> 00:13:04,950
+for answering any questions.
+
+311
+00:13:04,950 --> 00:13:06,463
+We want to reserve some time,
+
+312
+00:13:06,463 --> 00:13:08,302
+in case there are some
+comments or questions
+
+313
+00:13:08,302 --> 00:13:09,448
+that we can ask at the end.
+
+314
+00:13:09,448 --> 00:13:11,177
+- Board, do you have any
+comments or questions
+
+315
+00:13:11,177 --> 00:13:12,677
+for the applicant?
+
+316
+00:13:13,624 --> 00:13:14,457
+- If not-
+
+317
+00:13:14,457 --> 00:13:15,290
+- Yeah.
+- Go ahead, sorry.
+
+318
+00:13:15,290 --> 00:13:17,188
+- I have one, I have one.
+
+319
+00:13:17,188 --> 00:13:20,020
+Is this a long term development or what?
+
+320
+00:13:20,020 --> 00:13:20,853
+- Excuse me.
+
+321
+00:13:20,853 --> 00:13:22,020
+- Is this a long term development?
+
+322
+00:13:22,020 --> 00:13:23,610
+- Absolutely.
+
+323
+00:13:23,610 --> 00:13:25,929
+- It is. Over a period of what?
+
+324
+00:13:25,929 --> 00:13:27,079
+- Oh Chris, Chris Pulti
+
+325
+00:13:28,169 --> 00:13:30,300
+probably has the best answer to that.
+
+326
+00:13:30,300 --> 00:13:31,380
+- Eight years.
+
+327
+00:13:31,380 --> 00:13:32,400
+- Over a period of eight years?
+
+328
+00:13:32,400 --> 00:13:33,728
+- Yes, sir.
+
+329
+00:13:33,728 --> 00:13:34,737
+Eight to 10.
+
+330
+00:13:34,737 --> 00:13:37,230
+- And the city plays what part in that?
+
+331
+00:13:37,230 --> 00:13:39,750
+- So the city is responsible for reviewing
+
+332
+00:13:39,750 --> 00:13:41,700
+and granting the
+entitlements for this project
+
+333
+00:13:41,700 --> 00:13:42,834
+to move forward.
+
+334
+00:13:42,834 --> 00:13:43,710
+This is just the first step.
+
+335
+00:13:43,710 --> 00:13:46,650
+So this is the annexation and
+future land use map amendment.
+
+336
+00:13:46,650 --> 00:13:49,170
+We also have to do what's called
+a planned unit development
+
+337
+00:13:49,170 --> 00:13:50,210
+and that's where you're gonna have all
+
+338
+00:13:50,210 --> 00:13:51,810
+of the design standards.
+
+339
+00:13:51,810 --> 00:13:53,670
+You're gonna see, you know, the setbacks
+
+340
+00:13:53,670 --> 00:13:56,343
+and the general layout of the community,
+
+341
+00:13:57,180 --> 00:13:59,880
+all of our proposed
+landscaping, rights of way,
+
+342
+00:13:59,880 --> 00:14:03,360
+all of those details are
+typically provided a later date.
+
+343
+00:14:03,360 --> 00:14:04,410
+So this is the first step
+
+344
+00:14:04,410 --> 00:14:06,150
+where we're just bringing
+the southern piece,
+
+345
+00:14:06,150 --> 00:14:08,970
+which is outlined in red, into the city,
+
+346
+00:14:08,970 --> 00:14:11,350
+and then assigning a city
+land use designation,
+
+347
+00:14:11,350 --> 00:14:13,623
+which is required to have by state law.
+
+348
+00:14:14,940 --> 00:14:16,410
+- I have suggestions.
+
+349
+00:14:16,410 --> 00:14:17,243
+Since you have a-
+
+350
+00:14:17,243 --> 00:14:18,076
+- Hold on, Robert.
+
+351
+00:14:18,076 --> 00:14:19,440
+I'm sorry, Robert's Rules.
+
+352
+00:14:19,440 --> 00:14:20,880
+I'll go to the next person
+and come back to you.
+
+353
+00:14:20,880 --> 00:14:21,713
+- Okay.
+
+354
+00:14:21,713 --> 00:14:22,546
+- Alex, go ahead.
+
+355
+00:14:22,546 --> 00:14:25,320
+- I mean, I concede my question.
+
+356
+00:14:25,320 --> 00:14:28,170
+I'll let Robert follow up
+and then I'll wait my turn.
+
+357
+00:14:28,170 --> 00:14:29,220
+How about that?
+
+358
+00:14:29,220 --> 00:14:30,053
+- Okay.
+
+359
+00:14:30,053 --> 00:14:34,050
+- Since your development is
+over an eight-year period,
+
+360
+00:14:34,050 --> 00:14:37,140
+what stages do you
+intend to develop it in?
+
+361
+00:14:37,140 --> 00:14:39,280
+- So the plan now is to phase it
+
+362
+00:14:40,200 --> 00:14:42,120
+and we haven't worked
+through all the details
+
+363
+00:14:42,120 --> 00:14:45,360
+on the phasing plan yet and
+which phases will go first.
+
+364
+00:14:45,360 --> 00:14:47,130
+But I think it's safe to assume
+
+365
+00:14:47,130 --> 00:14:49,830
+that it'll come off
+Simpson Road and then go
+
+366
+00:14:49,830 --> 00:14:52,113
+from the west to the east.
+
+367
+00:14:55,270 --> 00:14:57,600
+- So if you develop it by stages,
+
+368
+00:14:57,600 --> 00:14:59,580
+you're going to have it open and available
+
+369
+00:14:59,580 --> 00:15:02,880
+to the public per stages
+then, is that correct?
+
+370
+00:15:02,880 --> 00:15:03,713
+- That's right.
+
+371
+00:15:03,713 --> 00:15:06,450
+And yeah, I'll just add
+that each phase has to stand
+
+372
+00:15:06,450 --> 00:15:07,283
+on its own.
+
+373
+00:15:07,283 --> 00:15:08,190
+So all the infrastructure
+
+374
+00:15:08,190 --> 00:15:10,410
+within each phase has
+to be there to support
+
+375
+00:15:10,410 --> 00:15:11,760
+whatever happens in that phase.
+
+376
+00:15:11,760 --> 00:15:14,340
+You can't just put a bunch
+of units in one phase
+
+377
+00:15:14,340 --> 00:15:16,530
+and then not build the roads, or not build
+
+378
+00:15:16,530 --> 00:15:18,570
+the required wastewater infrastructure.
+
+379
+00:15:18,570 --> 00:15:20,640
+So each phase will stand alone.
+
+380
+00:15:20,640 --> 00:15:23,250
+- And what if you fall behind a stage?
+
+381
+00:15:23,250 --> 00:15:25,350
+- I mean, the infrastructure
+has to be in place
+
+382
+00:15:25,350 --> 00:15:27,870
+to support the development
+and I'm sure the city,
+
+383
+00:15:27,870 --> 00:15:28,740
+I'm not gonna speculate,
+
+384
+00:15:28,740 --> 00:15:31,530
+but I'm sure they would
+not permit us to go beyond
+
+385
+00:15:31,530 --> 00:15:33,130
+what infrastructure would allow.
+
+386
+00:15:35,610 --> 00:15:37,849
+- And you intend to put
+how many units in there?
+
+387
+00:15:37,849 --> 00:15:38,932
+- 3000 units.
+
+388
+00:15:42,870 --> 00:15:43,703
+- Thank you.
+
+389
+00:15:43,703 --> 00:15:44,562
+- Yes, sir.
+
+390
+00:15:44,562 --> 00:15:45,550
+- Alex?
+
+391
+00:15:45,550 --> 00:15:48,304
+- So, I think he said
+he has a presentation.
+
+392
+00:15:48,304 --> 00:15:51,927
+I guess I'd be somewhat
+interested in seeing it.
+
+393
+00:15:51,927 --> 00:15:54,363
+So I guess I will move to...
+
+394
+00:15:54,363 --> 00:15:56,633
+Will it require me to
+move to subset the rules
+
+395
+00:15:56,633 --> 00:15:57,545
+to see the presentation,
+
+396
+00:15:57,545 --> 00:16:00,721
+or can we just agree to
+see the presentation, or...
+
+397
+00:16:00,721 --> 00:16:02,971
+- To, I'm not clear what...
+
+398
+00:16:05,493 --> 00:16:07,620
+- I guess I would like to
+put it before the board
+
+399
+00:16:07,620 --> 00:16:09,960
+that we could decide collectively
+
+400
+00:16:09,960 --> 00:16:12,872
+to see the presentation
+that the developer has.
+
+401
+00:16:12,872 --> 00:16:14,429
+- You can ask for that, sure.
+
+402
+00:16:14,429 --> 00:16:16,882
+- All right, could we
+see the presentation?
+
+403
+00:16:16,882 --> 00:16:17,715
+- Sure.
+
+404
+00:16:17,715 --> 00:16:18,548
+- Alright.
+
+405
+00:16:18,548 --> 00:16:19,631
+- Does the board concur?
+
+406
+00:16:19,631 --> 00:16:22,050
+- Also just keep in mind that, before you,
+
+407
+00:16:22,050 --> 00:16:24,109
+what you're voting on is the annexation,
+
+408
+00:16:24,109 --> 00:16:25,980
+not any details of this project.
+
+409
+00:16:25,980 --> 00:16:28,672
+- Not the actual project in front of you.
+
+410
+00:16:28,672 --> 00:16:30,213
+- Just to be clear.
+
+411
+00:16:30,213 --> 00:16:31,046
+- It's informative
+
+412
+00:16:31,046 --> 00:16:34,313
+but this is not what you
+should be considering per se.
+
+413
+00:16:34,313 --> 00:16:38,121
+Just does this meet the
+standards for annexation?
+
+414
+00:16:38,121 --> 00:16:38,954
+- Understood.
+
+415
+00:16:38,954 --> 00:16:40,590
+This is a very limited
+thing that we're doing.
+
+416
+00:16:40,590 --> 00:16:42,180
+It belongs to the county right now,
+
+417
+00:16:42,180 --> 00:16:44,632
+not the city, just to
+clarify for everyone.
+
+418
+00:16:44,632 --> 00:16:48,060
+And what we're doing here is agreeing,
+
+419
+00:16:48,060 --> 00:16:51,089
+seeing if we want agree that
+the city would annex that,
+
+420
+00:16:51,089 --> 00:16:51,922
+and that's it.
+
+421
+00:16:51,922 --> 00:16:54,900
+- And this is a voluntary annexation.
+
+422
+00:16:54,900 --> 00:16:57,620
+- Okay, so that's the scope of this,
+
+423
+00:16:57,620 --> 00:16:59,640
+is just, will it be
+part of the city or not?
+
+424
+00:16:59,640 --> 00:17:02,370
+Not whether we like the project,
+
+425
+00:17:02,370 --> 00:17:05,670
+the roads, the lights, any
+of that, just that piece.
+
+426
+00:17:05,670 --> 00:17:08,940
+So that is our responsibility
+and our only authority
+
+427
+00:17:08,940 --> 00:17:09,960
+with regard to this.
+
+428
+00:17:09,960 --> 00:17:11,580
+Just wanna be clear.
+
+429
+00:17:11,580 --> 00:17:12,633
+Okay. That said.
+
+430
+00:17:13,560 --> 00:17:15,215
+All right, and thank you again
+
+431
+00:17:15,215 --> 00:17:17,829
+for the opportunity to
+present this to you.
+
+432
+00:17:17,829 --> 00:17:19,170
+You know, we're all very proud of it
+
+433
+00:17:19,170 --> 00:17:20,937
+and a lot of work's gone into it, so.
+
+434
+00:17:20,937 --> 00:17:23,640
+And I know this is a pretty large project
+
+435
+00:17:23,640 --> 00:17:26,100
+and it's likely to garner
+some public interest.
+
+436
+00:17:26,100 --> 00:17:28,290
+So we're really glad to
+be able to explain it
+
+437
+00:17:28,290 --> 00:17:29,123
+a little bit more
+
+438
+00:17:29,123 --> 00:17:30,770
+before you vote on your annexation.
+
+439
+00:17:32,337 --> 00:17:34,770
+So, I'll run through the location.
+
+440
+00:17:34,770 --> 00:17:36,840
+I'll talk about the
+vision for the property.
+
+441
+00:17:36,840 --> 00:17:40,469
+We'll talk about what we're
+here to debate tonight,
+
+442
+00:17:40,469 --> 00:17:41,302
+which is the annexation
+
+443
+00:17:41,302 --> 00:17:42,510
+and the future land use map amendment.
+
+444
+00:17:42,510 --> 00:17:44,550
+We'll run through some
+compatibility measures
+
+445
+00:17:44,550 --> 00:17:46,943
+for the project, and then
+I'll wrap up with a summary.
+
+446
+00:17:47,910 --> 00:17:52,380
+So as staff mentioned, this
+project east of Simpson Road.
+
+447
+00:17:52,380 --> 00:17:54,964
+It's on the northwest side of Lake Toho.
+
+448
+00:17:54,964 --> 00:17:56,190
+It's the east lake.
+
+449
+00:17:56,190 --> 00:17:59,253
+The total project is 883 acres in size.
+
+450
+00:18:00,120 --> 00:18:03,210
+And we're proposing to
+annex 556 of those acres
+
+451
+00:18:03,210 --> 00:18:04,560
+in from Osceola County,
+
+452
+00:18:04,560 --> 00:18:06,270
+They're currently unincorporated.
+
+453
+00:18:06,270 --> 00:18:08,220
+The piece from the north
+has already been annexed
+
+454
+00:18:08,220 --> 00:18:10,380
+into the city and is
+within the jurisdiction
+
+455
+00:18:10,380 --> 00:18:12,780
+of the City of Kissimmee.
+
+456
+00:18:12,780 --> 00:18:14,940
+This is our conceptual vision plan,
+
+457
+00:18:14,940 --> 00:18:16,710
+and typically you don't see this
+
+458
+00:18:16,710 --> 00:18:18,777
+until much later in the process,
+
+459
+00:18:18,777 --> 00:18:20,220
+but you know,
+
+460
+00:18:20,220 --> 00:18:22,440
+we're running a lot of things
+concurrent in this project.
+
+461
+00:18:22,440 --> 00:18:25,740
+So this is proposed to
+be a mixed use community.
+
+462
+00:18:25,740 --> 00:18:27,780
+You would have 3000 dwelling units,
+
+463
+00:18:27,780 --> 00:18:29,430
+many of which would be single family,
+
+464
+00:18:29,430 --> 00:18:33,450
+which were located on the
+east side of the site,
+
+465
+00:18:33,450 --> 00:18:34,830
+as you can see.
+
+466
+00:18:34,830 --> 00:18:37,710
+We're proposing 190,000 square
+feet of non-residential,
+
+467
+00:18:37,710 --> 00:18:40,050
+and that would be in the
+form of a mixed-use center,
+
+468
+00:18:40,050 --> 00:18:42,060
+which you'll see on the
+frontage of Simpson Road.
+
+469
+00:18:42,060 --> 00:18:44,970
+So the commercial component
+of it is really focused
+
+470
+00:18:44,970 --> 00:18:45,840
+on the frontage,
+
+471
+00:18:45,840 --> 00:18:48,720
+and then the residential
+would be behind that.
+
+472
+00:18:48,720 --> 00:18:51,180
+We're proposing conservation
+along the lakefront.
+
+473
+00:18:51,180 --> 00:18:53,910
+We know that the lake's
+really a primary amenity
+
+474
+00:18:53,910 --> 00:18:54,743
+through this project,
+
+475
+00:18:54,743 --> 00:18:55,620
+and I'll talk a little bit about a rec
+
+476
+00:18:55,620 --> 00:18:57,960
+and open space plan in a moment,
+
+477
+00:18:57,960 --> 00:18:59,310
+but we're also really cognizant
+
+478
+00:18:59,310 --> 00:19:02,550
+of the residential
+immediately to the west.
+
+479
+00:19:02,550 --> 00:19:05,130
+And so all those arrows that you see going
+
+480
+00:19:05,130 --> 00:19:07,080
+into the existing
+residential neighborhood,
+
+481
+00:19:07,080 --> 00:19:08,880
+those are proposed to be
+emergency access only,
+
+482
+00:19:08,880 --> 00:19:10,020
+and as staff's explained,
+
+483
+00:19:10,020 --> 00:19:13,023
+those would be stabilized, sodded, gated,
+
+484
+00:19:14,226 --> 00:19:16,280
+just to allow access for fire to get in
+
+485
+00:19:16,280 --> 00:19:17,430
+in case anything happens.
+
+486
+00:19:17,430 --> 00:19:19,741
+Our primary access is off Simpson Road.
+
+487
+00:19:19,741 --> 00:19:20,574
+You can see it to the north,
+
+488
+00:19:20,574 --> 00:19:22,930
+just south of phase two with
+the mixed-use community.
+
+489
+00:19:24,480 --> 00:19:27,060
+So in terms of rec and trails,
+
+490
+00:19:27,060 --> 00:19:28,890
+we're really proposing
+an interconnected system
+
+491
+00:19:28,890 --> 00:19:30,210
+of open space.
+
+492
+00:19:30,210 --> 00:19:32,040
+You can see the trail network will run
+
+493
+00:19:32,040 --> 00:19:34,860
+throughout the community
+and provide that access
+
+494
+00:19:34,860 --> 00:19:37,950
+to the area that we're
+preserving along the lake edge.
+
+495
+00:19:37,950 --> 00:19:41,730
+We've got a number of smaller
+parks centrally located
+
+496
+00:19:41,730 --> 00:19:43,440
+within the community to allow for
+
+497
+00:19:43,440 --> 00:19:44,550
+what's called a mused product.
+
+498
+00:19:44,550 --> 00:19:46,980
+This is an example of
+that on the bottom hand
+
+499
+00:19:46,980 --> 00:19:47,813
+of the screen there.
+
+500
+00:19:47,813 --> 00:19:48,810
+That's in Baldwin Park.
+
+501
+00:19:48,810 --> 00:19:51,840
+You can see the unit front
+on the central open space,
+
+502
+00:19:51,840 --> 00:19:53,430
+which allows for a sense of community
+
+503
+00:19:53,430 --> 00:19:55,623
+and allows for folks to gather.
+
+504
+00:19:56,490 --> 00:19:59,820
+Those units are accessed
+to an alley in the rear.
+
+505
+00:19:59,820 --> 00:20:01,816
+So we're proposing the preservation
+
+506
+00:20:01,816 --> 00:20:03,690
+of the East Lake Toho shoreline.
+
+507
+00:20:03,690 --> 00:20:06,390
+We've got a buffer from the
+single family to the west,
+
+508
+00:20:07,462 --> 00:20:09,120
+and tree preservation's a big deal.
+
+509
+00:20:09,120 --> 00:20:11,580
+There are some really
+beautiful old growth oak trees
+
+510
+00:20:11,580 --> 00:20:14,040
+on the site and we've
+been fortunate enough
+
+511
+00:20:14,040 --> 00:20:17,790
+to appreciate and try to
+match a plan around those.
+
+512
+00:20:17,790 --> 00:20:19,290
+So that's something that'll be forthcoming
+
+513
+00:20:19,290 --> 00:20:21,780
+on our future submittal.
+
+514
+00:20:21,780 --> 00:20:24,600
+In terms of access, this
+is our road exhibit.
+
+515
+00:20:24,600 --> 00:20:27,420
+We've got, as mentioned,
+the interconnected system
+
+516
+00:20:27,420 --> 00:20:30,205
+of streets, alleys and
+private drive aisles.
+
+517
+00:20:30,205 --> 00:20:33,243
+We're proposing some emergency
+access only to the west.
+
+518
+00:20:34,230 --> 00:20:35,460
+These are just a couple renderings
+
+519
+00:20:35,460 --> 00:20:39,120
+of what would happen
+in the mixed use area.
+
+520
+00:20:39,120 --> 00:20:42,120
+You can see that there's a
+number of different uses here.
+
+521
+00:20:42,120 --> 00:20:45,210
+You've got a central green
+space around the tree
+
+522
+00:20:45,210 --> 00:20:47,460
+that's proposed to be preserved.
+
+523
+00:20:47,460 --> 00:20:51,567
+You've got some multi family
+on one side of the road
+
+524
+00:20:51,567 --> 00:20:53,310
+and then you've got
+walkable pedestrian urbanism
+
+525
+00:20:53,310 --> 00:20:54,143
+on the other.
+
+526
+00:20:54,143 --> 00:20:56,190
+So really trying to create a destination,
+
+527
+00:20:56,190 --> 00:20:58,350
+not just for the folks who
+live within this community
+
+528
+00:20:58,350 --> 00:21:00,453
+but for the folks in Kissimmee as a whole.
+
+529
+00:21:01,890 --> 00:21:03,750
+This is just another perspective
+
+530
+00:21:03,750 --> 00:21:07,440
+of how the mixed use area would look.
+
+531
+00:21:07,440 --> 00:21:11,280
+This is looking towards
+East Lake Toho from Simpson,
+
+532
+00:21:11,280 --> 00:21:13,141
+and you can see the proposed multi-family
+
+533
+00:21:13,141 --> 00:21:15,741
+in the back with the mixed
+use area on the frontage.
+
+534
+00:21:16,710 --> 00:21:18,210
+So what we're here to
+talk about tonight is
+
+535
+00:21:18,210 --> 00:21:20,640
+just the annexation and the
+future land use map amendment.
+
+536
+00:21:20,640 --> 00:21:22,620
+This is the annexed area.
+
+537
+00:21:22,620 --> 00:21:23,850
+It's a pretty straightforward request,
+
+538
+00:21:23,850 --> 00:21:26,190
+556 acres going from Osceola County
+
+539
+00:21:26,190 --> 00:21:28,080
+to the City to Kissimmee.
+
+540
+00:21:28,080 --> 00:21:29,040
+And then we're also requesting
+
+541
+00:21:29,040 --> 00:21:30,480
+a future land use map amendment,
+
+542
+00:21:30,480 --> 00:21:34,230
+and that's a required map by the state.
+
+543
+00:21:34,230 --> 00:21:37,380
+You have to have a future
+land use map designation.
+
+544
+00:21:37,380 --> 00:21:40,440
+Currently got a number
+of different designations
+
+545
+00:21:40,440 --> 00:21:42,540
+and a lot of acronyms here.
+
+546
+00:21:42,540 --> 00:21:46,403
+But suffice it to say, the
+portion in Osceola County,
+
+547
+00:21:46,403 --> 00:21:48,210
+you can see here on this chart,
+
+548
+00:21:48,210 --> 00:21:51,990
+has a low density residential
+future land use designation.
+
+549
+00:21:51,990 --> 00:21:53,950
+And Osceola's density for that is
+
+550
+00:21:53,950 --> 00:21:56,160
+up to eight dwelling units per acre.
+
+551
+00:21:56,160 --> 00:21:58,950
+So if we multiply out what
+we could do in Kissimmee,
+
+552
+00:21:58,950 --> 00:22:01,920
+what we can do under that
+designation in Osceola,
+
+553
+00:22:01,920 --> 00:22:05,220
+we could potentially get it
+almost 5,500 dwelling units
+
+554
+00:22:05,220 --> 00:22:08,520
+on the site under the
+existing future land use.
+
+555
+00:22:08,520 --> 00:22:10,020
+Don't want to do that,
+
+556
+00:22:10,020 --> 00:22:12,750
+want to be fully within
+the City of Kissimmee.
+
+557
+00:22:12,750 --> 00:22:15,240
+So that actually results in a decrease
+
+558
+00:22:15,240 --> 00:22:17,850
+of 2,493 dwelling units
+
+559
+00:22:17,850 --> 00:22:19,590
+for what would otherwise be allowed
+
+560
+00:22:19,590 --> 00:22:21,030
+if we went through the county.
+
+561
+00:22:21,030 --> 00:22:22,950
+We're also adding 190,000 square feet
+
+562
+00:22:22,950 --> 00:22:25,600
+of non-residential to support
+those residential uses.
+
+563
+00:22:27,990 --> 00:22:29,493
+In terms of compatibility,
+
+564
+00:22:30,330 --> 00:22:31,580
+we're trying to be respectful
+
+565
+00:22:31,580 --> 00:22:35,040
+of the residential area
+immediately to the west.
+
+566
+00:22:35,040 --> 00:22:37,680
+We oriented the non-residential
+towards Simpson.
+
+567
+00:22:37,680 --> 00:22:39,690
+We're proposing the preservation
+of those waterfronts
+
+568
+00:22:39,690 --> 00:22:41,130
+and wetlands,
+
+569
+00:22:41,130 --> 00:22:43,830
+and we're not proposing any direct access
+
+570
+00:22:43,830 --> 00:22:47,890
+other than emergency to the
+residential that's existing.
+
+571
+00:22:47,890 --> 00:22:48,900
+So in summary,
+
+572
+00:22:48,900 --> 00:22:50,340
+we're really proposing a signature,
+
+573
+00:22:50,340 --> 00:22:52,653
+mixed-use destination
+project for the city.
+
+574
+00:22:53,580 --> 00:22:55,950
+A lot has gone into the
+vision and master planning.
+
+575
+00:22:55,950 --> 00:22:58,500
+You know, it's got three or
+four different design firms
+
+576
+00:22:58,500 --> 00:23:00,563
+who've been working on this.
+
+577
+00:23:00,563 --> 00:23:02,664
+We're only considering the annexation
+
+578
+00:23:02,664 --> 00:23:03,497
+and future land use map at this time.
+
+579
+00:23:03,497 --> 00:23:04,803
+The PUD will come later,
+
+580
+00:23:05,700 --> 00:23:07,950
+and we feel it's compatible
+
+581
+00:23:07,950 --> 00:23:10,550
+with the surrounding area and
+consistent with the comp plan.
+
+582
+00:23:10,550 --> 00:23:12,630
+So that's gonna conclude
+my formal presentation
+
+583
+00:23:12,630 --> 00:23:14,670
+and our whole team's here for questions.
+
+584
+00:23:14,670 --> 00:23:15,938
+Thank you.
+
+585
+00:23:15,938 --> 00:23:17,603
+- Okay, board, any
+questions based on this?
+
+586
+00:23:18,510 --> 00:23:20,340
+If not, we'll open up to any comments
+
+587
+00:23:20,340 --> 00:23:21,682
+from the public.
+
+588
+00:23:21,682 --> 00:23:24,390
+Would anyone from the public
+please step to the microphone.
+
+589
+00:23:24,390 --> 00:23:26,010
+State your name and
+address for the record.
+
+590
+00:23:26,010 --> 00:23:26,850
+You'll have three minutes.
+
+591
+00:23:26,850 --> 00:23:28,356
+We'll get to one at at time.
+
+592
+00:23:28,356 --> 00:23:29,331
+Please, I'm sorry, sir.
+
+593
+00:23:29,331 --> 00:23:30,421
+Sir, I saw the...
+
+594
+00:23:30,421 --> 00:23:32,648
+Oh, okay, I just saw your hand up first.
+
+595
+00:23:32,648 --> 00:23:34,821
+So wanna go in order.
+
+596
+00:23:34,821 --> 00:23:35,854
+That's totally fine.
+
+597
+00:23:35,854 --> 00:23:38,113
+I just saw her hand up first, so.
+
+598
+00:23:38,113 --> 00:23:40,024
+Go right ahead.
+
+599
+00:23:40,024 --> 00:23:41,940
+State your name and address
+for the record, please.
+
+600
+00:23:41,940 --> 00:23:42,934
+You'll have three minutes.
+
+601
+00:23:42,934 --> 00:23:45,269
+- My name is Tony Samota and I live
+
+602
+00:23:45,269 --> 00:23:48,436
+at 1730 Lee Janzen Drive in Kissimmee.
+
+603
+00:23:50,027 --> 00:23:51,670
+It was a great presentation
+
+604
+00:23:52,860 --> 00:23:54,900
+but I also live just south.
+
+605
+00:23:54,900 --> 00:23:58,740
+I appreciated the applicant's
+desire to make sure
+
+606
+00:23:58,740 --> 00:24:01,537
+that the residents on the
+west side were taken care of.
+
+607
+00:24:01,537 --> 00:24:04,230
+But those of us to the south that live
+
+608
+00:24:04,230 --> 00:24:07,920
+in Kissimmee Bay also has some concerns
+
+609
+00:24:07,920 --> 00:24:10,503
+because after Hurricane Ian,
+
+610
+00:24:10,503 --> 00:24:12,059
+our neighborhood flooded
+
+611
+00:24:12,059 --> 00:24:15,060
+and we have flood water in
+our neighborhood for days.
+
+612
+00:24:15,060 --> 00:24:18,720
+And so there is Oxbow
+Pond which is just south
+
+613
+00:24:18,720 --> 00:24:20,340
+of this site,
+
+614
+00:24:20,340 --> 00:24:24,562
+and I'm concerned as
+to go on the record of,
+
+615
+00:24:24,562 --> 00:24:28,080
+in terms of runoff and still
+in terms of our neighborhood,
+
+616
+00:24:28,080 --> 00:24:30,623
+because we definitely
+have had to deal lately
+
+617
+00:24:30,623 --> 00:24:34,140
+with water and flooding in our area.
+
+618
+00:24:34,140 --> 00:24:38,463
+So, I know this meeting isn't
+about the final part of it,
+
+619
+00:24:39,448 --> 00:24:41,838
+but I just wanted to be
+on the record to say,
+
+620
+00:24:41,838 --> 00:24:44,146
+those of us to the
+south are very concerned
+
+621
+00:24:44,146 --> 00:24:47,520
+that this development
+would add to the problems
+
+622
+00:24:47,520 --> 00:24:49,350
+with flooding in our neighborhood.
+
+623
+00:24:49,350 --> 00:24:50,183
+Thank you.
+
+624
+00:24:50,183 --> 00:24:51,270
+- Thank you.
+
+625
+00:24:51,270 --> 00:24:54,510
+Next up, please step to the microphone.
+
+626
+00:24:54,510 --> 00:24:55,710
+State your name and
+address for the record.
+
+627
+00:24:55,710 --> 00:24:56,993
+You'll have three minutes.
+
+628
+00:24:57,960 --> 00:24:59,310
+- Hi, so I'm Lisa Gonzalez.
+
+629
+00:24:59,310 --> 00:25:00,300
+I was the one that sent the email,
+
+630
+00:25:00,300 --> 00:25:02,220
+so thank you for responding.
+
+631
+00:25:02,220 --> 00:25:04,380
+So I'm actually on the west side,
+
+632
+00:25:04,380 --> 00:25:06,480
+so really on the bottom part.
+
+633
+00:25:06,480 --> 00:25:08,020
+- I'm sorry, did you state your address?
+
+634
+00:25:08,020 --> 00:25:10,087
+- 2372 Aurora Court.
+
+635
+00:25:10,087 --> 00:25:10,920
+- Thanks.
+
+636
+00:25:10,920 --> 00:25:13,953
+- So I'm right there, right
+on the corner, left side.
+
+637
+00:25:14,790 --> 00:25:17,610
+So the question about
+the emergency egress,
+
+638
+00:25:17,610 --> 00:25:20,193
+that was already answered, so that's good.
+
+639
+00:25:21,750 --> 00:25:24,480
+So really what I'm
+concerned about right now,
+
+640
+00:25:24,480 --> 00:25:26,190
+not only the flooding as well,
+
+641
+00:25:26,190 --> 00:25:27,895
+like the gentleman over here just said,
+
+642
+00:25:27,895 --> 00:25:31,080
+but also if we're county in the middle
+
+643
+00:25:31,080 --> 00:25:33,693
+and then this site becomes city,
+
+644
+00:25:33,693 --> 00:25:36,363
+does that affect us in any way?
+
+645
+00:25:38,583 --> 00:25:39,416
+I'm not sure if this is
+the right forum or not.
+
+646
+00:25:39,416 --> 00:25:40,249
+- Just to explain,
+
+647
+00:25:40,249 --> 00:25:41,910
+this is your time to make
+your comments, whatever,
+
+648
+00:25:41,910 --> 00:25:42,840
+and then we'll discuss.
+
+649
+00:25:42,840 --> 00:25:44,400
+If we have questions
+based on your comments,
+
+650
+00:25:44,400 --> 00:25:45,233
+we can address the city
+
+651
+00:25:45,233 --> 00:25:46,530
+but this is your time to-
+
+652
+00:25:46,530 --> 00:25:49,260
+- Yeah, that's really
+my concern right now,
+
+653
+00:25:49,260 --> 00:25:52,173
+besides the emergency
+exits and things like that.
+
+654
+00:25:53,289 --> 00:25:54,180
+- Okay, thank you.
+
+655
+00:25:54,180 --> 00:25:55,560
+Do we have other public comments.
+
+656
+00:25:55,560 --> 00:25:57,000
+Yes, sir, just step to
+the microphone please.
+
+657
+00:25:57,000 --> 00:25:58,170
+State your name and your address.
+
+658
+00:25:58,170 --> 00:25:59,470
+You'll have three minutes.
+
+659
+00:26:02,670 --> 00:26:05,065
+I don't, I don't know.
+
+660
+00:26:05,065 --> 00:26:08,982
+(participant faintly speaking)
+
+661
+00:26:11,165 --> 00:26:12,360
+- Makes it kind of difficult.
+
+662
+00:26:12,360 --> 00:26:14,021
+Looks small, doesn't it?
+
+663
+00:26:14,021 --> 00:26:16,082
+Nice presentation, though, by the way.
+
+664
+00:26:16,082 --> 00:26:18,190
+It looks kind of small,
+but it's a huge area,
+
+665
+00:26:18,190 --> 00:26:21,510
+an area that I've lived in for a long time
+
+666
+00:26:21,510 --> 00:26:22,674
+and I can't direct anything.
+
+667
+00:26:22,674 --> 00:26:23,507
+- What's your address, sir?
+
+668
+00:26:23,507 --> 00:26:24,707
+Your name and your address.
+
+669
+00:26:24,707 --> 00:26:25,745
+- My name is Thomas Vossick.
+
+670
+00:26:25,745 --> 00:26:27,900
+I live in 2620 Cahokia Court,
+
+671
+00:26:27,900 --> 00:26:32,064
+which is again, I could
+point out in the region,
+
+672
+00:26:32,064 --> 00:26:35,731
+but you see where the
+Hilliard Isle Road is,
+
+673
+00:26:36,900 --> 00:26:38,880
+that's what I'll be referring to
+
+674
+00:26:38,880 --> 00:26:42,347
+when I use up my three
+minutes here in a moment.
+
+675
+00:26:47,152 --> 00:26:48,729
+If she can.
+
+676
+00:26:48,729 --> 00:26:49,950
+If she can't, I'll go ahead.
+
+677
+00:26:49,950 --> 00:26:53,607
+But thank you for letting
+speak this evening.
+
+678
+00:26:53,607 --> 00:26:57,240
+You know where the Hilliard
+Isle project is being located.
+
+679
+00:26:57,240 --> 00:26:59,610
+Some of you have lived
+here for a long time,
+
+680
+00:26:59,610 --> 00:27:01,593
+maybe most of your lives, like myself,
+
+681
+00:27:02,640 --> 00:27:05,700
+and as you discuss this
+develop in this rural area,
+
+682
+00:27:05,700 --> 00:27:07,100
+please consider these facts.
+
+683
+00:27:08,190 --> 00:27:13,190
+Hilliard Isle is a short,
+barely two lane, country road.
+
+684
+00:27:15,090 --> 00:27:16,770
+It is a county road,
+
+685
+00:27:16,770 --> 00:27:19,530
+but it's our only access to Simpson Road
+
+686
+00:27:19,530 --> 00:27:21,120
+and out of our neighborhoods.
+
+687
+00:27:21,120 --> 00:27:25,380
+So these homes directly to the west are
+
+688
+00:27:25,380 --> 00:27:26,480
+what I'm referring to.
+
+689
+00:27:28,955 --> 00:27:31,650
+Looks like they've almost got it here.
+
+690
+00:27:31,650 --> 00:27:34,200
+It's already dangerously congested
+
+691
+00:27:34,200 --> 00:27:36,780
+and it's not signalized at Hilliard Isle
+
+692
+00:27:36,780 --> 00:27:38,430
+when we exit out onto Simpson Road,
+
+693
+00:27:38,430 --> 00:27:40,950
+which was previously Bobby Creek.
+
+694
+00:27:40,950 --> 00:27:42,780
+The city council previously approved
+
+695
+00:27:42,780 --> 00:27:46,620
+a multi-family development
+in 2023 on Hilliard Isle.
+
+696
+00:27:46,620 --> 00:27:48,060
+I don't know if you're aware of that,
+
+697
+00:27:48,060 --> 00:27:50,051
+or if you're keeping that in mind
+
+698
+00:27:50,051 --> 00:27:51,630
+when you consider this development,
+
+699
+00:27:51,630 --> 00:27:54,570
+which will add an additional
+300 cars on the road
+
+700
+00:27:54,570 --> 00:27:57,187
+and it's not yet started construction.
+
+701
+00:27:58,860 --> 00:28:00,855
+Where is that located?
+
+702
+00:28:00,855 --> 00:28:04,143
+In that area just above the word Hilliard.
+
+703
+00:28:05,496 --> 00:28:09,453
+That's where that development is going in.
+
+704
+00:28:09,453 --> 00:28:11,970
+It's not yet started construction.
+
+705
+00:28:11,970 --> 00:28:14,190
+Today's proposed development
+would force thousands
+
+706
+00:28:14,190 --> 00:28:16,500
+of extra vehicles onto Hilliard Isle,
+
+707
+00:28:16,500 --> 00:28:18,930
+this narrow country road.
+
+708
+00:28:18,930 --> 00:28:22,450
+This area has gone through the county
+
+709
+00:28:22,450 --> 00:28:25,200
+and through the city multiple times
+
+710
+00:28:25,200 --> 00:28:27,120
+and we've been told different things
+
+711
+00:28:27,120 --> 00:28:29,910
+through those different evolutions.
+
+712
+00:28:29,910 --> 00:28:32,810
+But these people that
+are living miles down
+
+713
+00:28:32,810 --> 00:28:35,670
+in the subject site are
+not going to drive three
+
+714
+00:28:35,670 --> 00:28:37,050
+or four miles up
+
+715
+00:28:37,050 --> 00:28:38,760
+through the other proposed development
+
+716
+00:28:38,760 --> 00:28:41,699
+that's north of it to
+go out to Simpson Road.
+
+717
+00:28:41,699 --> 00:28:43,340
+We've always been told,
+
+718
+00:28:43,340 --> 00:28:44,940
+and this is the first time that I've heard
+
+719
+00:28:44,940 --> 00:28:48,840
+and I've lived in my home
+there for almost 27 years,
+
+720
+00:28:48,840 --> 00:28:50,587
+this is the first time we've been told,
+
+721
+00:28:50,587 --> 00:28:52,860
+"Hilliard Isle won't be used."
+
+722
+00:28:52,860 --> 00:28:54,113
+Can't get it to get up there?
+
+723
+00:28:57,454 --> 00:28:58,770
+Hilliard Isle is the only road
+
+724
+00:28:58,770 --> 00:29:00,840
+that goes all the way into that section.
+
+725
+00:29:00,840 --> 00:29:03,720
+There are no other roads
+that go into that area.
+
+726
+00:29:03,720 --> 00:29:06,270
+It starts on Simpson and
+goes straight through
+
+727
+00:29:06,270 --> 00:29:08,340
+and it dead ends right there.
+
+728
+00:29:08,340 --> 00:29:09,810
+Anything that's constructed,
+
+729
+00:29:09,810 --> 00:29:12,300
+all of the construction vehicles,
+anything that's happening,
+
+730
+00:29:12,300 --> 00:29:14,520
+will be going up and down
+our little country road,
+
+731
+00:29:14,520 --> 00:29:17,320
+and if you've live here, you
+know what I'm referring to.
+
+732
+00:29:19,347 --> 00:29:20,280
+They assured,
+
+733
+00:29:20,280 --> 00:29:24,603
+the city council assured our
+community in February of 2023,
+
+734
+00:29:24,603 --> 00:29:26,070
+that the Simpson Road
+construction improvements
+
+735
+00:29:26,070 --> 00:29:28,560
+would be completed by August of 2024.
+
+736
+00:29:28,560 --> 00:29:31,110
+As you know in that
+area, they're not begun.
+
+737
+00:29:31,110 --> 00:29:34,290
+Those improvements have
+not only been not begun,
+
+738
+00:29:34,290 --> 00:29:36,390
+but they're nowhere near our area.
+
+739
+00:29:36,390 --> 00:29:39,780
+They're struggling with that
+north end of Bobby Creek.
+
+740
+00:29:39,780 --> 00:29:42,510
+The infrastructure was not
+in place then, nor is it now.
+
+741
+00:29:42,510 --> 00:29:44,370
+Road construction is already years
+
+742
+00:29:44,370 --> 00:29:46,290
+behind construction schedule.
+
+743
+00:29:46,290 --> 00:29:49,112
+Massive funding shortages
+are just one of those issues
+
+744
+00:29:49,112 --> 00:29:50,580
+for those delays.
+
+745
+00:29:50,580 --> 00:29:52,480
+This isn't a race, it's not about,
+
+746
+00:29:52,480 --> 00:29:55,311
+it's not about the need for low, middle,
+
+747
+00:29:55,311 --> 00:29:57,390
+or high income housing at this moment.
+
+748
+00:29:57,390 --> 00:29:59,130
+This is about repeatedly rushing ahead
+
+749
+00:29:59,130 --> 00:30:01,260
+without considering the
+long-term consequences
+
+750
+00:30:01,260 --> 00:30:02,767
+on the existing area.
+
+751
+00:30:02,767 --> 00:30:04,821
+We have to do better than that.
+
+752
+00:30:04,821 --> 00:30:06,389
+I'm aware of the state,
+
+753
+00:30:06,389 --> 00:30:08,730
+that the state law
+suggests that if funding
+
+754
+00:30:08,730 --> 00:30:12,300
+for an infrastructure
+improvement has been approved,
+
+755
+00:30:12,300 --> 00:30:15,000
+those improvements are to
+be considered completed
+
+756
+00:30:15,000 --> 00:30:16,440
+before they've even been begun.
+
+757
+00:30:16,440 --> 00:30:20,246
+I was shocked to hear that at
+the last city council meeting,
+
+758
+00:30:20,246 --> 00:30:23,340
+by the city council and the developer.
+
+759
+00:30:23,340 --> 00:30:25,590
+We all know this benefits
+only the contractors
+
+760
+00:30:25,590 --> 00:30:26,940
+and the construction companies,
+
+761
+00:30:26,940 --> 00:30:29,823
+and speaks more to land
+abuse than good use.
+
+762
+00:30:30,690 --> 00:30:32,970
+Please encourage the
+council to put the brakes
+
+763
+00:30:32,970 --> 00:30:34,230
+on this huge development,
+
+764
+00:30:34,230 --> 00:30:37,110
+at least until the
+infrastructure is in place
+
+765
+00:30:37,110 --> 00:30:38,733
+to ensure everyone's safety.
+
+766
+00:30:39,870 --> 00:30:40,703
+Thank you.
+
+767
+00:30:41,825 --> 00:30:42,700
+- Thank you.
+
+768
+00:30:42,700 --> 00:30:44,280
+Do we have other public comments?
+
+769
+00:30:44,280 --> 00:30:46,990
+Anyone else from the public
+like to make comment?
+
+770
+00:30:48,210 --> 00:30:50,040
+Any other public comments?
+
+771
+00:30:50,040 --> 00:30:52,533
+If not, board, do you have any questions?
+
+772
+00:30:53,400 --> 00:30:54,233
+- No.
+
+773
+00:30:54,233 --> 00:30:55,500
+- Comments to staff?
+
+774
+00:30:55,500 --> 00:30:56,333
+Yes ma'am.
+
+775
+00:30:56,333 --> 00:30:57,245
+- If we could just-
+
+776
+00:30:57,245 --> 00:30:58,470
+- Could you state your name
+and address for the record?
+
+777
+00:30:58,470 --> 00:30:59,413
+Who are you?
+
+778
+00:30:59,413 --> 00:31:01,563
+- Yes, Cecelia Dorn, 17 South Orlando,
+
+779
+00:31:01,563 --> 00:31:03,000
+Kissimmee, Florida 34741.
+
+780
+00:31:03,000 --> 00:31:04,080
+I'm here with the developer.
+
+781
+00:31:04,080 --> 00:31:06,630
+If we could answer or respond
+to some of the comments
+
+782
+00:31:06,630 --> 00:31:09,933
+that were made, we would appreciate that.
+
+783
+00:31:11,820 --> 00:31:12,945
+- Yeah, we'll allow that.
+
+784
+00:31:12,945 --> 00:31:13,778
+Go ahead.
+
+785
+00:31:13,778 --> 00:31:14,823
+- Great, thank you.
+
+786
+00:31:14,823 --> 00:31:17,493
+- Let's hear everything.
+
+787
+00:31:17,493 --> 00:31:21,720
+- Just to address the initial
+concerns about annexation for
+
+788
+00:31:21,720 --> 00:31:26,280
+other properties, it should have no impact
+
+789
+00:31:26,280 --> 00:31:28,430
+on your home unless you want it to.
+
+790
+00:31:28,430 --> 00:31:31,141
+- Ma'am, please address your
+comments to the board here.
+
+791
+00:31:31,141 --> 00:31:31,974
+- Okay.
+
+792
+00:31:31,974 --> 00:31:33,360
+It should have no impact on the homes
+
+793
+00:31:33,360 --> 00:31:35,880
+of the other individuals
+that live in that area,
+
+794
+00:31:35,880 --> 00:31:38,880
+unless they file their
+own voluntary annexation
+
+795
+00:31:38,880 --> 00:31:41,040
+or the city of Kissimmee decides
+
+796
+00:31:41,040 --> 00:31:43,260
+to file an involuntary annexation.
+
+797
+00:31:43,260 --> 00:31:46,673
+So, it would not have any
+impact on the surrounding homes.
+
+798
+00:31:47,610 --> 00:31:49,650
+To address the concerns
+about infrastructure
+
+799
+00:31:49,650 --> 00:31:50,763
+not being in place.
+
+800
+00:31:51,599 --> 00:31:54,330
+The soonest that construction
+would potentially begin
+
+801
+00:31:54,330 --> 00:31:56,820
+on this site would be midyear next year.
+
+802
+00:31:56,820 --> 00:31:58,350
+Again, there are a lot of approvals
+
+803
+00:31:58,350 --> 00:31:59,340
+that would need to happen
+
+804
+00:31:59,340 --> 00:32:02,460
+before any construction
+could begin on this site.
+
+805
+00:32:02,460 --> 00:32:05,340
+And even then, there would
+be an another 18-month lag
+
+806
+00:32:05,340 --> 00:32:08,850
+before anyone lived in this development.
+
+807
+00:32:08,850 --> 00:32:11,880
+Simpson Road improvements would
+be complete at that point.
+
+808
+00:32:11,880 --> 00:32:14,080
+Any improvements to the
+infrastructure would be required
+
+809
+00:32:14,080 --> 00:32:17,490
+to be complete before the
+development is finished
+
+810
+00:32:17,490 --> 00:32:20,402
+and anyone could move
+in within that phase.
+
+811
+00:32:20,402 --> 00:32:24,570
+Also, the issue with the Hilliard Isle,
+
+812
+00:32:24,570 --> 00:32:28,190
+as was stated, there's
+no plans for traffic
+
+813
+00:32:28,190 --> 00:32:29,250
+to be able to go on that road
+
+814
+00:32:29,250 --> 00:32:32,070
+There it would be emergency access only
+
+815
+00:32:32,070 --> 00:32:34,470
+No one from the site would
+be able to use that road.
+
+816
+00:32:34,470 --> 00:32:36,150
+It would be gated and blocked,
+
+817
+00:32:36,150 --> 00:32:39,540
+and even the folks who would
+be further to the south
+
+818
+00:32:39,540 --> 00:32:41,520
+of the project, would have no choice
+
+819
+00:32:41,520 --> 00:32:44,230
+but to go up and use Simpson Road
+
+820
+00:32:45,270 --> 00:32:48,420
+and use the exit out onto
+Simpson Road to the north.
+
+821
+00:32:48,420 --> 00:32:49,680
+So I understand the concerns
+
+822
+00:32:49,680 --> 00:32:52,530
+of more traffic on Hilliard Isle,
+
+823
+00:32:52,530 --> 00:32:55,620
+but that's not what is being asked for.
+
+824
+00:32:55,620 --> 00:32:57,750
+It's not what would be presented later
+
+825
+00:32:57,750 --> 00:32:59,647
+in the subsequent approval.
+
+826
+00:32:59,647 --> 00:33:01,440
+Again, as was stated earlier,
+
+827
+00:33:01,440 --> 00:33:05,790
+I just want to reiterate
+that this request is merely
+
+828
+00:33:05,790 --> 00:33:07,940
+on bringing this site into the city.
+
+829
+00:33:07,940 --> 00:33:11,400
+It has nothing to do
+with the actual approvals
+
+830
+00:33:11,400 --> 00:33:14,130
+of what will ultimately be built there.
+
+831
+00:33:14,130 --> 00:33:16,680
+It's merely trying to
+make this site subject
+
+832
+00:33:16,680 --> 00:33:19,180
+to city oversight, as
+opposed to county oversight.
+
+833
+00:33:20,760 --> 00:33:21,593
+- Thank you.
+
+834
+00:33:23,070 --> 00:33:25,410
+Board, any motions
+regarding this agenda item?
+
+835
+00:33:25,410 --> 00:33:30,410
+- Yeah, we're still talking
+about annexing 500-some acres?
+
+836
+00:33:31,590 --> 00:33:32,940
+- That's the sole scope
+
+837
+00:33:32,940 --> 00:33:34,230
+of what we're dealing with right now.
+
+838
+00:33:34,230 --> 00:33:35,530
+- Okay, according to 5A...
+
+839
+00:33:36,930 --> 00:33:37,763
+Hmm?
+
+840
+00:33:37,763 --> 00:33:39,030
+I'll make a motion-
+
+841
+00:33:39,030 --> 00:33:40,440
+- Oh sorry, could I ask a question first?
+
+842
+00:33:40,440 --> 00:33:41,273
+- Sure, go ahead.
+
+843
+00:33:41,273 --> 00:33:42,420
+- Yeah, well what we could do though is,
+
+844
+00:33:42,420 --> 00:33:44,141
+if we have a motion on the floor
+
+845
+00:33:44,141 --> 00:33:44,974
+and then we get a second,
+
+846
+00:33:44,974 --> 00:33:46,874
+we would have discussion
+prior to the vote anyway.
+
+847
+00:33:46,874 --> 00:33:47,707
+- Let's go to discussion.
+
+848
+00:33:47,707 --> 00:33:49,232
+- But if you wanna hold off on the motion.
+
+849
+00:33:49,232 --> 00:33:50,065
+- I'll hold off on the motion.
+
+850
+00:33:50,065 --> 00:33:50,898
+- Okay, Alex, go ahead.
+
+851
+00:33:50,898 --> 00:33:52,740
+- Yeah, so I appreciate the context,
+
+852
+00:33:52,740 --> 00:33:54,360
+both from developers and the locals.
+
+853
+00:33:54,360 --> 00:33:57,540
+Now if we restrict attention
+to the actual annexation,
+
+854
+00:33:57,540 --> 00:34:00,037
+I still have a question,
+I guess, for the city.
+
+855
+00:34:00,037 --> 00:34:02,744
+This parcel, it is a large parcel
+
+856
+00:34:02,744 --> 00:34:05,460
+and my understanding is part
+of it is sort of floodplain
+
+857
+00:34:05,460 --> 00:34:06,293
+and stuff.
+
+858
+00:34:06,293 --> 00:34:09,812
+Are there any immediate recurring
+maintenance obligations,
+
+859
+00:34:09,812 --> 00:34:13,389
+financial obligations
+that the annexation alone
+
+860
+00:34:13,389 --> 00:34:17,402
+of the property in its
+current state would induce?
+
+861
+00:34:17,402 --> 00:34:19,637
+- That, correct me if I'm wrong,
+
+862
+00:34:19,637 --> 00:34:22,430
+that's later in the development process.
+
+863
+00:34:22,430 --> 00:34:24,780
+- So the only criteria with state,
+
+864
+00:34:24,780 --> 00:34:27,117
+which is the same locally here,
+
+865
+00:34:27,117 --> 00:34:30,360
+the only criteria that we look at
+
+866
+00:34:30,360 --> 00:34:32,220
+for voluntary annexation is
+
+867
+00:34:32,220 --> 00:34:35,340
+whether or not it is
+contiguous or adjacent
+
+868
+00:34:35,340 --> 00:34:37,620
+to another property in the city.
+
+869
+00:34:37,620 --> 00:34:39,053
+That is from Florida statutes.
+
+870
+00:34:39,053 --> 00:34:41,850
+I believe in the staff
+report that's gonna be,
+
+871
+00:34:41,850 --> 00:34:43,365
+don't quote me on this,
+
+872
+00:34:43,365 --> 00:34:47,310
+but I think it's the Florida
+statute 177, I think.
+
+873
+00:34:47,310 --> 00:34:49,020
+Well, 177,
+
+874
+00:34:49,020 --> 00:34:53,460
+then also with the city
+that the only criteria,
+
+875
+00:34:53,460 --> 00:34:54,990
+again this is annexation,
+
+876
+00:34:54,990 --> 00:34:57,240
+this is not anything to put conditions
+
+877
+00:34:57,240 --> 00:35:00,510
+on how the properties get developed.
+
+878
+00:35:00,510 --> 00:35:03,180
+It is only whether or not
+it's contiguous to the city.
+
+879
+00:35:03,180 --> 00:35:04,650
+It's pretty much,
+
+880
+00:35:04,650 --> 00:35:07,680
+the applicant is requesting permission
+
+881
+00:35:07,680 --> 00:35:11,400
+to enter the city of
+Kissimmee from Osceola County.
+
+882
+00:35:11,400 --> 00:35:13,290
+Yeah, so with regards to your questions,
+
+883
+00:35:13,290 --> 00:35:16,800
+there's no fiscal types of analysis.
+
+884
+00:35:16,800 --> 00:35:19,920
+What we do, actually, for fiscal analysis
+
+885
+00:35:19,920 --> 00:35:22,763
+for the application is
+compared to on the taxes
+
+886
+00:35:22,763 --> 00:35:24,840
+and the property values,
+
+887
+00:35:24,840 --> 00:35:27,150
+and folks during a voluntary annexation,
+
+888
+00:35:27,150 --> 00:35:29,850
+they weigh that, as far
+as what the benefits
+
+889
+00:35:29,850 --> 00:35:33,360
+that they may have in entering the city
+
+890
+00:35:33,360 --> 00:35:35,640
+that they don't have different services,
+
+891
+00:35:35,640 --> 00:35:36,480
+those types of things.
+
+892
+00:35:36,480 --> 00:35:38,610
+So from a a financial standpoint,
+
+893
+00:35:38,610 --> 00:35:41,160
+that's done privately as
+far as weighing the benefits
+
+894
+00:35:41,160 --> 00:35:44,520
+of the services that they have now versus
+
+895
+00:35:44,520 --> 00:35:45,510
+what they would have in city.
+
+896
+00:35:45,510 --> 00:35:47,190
+But for the staff and the analysis,
+
+897
+00:35:47,190 --> 00:35:50,310
+there's not any fiscal
+or any type of financial.
+
+898
+00:35:50,310 --> 00:35:52,050
+It's just whether or not it's contiguous
+
+899
+00:35:52,050 --> 00:35:54,334
+to property in the city.
+
+900
+00:35:54,334 --> 00:35:55,167
+- But I guess currently,
+
+901
+00:35:55,167 --> 00:35:57,510
+even though it's largely undeveloped,
+
+902
+00:35:57,510 --> 00:35:58,770
+are there any properties, any parcels,
+
+903
+00:35:58,770 --> 00:36:01,620
+that are developed on the
+property currently at all, or?
+
+904
+00:36:01,620 --> 00:36:02,679
+- I don't think so.
+
+905
+00:36:02,679 --> 00:36:04,110
+I don't know if there's any structures
+
+906
+00:36:04,110 --> 00:36:05,433
+or anything like that.
+
+907
+00:36:05,433 --> 00:36:07,710
+It's probably all agricultural.
+
+908
+00:36:07,710 --> 00:36:10,410
+I mean, the portion that's
+in the city right now has
+
+909
+00:36:10,410 --> 00:36:12,990
+an agricultural conservation zoning
+
+910
+00:36:12,990 --> 00:36:15,570
+because the subject site
+that's under view now
+
+911
+00:36:15,570 --> 00:36:17,460
+is currently within the county.
+
+912
+00:36:17,460 --> 00:36:19,260
+I believe you see here
+even on the aerials,
+
+913
+00:36:19,260 --> 00:36:21,690
+that there may be some
+of the property here
+
+914
+00:36:21,690 --> 00:36:25,427
+that may have existing
+single family homes on it,
+
+915
+00:36:25,427 --> 00:36:27,990
+and I think on here further east
+
+916
+00:36:27,990 --> 00:36:30,050
+there might be another structure,
+
+917
+00:36:30,050 --> 00:36:31,942
+but that's pretty much it.
+
+918
+00:36:31,942 --> 00:36:33,185
+But for us,
+
+919
+00:36:33,185 --> 00:36:35,760
+there's not any type of
+laying on the financial.
+
+920
+00:36:35,760 --> 00:36:38,493
+It is only when or not this
+property is contiguous.
+
+921
+00:36:39,330 --> 00:36:41,670
+- But I guess because it's
+a voluntary annexation,
+
+922
+00:36:41,670 --> 00:36:42,990
+the developer currently owns
+
+923
+00:36:42,990 --> 00:36:44,580
+all of these parcels under consideration.
+
+924
+00:36:44,580 --> 00:36:46,020
+- Yes.
+
+925
+00:36:46,020 --> 00:36:46,853
+- Thank you.
+
+926
+00:36:48,441 --> 00:36:50,858
+- Okay. Board, anything else?
+
+927
+00:36:52,680 --> 00:36:54,180
+- No? Me, my turn?
+
+928
+00:36:55,053 --> 00:36:55,961
+- If you like.
+
+929
+00:36:55,961 --> 00:36:58,140
+- I make a motion to approve 5A,
+
+930
+00:36:58,140 --> 00:36:59,853
+to annex 553,
+
+931
+00:37:02,285 --> 00:37:05,370
+556 acres 0.33 tenths.
+
+932
+00:37:05,370 --> 00:37:06,919
+I make a motion to approve.
+
+933
+00:37:06,919 --> 00:37:09,180
+- Okay, we have a motion
+on the floor from Robert.
+
+934
+00:37:09,180 --> 00:37:10,388
+Do we have a second?
+
+935
+00:37:10,388 --> 00:37:11,665
+- I'll second.
+
+936
+00:37:11,665 --> 00:37:12,564
+Second.
+
+937
+00:37:12,564 --> 00:37:13,860
+- Second from Alex.
+
+938
+00:37:13,860 --> 00:37:15,213
+Any further discussion?
+
+939
+00:37:16,590 --> 00:37:18,330
+If not, all in favor, please say, "Aye."
+
+940
+00:37:18,330 --> 00:37:19,380
+Aye.
+- Aye.
+
+941
+00:37:19,380 --> 00:37:21,600
+- Opposed, please say, "No."
+
+942
+00:37:21,600 --> 00:37:23,541
+Okay, hearing none, motion carries.
+
+943
+00:37:23,541 --> 00:37:28,541
+5B.
+
+944
+00:37:28,567 --> 00:37:30,570
+- Thank you again, Christian
+Arias, Development services.
+
+945
+00:37:30,570 --> 00:37:31,403
+Good evening.
+
+946
+00:37:32,400 --> 00:37:34,380
+This is the land use application
+
+947
+00:37:34,380 --> 00:37:37,293
+that's attached to the
+annexation previously discussed.
+
+948
+00:37:38,760 --> 00:37:40,153
+Again, the applicant has filed
+
+949
+00:37:40,153 --> 00:37:41,880
+a land use plan amendment application
+
+950
+00:37:41,880 --> 00:37:44,553
+as part of the Hilliard Isles project.
+
+951
+00:37:45,990 --> 00:37:49,500
+Also, if I may take this time
+to proceed with the record.
+
+952
+00:37:49,500 --> 00:37:51,660
+Same for this as the previous application,
+
+953
+00:37:51,660 --> 00:37:54,150
+there was a submitted error
+
+954
+00:37:54,150 --> 00:37:56,730
+to the public notice regarding
+the legal description
+
+955
+00:37:56,730 --> 00:37:58,680
+which has been corrected and is included
+
+956
+00:37:58,680 --> 00:38:00,453
+in your staff report.
+
+957
+00:38:02,070 --> 00:38:06,930
+Again, we're tasked here in front of us.
+
+958
+00:38:06,930 --> 00:38:08,700
+We previously had the annexation.
+
+959
+00:38:08,700 --> 00:38:09,810
+This is just a footprint
+
+960
+00:38:09,810 --> 00:38:12,060
+which is required by
+state statutes as well.
+
+961
+00:38:12,060 --> 00:38:14,490
+This is actually the footprint
+which is the first layer,
+
+962
+00:38:14,490 --> 00:38:17,280
+which is the land use designation,
+
+963
+00:38:17,280 --> 00:38:19,020
+which are actually governed
+
+964
+00:38:19,020 --> 00:38:22,361
+and seen by our comprehensive plan.
+
+965
+00:38:22,361 --> 00:38:23,910
+We have in the city of comprehensive plan
+
+966
+00:38:23,910 --> 00:38:26,430
+with both objectives and policies.
+
+967
+00:38:26,430 --> 00:38:29,583
+So this is part of what's
+being proposed at this point.
+
+968
+00:38:31,380 --> 00:38:32,783
+For the record,
+
+969
+00:38:32,783 --> 00:38:33,660
+the subject property is located
+
+970
+00:38:33,660 --> 00:38:37,470
+within east of Simpson Road
+and west of the East Lake Toho.
+
+971
+00:38:37,470 --> 00:38:39,900
+A portion of the subject
+property was annexed
+
+972
+00:38:39,900 --> 00:38:42,685
+into the city of Kissimmee in 2002,
+
+973
+00:38:42,685 --> 00:38:45,510
+and the other portion was annexed in 2006,
+
+974
+00:38:45,510 --> 00:38:46,350
+the northern portion
+
+975
+00:38:46,350 --> 00:38:49,290
+or northern parts were previously annexed.
+
+976
+00:38:49,290 --> 00:38:52,620
+Both of these properties
+have a land use designation
+
+977
+00:38:52,620 --> 00:38:55,560
+currently with single family,
+low density residential
+
+978
+00:38:55,560 --> 00:38:58,413
+and multi-family medium
+density residential.
+
+979
+00:39:00,090 --> 00:39:01,350
+Subject property, once annexed,
+
+980
+00:39:01,350 --> 00:39:05,493
+will consist of a total
+area of 883 acres of land.
+
+981
+00:39:06,810 --> 00:39:08,400
+And the proposal is to designate
+
+982
+00:39:08,400 --> 00:39:10,770
+the following land use designation
+
+983
+00:39:10,770 --> 00:39:12,930
+for the future development
+of the subject site,
+
+984
+00:39:12,930 --> 00:39:15,690
+which will consist of single family,
+
+985
+00:39:15,690 --> 00:39:17,430
+low density residential,
+
+986
+00:39:17,430 --> 00:39:20,190
+multi-family, medium density residential,
+
+987
+00:39:20,190 --> 00:39:22,830
+commercial general,
+and conservation areas.
+
+988
+00:39:22,830 --> 00:39:24,210
+We can see in this map, actually,
+
+989
+00:39:24,210 --> 00:39:27,870
+it's laid out how this
+will work and function.
+
+990
+00:39:27,870 --> 00:39:28,855
+As you can see,
+
+991
+00:39:28,855 --> 00:39:33,180
+the applicant's designating
+over 178 acres of land
+
+992
+00:39:33,180 --> 00:39:36,120
+for conservation to work for
+the open space requirements
+
+993
+00:39:36,120 --> 00:39:37,230
+and to have any mitigation
+
+994
+00:39:37,230 --> 00:39:39,923
+within the East Lake Toho waterway.
+
+995
+00:39:41,483 --> 00:39:43,770
+And the commercial is mostly concentrated,
+
+996
+00:39:43,770 --> 00:39:46,170
+it's gonna be concentrated
+towards Simpson Road.
+
+997
+00:39:47,520 --> 00:39:49,260
+The Development Review
+Committee has reviewed
+
+998
+00:39:49,260 --> 00:39:53,040
+and recommended approval
+on March 21st, 2023,
+
+999
+00:39:53,040 --> 00:39:55,290
+for this application
+
+1000
+00:39:55,290 --> 00:39:58,470
+and the proposed land use
+designation meets all the goals,
+
+1001
+00:39:58,470 --> 00:40:01,650
+policies and objectives of
+the city comprehensive plan.
+
+1002
+00:40:01,650 --> 00:40:03,410
+Therefore staff is recommending approval
+
+1003
+00:40:03,410 --> 00:40:04,620
+on this application,
+
+1004
+00:40:04,620 --> 00:40:05,857
+and this concludes my report
+
+1005
+00:40:05,857 --> 00:40:07,780
+and I'll be happy to answer any questions.
+
+1006
+00:40:07,780 --> 00:40:09,880
+- Board, any questions for the city staff?
+
+1007
+00:40:10,800 --> 00:40:11,820
+If not, would the applicant like
+
+1008
+00:40:11,820 --> 00:40:13,920
+to add anything additional regarding this?
+
+1009
+00:40:16,320 --> 00:40:17,153
+- Thank you again.
+
+1010
+00:40:17,153 --> 00:40:18,630
+Eric Ross, Inspired
+Placemaking Collective,
+
+1011
+00:40:18,630 --> 00:40:22,380
+4767 New Broad Street,
+Orlando, Florida 32814.
+
+1012
+00:40:22,380 --> 00:40:25,020
+Just wanna say that we agree
+with the staff recommendation.
+
+1013
+00:40:25,020 --> 00:40:26,820
+We're here to answer any questions.
+
+1014
+00:40:26,820 --> 00:40:30,060
+We'd appreciate the ability
+to respond to any comments.
+
+1015
+00:40:30,060 --> 00:40:31,497
+Thank you.
+
+1016
+00:40:31,497 --> 00:40:33,500
+- Okay, board any questions
+for the applicant?
+
+1017
+00:40:33,500 --> 00:40:36,870
+If not, we'll take any public
+comments regarding this.
+
+1018
+00:40:36,870 --> 00:40:39,090
+Any comments from the public?
+
+1019
+00:40:39,090 --> 00:40:40,710
+Any public comments?
+
+1020
+00:40:40,710 --> 00:40:42,750
+No? Okay.
+
+1021
+00:40:42,750 --> 00:40:45,903
+Do we have any motions
+regarding this 5B agenda item?
+
+1022
+00:40:46,950 --> 00:40:48,630
+- I'll make a motion to approve it.
+
+1023
+00:40:48,630 --> 00:40:50,040
+- Motion to approve from Robert.
+
+1024
+00:40:50,040 --> 00:40:50,873
+- Yeah.
+
+1025
+00:40:50,873 --> 00:40:52,156
+- Do we have a second?
+
+1026
+00:40:52,156 --> 00:40:52,989
+- I second.
+
+1027
+00:40:52,989 --> 00:40:54,120
+- We have a second from Diana.
+
+1028
+00:40:54,120 --> 00:40:55,800
+Any discussion?
+
+1029
+00:40:55,800 --> 00:40:57,060
+Discussion? No?
+
+1030
+00:40:57,060 --> 00:40:58,732
+All in favor, please say, "Aye."
+
+1031
+00:40:58,732 --> 00:40:59,565
+- Aye.
+- Aye.
+
+1032
+00:40:59,565 --> 00:41:00,670
+Opposed, please say, "No."
+
+1033
+00:41:02,460 --> 00:41:04,353
+Hearing none, motion carries.
+
+1034
+00:41:06,420 --> 00:41:08,520
+Thank you, and lemme
+go back with the record
+
+1035
+00:41:08,520 --> 00:41:11,880
+and make sure that we
+understand for the record,
+
+1036
+00:41:11,880 --> 00:41:14,070
+Melissa, did you vote or not vote?
+
+1037
+00:41:14,070 --> 00:41:15,361
+- I did not.
+
+1038
+00:41:15,361 --> 00:41:16,194
+I abstained from 5B.
+
+1039
+00:41:16,194 --> 00:41:17,027
+- Okay, again,
+
+1040
+00:41:17,027 --> 00:41:20,430
+I will say that I should
+have stated upfront that,
+
+1041
+00:41:20,430 --> 00:41:22,140
+do we have any conflicts of interest here?
+
+1042
+00:41:22,140 --> 00:41:24,120
+But to be clear, you did not vote.
+
+1043
+00:41:24,120 --> 00:41:25,080
+You abstained.
+
+1044
+00:41:25,080 --> 00:41:25,950
+Okay.
+
+1045
+00:41:25,950 --> 00:41:28,770
+So we have the vote as the
+remainder of the board.
+
+1046
+00:41:28,770 --> 00:41:30,303
+Okay, and it was approved.
+
+1047
+00:41:31,170 --> 00:41:32,283
+Okay, thank you.
+
+1048
+00:41:33,780 --> 00:41:35,720
+Six, public hearings, we don't
+have anything under that.
+
+1049
+00:41:35,720 --> 00:41:37,380
+Discussion. Any discussion?
+
+1050
+00:41:37,380 --> 00:41:38,213
+Board members.
+
+1051
+00:41:39,960 --> 00:41:41,250
+Dear chairman and board members,
+
+1052
+00:41:41,250 --> 00:41:43,020
+anybody have anything?
+
+1053
+00:41:43,020 --> 00:41:44,820
+Do we have a next meeting scheduled?
+
+1054
+00:41:47,005 --> 00:41:49,377
+- I do not, (chuckles)
+
+1055
+00:41:49,377 --> 00:41:52,110
+but again, just look out for your emails.
+
+1056
+00:41:52,110 --> 00:41:55,170
+Again, we try to provide you these agendas
+
+1057
+00:41:55,170 --> 00:41:57,301
+by Friday so we know, we understand
+
+1058
+00:41:57,301 --> 00:41:58,604
+that you're busy, just like ourselves,
+
+1059
+00:41:58,604 --> 00:41:59,970
+so that way at least you have the weekend
+
+1060
+00:41:59,970 --> 00:42:01,620
+to review that.
+
+1061
+00:42:01,620 --> 00:42:03,330
+Anytime, even before these meetings,
+
+1062
+00:42:03,330 --> 00:42:05,100
+that you have any questions or concerns,
+
+1063
+00:42:05,100 --> 00:42:06,720
+you can provide those to us.
+
+1064
+00:42:06,720 --> 00:42:08,487
+Please don't press "Reply to all,"
+
+1065
+00:42:08,487 --> 00:42:11,160
+but you can also reach out
+to us before the meetings
+
+1066
+00:42:11,160 --> 00:42:12,570
+if you have any general comments,
+
+1067
+00:42:12,570 --> 00:42:14,610
+clarification that you may have
+
+1068
+00:42:14,610 --> 00:42:16,773
+regarding any agenda items, too, as well.
+
+1069
+00:42:18,125 --> 00:42:19,740
+And we'll be sure to,
+
+1070
+00:42:19,740 --> 00:42:22,470
+once we look at the different
+projects that we have,
+
+1071
+00:42:22,470 --> 00:42:24,420
+we will send out a cancellation
+
+1072
+00:42:24,420 --> 00:42:27,060
+if there aren't any agenda
+items for the next meeting.
+
+1073
+00:42:27,060 --> 00:42:30,349
+If not, we will make sure
+that we get those out to you
+
+1074
+00:42:30,349 --> 00:42:31,942
+in a timely manner.
+
+1075
+00:42:31,942 --> 00:42:32,877
+- Okay.
+
+1076
+00:42:32,877 --> 00:42:34,050
+Anything else? Anyone else?
+
+1077
+00:42:34,050 --> 00:42:34,883
+Motion to adjourn?
+
+1078
+00:42:34,883 --> 00:42:36,017
+- I'll make a motion.
+
+1079
+00:42:36,017 --> 00:42:37,770
+- Motion to adjourn, Melissa,
+
+1080
+00:42:37,770 --> 00:42:39,210
+and Robert, second.
+
+1081
+00:42:39,210 --> 00:42:40,043
+Any discussion on that?
+
+1082
+00:42:40,043 --> 00:42:41,970
+If not, all in favor, please say, "Aye."
+
+1083
+00:42:41,970 --> 00:42:42,870
+- Aye.
+- Aye.
+
+1084
+00:42:42,870 --> 00:42:46,179
+Meeting adjourned at 6:49. Thank you.
+
+1085
+00:42:46,179 --> 00:42:49,512
+(participants chatting)
+
+1086
+00:42:58,010 --> 00:43:02,177
+(participants chatting continues)
+
+1087
+00:43:07,957 --> 00:43:12,124
+(participants chatting continues)
+
+1088
+00:43:19,394 --> 00:43:23,561
+(participants chatting continues)
+

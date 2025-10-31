@@ -1,0 +1,9 @@
+[project]
+name = "kissimmee-fyi"
+version = "0.1.0"
+description = "A collection of tools for scraping and serving information about the city of Kissimmee."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests>=2.32.4",
+]
