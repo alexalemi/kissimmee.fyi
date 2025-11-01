@@ -97,7 +97,14 @@ def parse_notice(notice_data):
     if paper:
         description_parts.append(f"Published in: {paper}")
     if notice_text:
-        description_parts.append(notice_text)
+        # Fully unescape HTML entities from the API to normalize them
+        # Some notices are double-encoded, so unescape until it stabilizes
+        text = notice_text
+        prev_text = None
+        while prev_text != text:
+            prev_text = text
+            text = html.unescape(text)
+        description_parts.append(text)
     description = ' | '.join(description_parts)
 
     # Build link to notice detail page if available
@@ -106,15 +113,26 @@ def parse_notice(notice_data):
         href = notice_data['_links']['self']['href']
         link = f"https://floridapublicnotices.com{href}"
 
+    # Extract PDF URL from _links.media.href
+    pdf_url = None
+    if notice_data.get('_links', {}).get('media', {}).get('href'):
+        pdf_url = notice_data['_links']['media']['href']
+
+    # Extract image URL (if it's an actual URL, not just "pdf")
+    image_url = None
+    image_field = notice_data.get('image')
+    if image_field and image_field != 'pdf' and (image_field.startswith('http://') or image_field.startswith('https://')):
+        image_url = image_field
+
     parsed = {
         'id': notice_id,
         'title': title,
         'description': description,
         'notice_text': notice_text,
         'pub_date': notice_data.get('date'),
-        'pdf_url': None,  # Not provided in this API response
+        'pdf_url': pdf_url,
         'link': link,
-        'image_url': notice_data.get('image'),
+        'image_url': image_url,
         'newspaper': paper,
         'city': city,
         'subcategory': subcategory,
@@ -154,7 +172,7 @@ def generate_notice_html(notice):
     if notice.get('pub_date_formatted'):
         html_parts.append(f'<div class="notice-date">{html.escape(notice["pub_date_formatted"])}</div>')
 
-    # Description
+    # Description (normalized by unescaping in parse_notice, re-escape for HTML)
     if notice.get('description'):
         html_parts.append(f'<div class="notice-description">{html.escape(notice["description"])}</div>')
 
