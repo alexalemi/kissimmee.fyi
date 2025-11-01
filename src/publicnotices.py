@@ -1,4 +1,5 @@
 import requests
+import logging
 
 
 def get_kissimmee_planning_advisory_board_docs(
@@ -16,9 +17,9 @@ def get_kissimmee_planning_advisory_board_docs(
         Response object from the API request
     """
     url = "https://floridapublicnotices.com/"
-    headers = {"content-type": "application/hal+json"}
+    headers = {"content-type": "application/json; charset=utf-8"}
     data = {
-        "counties": [],
+        "counties": ["49"],
         "keywords": keywords,
         "offset": offset,
         "paper": "-1",
@@ -26,5 +27,11 @@ def get_kissimmee_planning_advisory_board_docs(
         "limit": limit,
     }
 
+    logging.debug(
+        f"Requesting documents from Florida Public Notices at {url=}, {headers=}, {data=}"
+    )
     response = requests.post(url, headers=headers, json=data)
+    import json
+
+    logging.debug("Got response:", json.dumps(response.json(), indent=2))
     return response
