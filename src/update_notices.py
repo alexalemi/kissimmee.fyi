@@ -113,6 +113,95 @@ def prettify_xml(elem):
     return reparsed.toprettyxml(indent="  ", encoding='utf-8').decode('utf-8')
 
 
+def load_archive(archive_path):
+    """Load the historical notices archive from JSON file."""
+    if not os.path.exists(archive_path):
+        return {"last_updated": None, "notices": {}}
+
+    try:
+        with open(archive_path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except (json.JSONDecodeError, IOError) as e:
+        print(f"Warning: Could not load archive from {archive_path}: {e}")
+        return {"last_updated": None, "notices": {}}
+
+
+def merge_notices(archive, new_notices):
+    """Merge new notices into archive, preserving all historical data."""
+    archive_notices = archive.get("notices", {})
+    # Use timezone-aware datetime
+    current_date = datetime.now(datetime.UTC if hasattr(datetime, 'UTC') else None)
+    if current_date.tzinfo is None:
+        from datetime import timezone
+        current_date = datetime.now(timezone.utc)
+    current_date = current_date.isoformat()
+
+    for notice in new_notices:
+        notice_id = str(notice['id'])
+
+        if notice_id in archive_notices:
+            # Update existing notice
+            archive_notices[notice_id].update(notice)
+            archive_notices[notice_id]['last_seen'] = current_date
+        else:
+            # Add new notice
+            notice['first_seen'] = current_date
+            notice['last_seen'] = current_date
+            archive_notices[notice_id] = notice
+
+    archive['notices'] = archive_notices
+    archive['last_updated'] = current_date
+
+    return archive
+
+
+def save_archive(archive, archive_path):
+    """Save the notices archive to JSON file."""
+    try:
+        with open(archive_path, 'w', encoding='utf-8') as f:
+            json.dump(archive, f, indent=2, ensure_ascii=False)
+        print(f"Saved archive with {len(archive['notices'])} total notices")
+    except IOError as e:
+        print(f"Error: Could not save archive to {archive_path}: {e}")
+
+
+def get_orphaned_thumbnails(thumbnails_dir, current_notices):
+    """Find thumbnail files that are not referenced in current notices."""
+    if not os.path.exists(thumbnails_dir):
+        return []
+
+    # Get all notice IDs that should have thumbnails (only current notices)
+    valid_ids = set()
+    for notice in current_notices:
+        valid_ids.add(str(notice['id']))
+
+    # Find thumbnails that don't match any valid ID
+    orphaned = []
+    for filename in os.listdir(thumbnails_dir):
+        if filename.endswith('.jpg'):
+            notice_id = filename[:-4]  # Remove .jpg extension
+            if notice_id not in valid_ids:
+                orphaned.append(os.path.join(thumbnails_dir, filename))
+
+    return orphaned
+
+
+def cleanup_thumbnails(thumbnails_dir, current_notices):
+    """Delete thumbnail files that are not referenced in current notices."""
+    orphaned = get_orphaned_thumbnails(thumbnails_dir, current_notices)
+
+    if orphaned:
+        print(f"Cleaning up {len(orphaned)} orphaned thumbnails...")
+        for filepath in orphaned:
+            try:
+                os.remove(filepath)
+                print(f"  Deleted {os.path.basename(filepath)}")
+            except OSError as e:
+                print(f"  Warning: Could not delete {filepath}: {e}")
+    else:
+        print("No orphaned thumbnails to clean up")
+
+
 def extract_meeting_date(text):
     """Extract the meeting date and time from notice text."""
     import re
@@ -661,11 +750,12 @@ def main():
         script_dir = os.path.dirname(os.path.abspath(__file__))
         docs_dir = os.path.join(script_dir, '..', 'docs')
         thumbnails_dir = os.path.join(docs_dir, 'thumbnails')
+        archive_path = os.path.join(script_dir, 'notices_archive.json')
 
         # Ensure docs directory exists
         os.makedirs(docs_dir, exist_ok=True)
 
-        # Generate thumbnails for notices with PDFs
+        # Generate thumbnails for CURRENT notices first (before merging into archive)
         print("Generating PDF thumbnails...")
         for notice in notices:
             if notice.get('pdf_url'):
@@ -679,22 +769,50 @@ def main():
                     print(f"  Generated thumbnail for notice {notice['id']}")
         print(f"Thumbnail generation complete")
 
+        # Load and merge with archive (thumbnails will be included in merge)
+        print("Loading archive...")
+        archive = load_archive(archive_path)
+        print(f"Archive contains {len(archive.get('notices', {}))} notices before merge")
+
+        archive = merge_notices(archive, notices)
+        save_archive(archive, archive_path)
+
+        # Get all archived notices as a list (sorted by date, newest first)
+        all_notices = list(archive['notices'].values())
+        all_notices.sort(key=lambda n: n.get('pub_date', ''), reverse=True)
+
         updated_time = datetime.now(datetime.UTC if hasattr(datetime, 'UTC') else None)
         if updated_time.tzinfo is None:
             # Fallback for older Python versions
             from datetime import timezone
             updated_time = datetime.now(timezone.utc)
 
-        # Generate static HTML
+        # Generate main page from current API results only
         template_path = os.path.join(docs_dir, 'template.html')
         html_path = os.path.join(docs_dir, 'index.html')
         generate_static_html(notices, template_path, html_path, updated_time)
         print(f"Generated {html_path}")
 
-        # Generate RSS
+        # Generate archive page from all historical notices (without thumbnails)
+        # Create copies of notices without thumbnail_url to avoid rendering thumbnails on archive
+        archive_notices_no_thumbs = []
+        for notice in all_notices:
+            notice_copy = notice.copy()
+            notice_copy['thumbnail_url'] = None
+            archive_notices_no_thumbs.append(notice_copy)
+
+        archive_template_path = os.path.join(docs_dir, 'archive_template.html')
+        archive_html_path = os.path.join(docs_dir, 'archive.html')
+        generate_static_html(archive_notices_no_thumbs, archive_template_path, archive_html_path, updated_time)
+        print(f"Generated {archive_html_path} with {len(all_notices)} total notices")
+
+        # Generate RSS from current API results only
         rss_path = os.path.join(docs_dir, 'rss.xml')
         generate_rss(notices, rss_path)
         print(f"Generated {rss_path}")
+
+        # Clean up orphaned thumbnails (only keep thumbnails for current notices)
+        cleanup_thumbnails(thumbnails_dir, notices)
 
         print("Done!")
 
