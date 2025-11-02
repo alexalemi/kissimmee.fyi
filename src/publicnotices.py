@@ -3,7 +3,7 @@ import logging
 
 
 def get_kissimmee_planning_advisory_board_docs(
-    offset=None, limit=12, keywords='"Kissimmee Planning Advisory Board"'
+    offset=None, limit=12, keywords=f'"Planning Advisory Board"'
 ):
     """
     Fetch documents from Florida Public Notices for Kissimmee Planning Advisory Board.
@@ -19,7 +19,7 @@ def get_kissimmee_planning_advisory_board_docs(
     url = "https://floridapublicnotices.com/"
     headers = {"content-type": "application/json; charset=utf-8"}
     data = {
-        "counties": ["49"],
+        "counties": ["49"],  # Osceola County
         "keywords": keywords,
         "offset": offset,
         "paper": "-1",

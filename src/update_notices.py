@@ -12,11 +12,352 @@ import html
 from publicnotices import get_kissimmee_planning_advisory_board_docs
 
 
+# Zoning code mapping (from https://www.kissimmee.gov/Business-Development/Development/Planning-Zoning/Find-Your-Propertys-Zoning-Category/Zoning-Classifications)
+ZONING_CODES = {
+    'AC': 'Agriculture and Conservation',
+    'RE': 'Residential Estate',
+    'RA-1': 'Single Family Residential (12,000 sq. ft.)',
+    'RA-2': 'Single Family Residential (9,000 sq. ft.)',
+    'RA-3': 'Single Family Residential (7,000 sq. ft.)',
+    'RA-4': 'Single Family Residential (6,000 sq. ft.)',
+    'RB-1': 'Medium Density Residential',
+    'RB-2': 'Medium Density Residential/Office',
+    'RC-1': 'Multiple Family Medium Density Residential',
+    'RC-2': 'Multiple Family High Density Residential',
+    'MH': 'Mobile Home',
+    'MHP': 'Mobile Home Park',
+    'RPB': 'Residential Professional Business',
+    'B-2': 'Neighborhood Commercial',
+    'B-3': 'General Commercial',
+    'HC': 'Highway Commercial',
+    'B-5': 'Office Commercial',
+    'BP': 'Business Park',
+    'IB': 'Industrial Business',
+    'AO': 'Airport Operations',
+    'AI': 'Airport Industrial',
+    'CF': 'Community Facilities',
+    'HF': 'Hospital Facilities',
+    'UT': 'Utilities',
+    'OS': 'Open Space',
+    'T1': 'Natural',
+    'T3': 'Edge',
+    'T4-R': 'Neighborhood Restricted',
+    'TD': 'Neighborhood Open',
+    'T5-U': 'Mixed-Use Urban Core',
+    'T5-M': 'Mixed-Use Center',
+    'T6': 'Waterfront',
+    'SD': 'Special District',
+    'PUD': 'Planned Unit Development',
+    'REC': 'Recreation',
+}
+
+# Future Land Use code mapping
+LAND_USE_CODES = {
+    'SF-LDR': 'Single Family Low Density Residential',
+    'SF-MDR': 'Single Family Medium Density Residential',
+    'MF-MDR': 'Multiple Family Medium Density Residential',
+    'MH-MDR': 'Mobile Home Medium Density Residential',
+    'MU': 'Mixed Use',
+    'MU-D': 'Mixed-Use Downtown',
+    'MU-V': 'Mixed-Use Vine',
+    'MU-T': 'Mixed-Use Tapestry',
+    'MU-FR': 'Mixed-Use Flora Ridge',
+    'CG': 'Commercial General',
+    'OR': 'Office-Residential',
+    'IN': 'Industrial Business',
+    'REC': 'Recreation',
+    'CONS': 'Conservation',
+    'INST': 'Institutional',
+    'UT': 'Utilities',
+    'AE': 'Airport Expansion',
+    'MMTD': 'Multimodal Transportation District',
+}
+
+# Common acronyms
+ACRONYMS = {
+    'PAB': 'Planning Advisory Board',
+    'MUPUD': 'Mixed Use Planned Urban Development',
+}
+
+
+def wrap_codes_with_abbr(text):
+    """Wrap zoning codes, land use codes, and acronyms with HTML abbr tags."""
+    import re
+
+    if not text:
+        return text
+
+    # Combine all code mappings
+    all_codes = {**ZONING_CODES, **LAND_USE_CODES, **ACRONYMS}
+
+    # Sort by length (descending) to match longer codes first (e.g., "MU-FR" before "MU")
+    sorted_codes = sorted(all_codes.keys(), key=len, reverse=True)
+
+    # Create pattern that matches codes as whole words or with specific boundaries
+    # Match codes that are surrounded by word boundaries, parentheses, or dashes
+    for code in sorted_codes:
+        # Escape special regex characters in the code
+        escaped_code = re.escape(code)
+        # Pattern: code must be at word boundary or followed by space/paren/dash/end
+        pattern = r'\b(' + escaped_code + r')(?=\s|\(|\)|,|$|-(?!\w))'
+        replacement = f'<abbr title="{html.escape(all_codes[code])}">{code}</abbr>'
+        text = re.sub(pattern, replacement, text)
+
+    return text
+
+
 def prettify_xml(elem):
     """Return a pretty-printed XML string for the Element."""
     rough_string = tostring(elem, encoding='utf-8')
     reparsed = minidom.parseString(rough_string)
     return reparsed.toprettyxml(indent="  ", encoding='utf-8').decode('utf-8')
+
+
+def extract_meeting_date(text):
+    """Extract the meeting date and time from notice text."""
+    import re
+    # Pattern: "on Wednesday, November 19, 2025 at 6:00 p.m."
+    pattern = r'on\s+(\w+),\s+(\w+)\s+(\d{1,2}),\s+(\d{4})\s+at\s+([\d:]+\s*[ap]\.?m\.?)'
+    match = re.search(pattern, text, re.IGNORECASE)
+    if match:
+        day, month, date, year, time = match.groups()
+        return f"{day}, {month} {date}, {year} at {time}"
+    return None
+
+
+def extract_property_address(text):
+    """Extract property address from notice text."""
+    import re
+    # Pattern: "located at approximately 2220 Fortune Road" or "located at 2220 Fortune Road"
+    pattern = r'located at(?:\s+approximately)?\s+([^,\n\.]+?)(?:,|\s+Parcel|\.|\s+Legal)'
+    match = re.search(pattern, text, re.IGNORECASE)
+    if match:
+        return match.group(1).strip()
+    return None
+
+
+def extract_zoning_change(text):
+    """Extract zoning change (FROM/TO) from notice text."""
+    import re
+    # Pattern: "FROM: RC-1 (description) TO: RC-2 (description)"
+    from_pattern = r'FROM:\s*([^\n]+?)\s+(?:City|TO:)'
+    to_pattern = r'TO:\s*([^\n]+?)\s+(?:City|The)'
+
+    from_match = re.search(from_pattern, text, re.IGNORECASE)
+    to_match = re.search(to_pattern, text, re.IGNORECASE)
+
+    if from_match and to_match:
+        from_zone = from_match.group(1).strip()
+        to_zone = to_match.group(1).strip()
+        return f"{from_zone} → {to_zone}"
+    return None
+
+
+def extract_reference_number(text):
+    """Extract reference number from notice text."""
+    import re
+    # Pattern: "Reference # ZMA-25-0009"
+    pattern = r'Reference\s*#\s*([^\s\n]+)'
+    match = re.search(pattern, text, re.IGNORECASE)
+    if match:
+        return match.group(1).strip()
+    return None
+
+
+def extract_amendment_type(ref_num):
+    """Extract and categorize amendment type from reference number."""
+    if not ref_num:
+        return None
+
+    ref_upper = ref_num.upper()
+
+    # Map amendment codes to full names
+    amendment_types = {
+        'LUPA': 'Future Land Use Amendment',
+        'ZMA': 'Zoning Map Amendment',
+        'PUD': 'Planned Unit Development',
+        'VAR': 'Variance',
+        'CUP': 'Conditional Use Permit',
+        'SPR': 'Site Plan Review'
+    }
+
+    for code, full_name in amendment_types.items():
+        if code in ref_upper:
+            return {'code': code, 'name': full_name}
+
+    return None
+
+
+def extract_parcel_id(text):
+    """Extract parcel ID from notice text."""
+    import re
+    # Pattern: "Parcel ID: 19-25-30-00U0-0050-0000" or "Parcel IDs: ..." or "Parcel 1: ... Parcel 2: ..."
+    # First try standard format
+    pattern = r'Parcel IDs?:\s*([^\n]+?)(?:\s+Legal|$)'
+    match = re.search(pattern, text, re.IGNORECASE)
+    if match:
+        return match.group(1).strip()
+
+    # Try alternative format: "Parcel 1: ... Together with Parcel 2: ..."
+    alt_pattern = r'Parcel\s+\d+:\s*([0-9\-]+)(?:.*?Parcel\s+\d+:\s*([0-9\-]+))?'
+    alt_matches = re.findall(alt_pattern, text, re.IGNORECASE)
+    if alt_matches:
+        parcels = []
+        for match_tuple in alt_matches:
+            for parcel in match_tuple:
+                if parcel:
+                    parcels.append(parcel)
+        if parcels:
+            return ' and '.join(parcels)
+
+    return None
+
+
+def format_parcel_id_for_url(parcel_id):
+    """Convert parcel ID to URL format for property appraiser search."""
+    if not parcel_id:
+        return None
+    # Remove spaces and dashes
+    formatted = parcel_id.replace(' ', '').replace('-', '')
+    return formatted
+
+
+def split_parcel_ids(parcel_id_string):
+    """Split a string containing multiple parcel IDs into individual IDs."""
+    if not parcel_id_string:
+        return []
+
+    # Split by " and " or comma
+    import re
+    parcels = re.split(r'\s+and\s+|,\s*', parcel_id_string)
+    return [p.strip() for p in parcels if p.strip()]
+
+
+def generate_parcel_links(parcel_id_string):
+    """Generate HTML links for one or more parcel IDs."""
+    parcels = split_parcel_ids(parcel_id_string)
+
+    if not parcels:
+        return html.escape(parcel_id_string) if parcel_id_string else ''
+
+    links = []
+    for parcel in parcels:
+        parcel_url_format = format_parcel_id_for_url(parcel)
+        if parcel_url_format:
+            parcel_url = f'https://search.property-appraiser.org/Search/MainSearch?pin={parcel_url_format}'
+            links.append(f'<a href="{parcel_url}" target="_blank">{html.escape(parcel)}</a>')
+        else:
+            links.append(html.escape(parcel))
+
+    return ', '.join(links)
+
+
+def generate_short_description(notice_text, address, zoning, ref_num):
+    """Generate a concise description from extracted fields."""
+    parts = []
+
+    # Determine action type from reference number
+    action = "Notice"
+    if ref_num:
+        if 'ZMA' in ref_num:
+            action = "Rezoning"
+        elif 'PUD' in ref_num:
+            action = "Planned Unit Development"
+        elif 'VAR' in ref_num:
+            action = "Variance"
+
+    # Build description
+    if address and zoning:
+        parts.append(f"{action} at {address}: {zoning}")
+    elif address:
+        parts.append(f"{action} at {address}")
+    elif zoning:
+        parts.append(f"{action}: {zoning}")
+    else:
+        # Fallback: extract first sentence or first 150 chars
+        if notice_text:
+            first_sentence = notice_text.split('.')[0]
+            if len(first_sentence) > 150:
+                parts.append(first_sentence[:147] + "...")
+            else:
+                parts.append(first_sentence)
+
+    return parts[0] if parts else ""
+
+
+def generate_pdf_thumbnail(pdf_url, notice_id, thumbnails_dir):
+    """Download PDF and generate thumbnail from first page."""
+    try:
+        from pdf2image import convert_from_bytes
+        from PIL import Image
+        import requests
+
+        # Download PDF
+        response = requests.get(pdf_url, timeout=30)
+        response.raise_for_status()
+
+        # Convert first page to image
+        images = convert_from_bytes(response.content, first_page=1, last_page=1, dpi=150)
+
+        if images:
+            # Resize to thumbnail (max width 400px, maintain aspect ratio)
+            img = images[0]
+            max_width = 400
+            if img.width > max_width:
+                ratio = max_width / img.width
+                new_height = int(img.height * ratio)
+                img = img.resize((max_width, new_height), Image.Resampling.LANCZOS)
+
+            # Ensure thumbnails directory exists
+            os.makedirs(thumbnails_dir, exist_ok=True)
+
+            # Save as JPEG
+            thumbnail_path = os.path.join(thumbnails_dir, f"{notice_id}.jpg")
+            img.save(thumbnail_path, "JPEG", quality=85, optimize=True)
+
+            # Return relative path for HTML
+            return f"thumbnails/{notice_id}.jpg"
+
+    except Exception as e:
+        print(f"Warning: Failed to generate thumbnail for notice {notice_id}: {e}")
+        return None
+
+
+def generate_rss_description(notice):
+    """Generate a rich RSS description with structured fields and full text."""
+    parts = []
+
+    # Add short description
+    if notice.get('description'):
+        parts.append(notice['description'])
+        parts.append('')  # Blank line
+
+    # Add structured details
+    if notice.get('amendment_type'):
+        parts.append(f"Type: {notice['amendment_type']['name']} ({notice['amendment_type']['code']})")
+
+    if notice.get('meeting_date'):
+        parts.append(f"Meeting: {notice['meeting_date']}")
+
+    if notice.get('property_address'):
+        parts.append(f"Location: {notice['property_address']}")
+
+    if notice.get('zoning_change'):
+        parts.append(f"Zoning: {notice['zoning_change']}")
+
+    if notice.get('parcel_id'):
+        parts.append(f"Parcel ID: {notice['parcel_id']}")
+
+    if notice.get('reference_num'):
+        parts.append(f"Reference: {notice['reference_num']}")
+
+    # Add full notice text
+    if notice.get('notice_text'):
+        parts.append('')  # Blank line
+        parts.append('--- Full Notice Text ---')
+        parts.append(notice['notice_text'])
+
+    return '\n'.join(parts)
 
 
 def generate_rss(notices, output_path):
@@ -51,7 +392,7 @@ def generate_rss(notices, output_path):
         item_link.text = notice.get('pdf_url') or notice.get('link') or 'https://kissimmee.fyi'
 
         item_desc = SubElement(item, 'description')
-        item_desc.text = notice.get('description', '')
+        item_desc.text = generate_rss_description(notice)
 
         if notice.get('pub_date_rfc822'):
             pub_date = SubElement(item, 'pubDate')
@@ -60,10 +401,12 @@ def generate_rss(notices, output_path):
         guid = SubElement(item, 'guid', isPermaLink='false')
         guid.text = f"kissimmee-notice-{notice.get('id', hash(notice.get('title', '')))}"
 
-        # Add image as enclosure if available
-        if notice.get('image_url'):
+        # Add thumbnail as enclosure if available
+        if notice.get('thumbnail_url'):
+            # Use full URL for RSS
+            thumbnail_full_url = f"https://kissimmee.fyi/{notice['thumbnail_url']}"
             enclosure = SubElement(item, 'enclosure',
-                                  url=notice['image_url'],
+                                  url=thumbnail_full_url,
                                   type='image/jpeg')
 
     # Write to file
@@ -87,25 +430,37 @@ def parse_notice(notice_data):
     paper = notice_data.get('paper', '')
     city = notice_data.get('city', '')
 
-    # Build a title from available fields
-    title = f"{subcategory}" if subcategory else "Public Notice"
-    if city:
-        title = f"{title} - {city}"
-
-    # Build description
-    description_parts = []
-    if paper:
-        description_parts.append(f"Published in: {paper}")
+    # Normalize notice text by unescaping HTML entities
+    normalized_text = notice_text
     if notice_text:
-        # Fully unescape HTML entities from the API to normalize them
-        # Some notices are double-encoded, so unescape until it stabilizes
-        text = notice_text
         prev_text = None
-        while prev_text != text:
-            prev_text = text
-            text = html.unescape(text)
-        description_parts.append(text)
-    description = ' | '.join(description_parts)
+        while prev_text != normalized_text:
+            prev_text = normalized_text
+            normalized_text = html.unescape(normalized_text)
+
+    # Extract structured fields from notice text
+    meeting_date = extract_meeting_date(normalized_text) if normalized_text else None
+    property_address = extract_property_address(normalized_text) if normalized_text else None
+    zoning_change = extract_zoning_change(normalized_text) if normalized_text else None
+    reference_num = extract_reference_number(normalized_text) if normalized_text else None
+    parcel_id = extract_parcel_id(normalized_text) if normalized_text else None
+    amendment_type = extract_amendment_type(reference_num) if reference_num else None
+
+    # Generate concise description
+    short_desc = generate_short_description(normalized_text, property_address, zoning_change, reference_num)
+
+    # Build title from reference number or use default
+    if reference_num:
+        title = f"{reference_num}"
+        if property_address:
+            title += f" - {property_address}"
+    else:
+        title = f"{subcategory}" if subcategory else "Public Notice"
+        if city:
+            title += f" - {city}"
+
+    # Full description for RSS/details
+    description = short_desc
 
     # Build link to notice detail page if available
     link = None
@@ -128,14 +483,21 @@ def parse_notice(notice_data):
         'id': notice_id,
         'title': title,
         'description': description,
-        'notice_text': notice_text,
+        'notice_text': normalized_text,
         'pub_date': notice_data.get('date'),
         'pdf_url': pdf_url,
         'link': link,
         'image_url': image_url,
+        'thumbnail_url': None,  # Will be set later if thumbnail generation succeeds
         'newspaper': paper,
         'city': city,
         'subcategory': subcategory,
+        'meeting_date': meeting_date,
+        'property_address': property_address,
+        'zoning_change': zoning_change,
+        'reference_num': reference_num,
+        'parcel_id': parcel_id,
+        'amendment_type': amendment_type,
     }
 
     # Try to format the publication date as RFC 822 for RSS
@@ -160,39 +522,89 @@ def generate_notice_html(notice):
     """Generate HTML for a single notice."""
     html_parts = ['<div class="notice">']
 
-    # Title
+    # Thumbnail (if available)
+    if notice.get('thumbnail_url'):
+        html_parts.append('<div class="notice-thumbnail">')
+        if notice.get('pdf_url'):
+            html_parts.append(f'<a href="{html.escape(notice["pdf_url"])}" target="_blank">')
+            html_parts.append(f'<img src="{html.escape(notice["thumbnail_url"])}" alt="PDF Preview" loading="lazy">')
+            html_parts.append('</a>')
+        else:
+            html_parts.append(f'<img src="{html.escape(notice["thumbnail_url"])}" alt="PDF Preview" loading="lazy">')
+        html_parts.append('</div>')
+
+    html_parts.append('<div class="notice-content">')
+
+    # Title with amendment type badge
     html_parts.append('<div class="notice-title">')
+    escaped_title = html.escape(notice["title"])
+    title_with_abbr = wrap_codes_with_abbr(escaped_title)
     if notice.get('pdf_url'):
-        html_parts.append(f'<a href="{html.escape(notice["pdf_url"])}" target="_blank">{html.escape(notice["title"])}</a>')
+        html_parts.append(f'<a href="{html.escape(notice["pdf_url"])}" target="_blank">{title_with_abbr}</a>')
     else:
-        html_parts.append(html.escape(notice["title"]))
+        html_parts.append(title_with_abbr)
+
+    # Add amendment type badge if available
+    if notice.get('amendment_type'):
+        amt = notice['amendment_type']
+        code_lower = amt['code'].lower()
+        html_parts.append(f'<span class="notice-amendment-type {code_lower}" title="{html.escape(amt["name"])}">{html.escape(amt["code"])}</span>')
+
     html_parts.append('</div>')
 
-    # Date
-    if notice.get('pub_date_formatted'):
-        html_parts.append(f'<div class="notice-date">{html.escape(notice["pub_date_formatted"])}</div>')
+    # Meeting date (if extracted)
+    if notice.get('meeting_date'):
+        html_parts.append(f'<div class="notice-meeting-date">📅 Meeting: {html.escape(notice["meeting_date"])}</div>')
 
     # Description (normalized by unescaping in parse_notice, re-escape for HTML)
     if notice.get('description'):
-        html_parts.append(f'<div class="notice-description">{html.escape(notice["description"])}</div>')
+        escaped_desc = html.escape(notice["description"])
+        desc_with_abbr = wrap_codes_with_abbr(escaped_desc)
+        html_parts.append(f'<div class="notice-description">{desc_with_abbr}</div>')
 
-    # Image
-    if notice.get('image_url'):
-        html_parts.append(f'<img class="notice-image" src="{html.escape(notice["image_url"])}" alt="{html.escape(notice["title"])}" loading="lazy">')
+    # Details list for extracted fields
+    details = []
+    if notice.get('property_address'):
+        details.append(f'📍 {html.escape(notice["property_address"])}')
+    if notice.get('zoning_change'):
+        escaped_zoning = html.escape(notice["zoning_change"])
+        zoning_with_abbr = wrap_codes_with_abbr(escaped_zoning)
+        details.append(f'🏗️ {zoning_with_abbr}')
+    if notice.get('parcel_id'):
+        parcel_links = generate_parcel_links(notice['parcel_id'])
+        details.append(f'🗂️ Parcel: {parcel_links}')
 
-    # Links
+    if details:
+        html_parts.append('<div class="notice-details">')
+        html_parts.append('<br>'.join(details))
+        html_parts.append('</div>')
+
+    # Publication date
+    if notice.get('pub_date_formatted'):
+        html_parts.append(f'<div class="notice-pub-date">Published: {html.escape(notice["pub_date_formatted"])}</div>')
+
+    # Links and expand button
     links = []
     if notice.get('pdf_url'):
         links.append(f'<a href="{html.escape(notice["pdf_url"])}" target="_blank">View PDF</a>')
     if notice.get('link'):
         links.append(f'<a href="{html.escape(notice["link"])}" target="_blank">Details</a>')
+    if notice.get('notice_text'):
+        links.append(f'<a href="#" class="expand-link" onclick="toggleFullText(event, {notice["id"]}); return false;">Show full text</a>')
 
     if links:
         html_parts.append('<div class="notice-links">')
-        html_parts.append(' '.join(links))
+        html_parts.append(' | '.join(links))
         html_parts.append('</div>')
 
-    html_parts.append('</div>')
+    # Full text section (hidden by default)
+    if notice.get('notice_text'):
+        html_parts.append(f'<div id="full-text-{notice["id"]}" class="notice-full-text" style="display: none;">')
+        html_parts.append(f'<div class="full-text-content">{html.escape(notice["notice_text"])}</div>')
+        html_parts.append('</div>')
+
+    html_parts.append('</div>')  # Close notice-content
+    html_parts.append('</div>')  # Close notice
 
     return '\n'.join(html_parts)
 
@@ -248,9 +660,24 @@ def main():
         # Get the script directory
         script_dir = os.path.dirname(os.path.abspath(__file__))
         docs_dir = os.path.join(script_dir, '..', 'docs')
+        thumbnails_dir = os.path.join(docs_dir, 'thumbnails')
 
         # Ensure docs directory exists
         os.makedirs(docs_dir, exist_ok=True)
+
+        # Generate thumbnails for notices with PDFs
+        print("Generating PDF thumbnails...")
+        for notice in notices:
+            if notice.get('pdf_url'):
+                thumbnail_url = generate_pdf_thumbnail(
+                    notice['pdf_url'],
+                    notice['id'],
+                    thumbnails_dir
+                )
+                if thumbnail_url:
+                    notice['thumbnail_url'] = thumbnail_url
+                    print(f"  Generated thumbnail for notice {notice['id']}")
+        print(f"Thumbnail generation complete")
 
         updated_time = datetime.now(datetime.UTC if hasattr(datetime, 'UTC') else None)
         if updated_time.tzinfo is None:
