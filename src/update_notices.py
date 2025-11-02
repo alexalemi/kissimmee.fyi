@@ -205,12 +205,16 @@ def cleanup_thumbnails(thumbnails_dir, current_notices):
 def extract_meeting_date(text):
     """Extract the meeting date and time from notice text."""
     import re
-    # Pattern: "on Wednesday, November 19, 2025 at 6:00 p.m."
-    pattern = r'on\s+(\w+),\s+(\w+)\s+(\d{1,2}),\s+(\d{4})\s+at\s+([\d:]+\s*[ap]\.?m\.?)'
+    # Pattern: "Wednesday, November 19, 2025 at 6:00 p.m." (with or without "on" before it)
+    # This handles both "on Wednesday..." and "on this request, Wednesday..."
+    pattern = r'(\w+),\s+(\w+)\s+(\d{1,2}),\s+(\d{4})\s+at\s+([\d:]+\s*[ap]\.?m\.?)'
     match = re.search(pattern, text, re.IGNORECASE)
     if match:
         day, month, date, year, time = match.groups()
-        return f"{day}, {month} {date}, {year} at {time}"
+        # Verify the first word is actually a day name
+        days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
+        if day.lower() in days:
+            return f"{day}, {month} {date}, {year} at {time}"
     return None
 
 
@@ -709,8 +713,11 @@ def generate_static_html(notices, template_path, output_path, updated_time):
     else:
         notices_html = '<p>No notices found.</p>'
 
-    # Generate updated timestamp
-    updated_html = f'Last updated: {updated_time.strftime("%B %d, %Y at %I:%M %p UTC")}'
+    # Generate updated timestamp in Eastern time
+    from zoneinfo import ZoneInfo
+    eastern_time = updated_time.astimezone(ZoneInfo('America/New_York'))
+    # %Z gives EST or EDT automatically
+    updated_html = f'Last updated: {eastern_time.strftime("%B %d, %Y at %I:%M %p %Z")}'
 
     # Replace placeholders
     html_output = template.replace('<!-- NOTICES_PLACEHOLDER -->', notices_html)
