@@ -16,6 +16,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   fetch-and-update:
@@ -47,13 +49,22 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          git diff --quiet src/notices_archive.json docs/index.html docs/archive.html docs/rss.xml docs/thumbnails/ || echo "changed=true" >> $GITHUB_OUTPUT
+          git diff --quiet data/notices/ docs/ || echo "changed=true" >> $GITHUB_OUTPUT
 
       - name: Commit and push if changed
         if: steps.check_changes.outputs.changed == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add src/notices_archive.json docs/index.html docs/archive.html docs/rss.xml docs/thumbnails/
+          git add data/notices/ docs/*.html docs/notices/
           git commit -m "Update public notices [skip ci]"
           git push
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

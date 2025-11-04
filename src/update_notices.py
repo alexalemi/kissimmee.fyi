@@ -113,6 +113,33 @@ def prettify_xml(elem):
     return reparsed.toprettyxml(indent="  ", encoding='utf-8').decode('utf-8')
 
 
+def group_notices_by_category(notices):
+    """
+    Group notices by their meeting body category.
+
+    Args:
+        notices: List of parsed notice dictionaries (with meeting_body_key field)
+
+    Returns:
+        dict: {category_key: {'name': category_name, 'notices': [notice1, notice2, ...]}}
+    """
+    categories = {}
+
+    for notice in notices:
+        category_key = notice.get('meeting_body_key', 'other')
+        category_name = notice.get('meeting_body_name', 'Other Notices')
+
+        if category_key not in categories:
+            categories[category_key] = {
+                'name': category_name,
+                'notices': []
+            }
+
+        categories[category_key]['notices'].append(notice)
+
+    return categories
+
+
 def load_archive(archive_path):
     """Load the historical notices archive from JSON file."""
     if not os.path.exists(archive_path):
@@ -386,7 +413,7 @@ def generate_pdf_thumbnail(pdf_url, notice_id, thumbnails_dir):
         import requests
 
         # Download PDF
-        response = requests.get(pdf_url, timeout=30)
+        response = requests.get(pdf_url, timeout=60)
         response.raise_for_status()
 
         # Convert first page to image
@@ -508,6 +535,82 @@ def generate_rss(notices, output_path):
         f.write(xml_string)
 
 
+def classify_meeting_body(text):
+    """
+    Classify which meeting body a notice is for based on text patterns.
+
+    Returns:
+        tuple: (category_key, category_name) where category_key is used for filenames/URLs
+               and category_name is the human-readable name
+
+    Possible returns:
+        ('pab', 'Planning Advisory Board')
+        ('city-commission', 'City Commission')
+        ('board-name', 'Detected Board Name')  # For other boards/committees
+        ('other', 'Other Notices')  # Catch-all
+    """
+    import re
+
+    if not text:
+        return ('other', 'Other Notices')
+
+    # Normalize text for matching
+    text_lower = text.lower()
+
+    # Check for Planning Advisory Board
+    # PAB notices typically say "Planning Advisory Board will make a recommendation"
+    pab_patterns = [
+        r'planning\s+advisory\s+board\s+will\s+(hold|make\s+a\s+recommendation)',
+        r'pab\s+will\s+(hold|make\s+a\s+recommendation)',
+    ]
+    for pattern in pab_patterns:
+        if re.search(pattern, text_lower):
+            return ('pab', 'Planning Advisory Board')
+
+    # Check for City Commission
+    # City Commission notices say "City Commission will/to consider/hold"
+    commission_patterns = [
+        r'city\s+commission\s+(will|to)\s+(hold|consider)',
+        r'city\s+commission\s+of\s+the\s+city\s+of\s+kissimmee',
+        r'reference\s*#\s*[^\s]*\s+city\s+commission',  # "Reference # ... CITY COMMISSION"
+    ]
+    for pattern in commission_patterns:
+        if re.search(pattern, text_lower):
+            # Filter out other cities (Casselberry, etc.)
+            if re.search(r'casselberry|city\s+of\s+casselberry', text_lower):
+                return ('other-boards', 'Other Boards & Committees')
+            # Ensure it's Kissimmee City Commission (check for Kissimmee indicators)
+            if re.search(r'kissimmee|101\s+church\s+street', text_lower):
+                return ('city-commission', 'City Commission')
+            # If neither, send to other-boards (safety net for other cities)
+            return ('other-boards', 'Other Boards & Committees')
+
+    # Check for Osceola County Board of County Commissioners
+    osceola_bcc_patterns = [
+        r'osceola\s+county\s+board\s+of\s+county\s+commissioners',
+        r'osceola\s+(?:county\s+)?(?:bcc|bocc)',
+    ]
+    for pattern in osceola_bcc_patterns:
+        if re.search(pattern, text_lower):
+            return ('osceola-bcc', 'Osceola County Board of County Commissioners')
+
+    # Check if this is any kind of board/committee/commission meeting notice
+    # Generic patterns to catch any board/committee/commission meetings not explicitly listed above
+    generic_board_indicators = [
+        r'\b(?:board|committee|commission)\s+(?:will|to|shall)\s+(?:meet|hold|consider)',
+        r'(?:meeting|hearing)\s+of\s+the\s+.+?\s+(?:board|committee|commission)',
+        r'public\s+(?:hearing|meeting)\s+.+?\s+(?:board|committee|commission)',
+        r'notice\s+of\s+(?:public\s+)?(?:hearing|meeting)',
+        r'(?:the\s+)?[a-z\s]+?\s+(?:board|committee)\s+(?:of\s+the\s+city\s+of\s+kissimmee\s+)?will\s+(?:hold|consider|make)',
+    ]
+    for pattern in generic_board_indicators:
+        if re.search(pattern, text_lower):
+            return ('other-boards', 'Other Boards & Committees')
+
+    # Default: Miscellaneous
+    return ('other', 'Miscellaneous Notices')
+
+
 def parse_notice(notice_data):
     """Parse a single notice from the API response."""
     # Debug: Print the first notice structure
@@ -538,6 +641,9 @@ def parse_notice(notice_data):
     reference_num = extract_reference_number(normalized_text) if normalized_text else None
     parcel_id = extract_parcel_id(normalized_text) if normalized_text else None
     amendment_type = extract_amendment_type(reference_num) if reference_num else None
+
+    # Classify which meeting body this notice is for
+    meeting_body_key, meeting_body_name = classify_meeting_body(normalized_text) if normalized_text else ('other', 'Other Notices')
 
     # Generate concise description
     short_desc = generate_short_description(normalized_text, property_address, zoning_change, reference_num)
@@ -591,6 +697,8 @@ def parse_notice(notice_data):
         'reference_num': reference_num,
         'parcel_id': parcel_id,
         'amendment_type': amendment_type,
+        'meeting_body_key': meeting_body_key,
+        'meeting_body_name': meeting_body_name,
     }
 
     # Try to format the publication date as RFC 822 for RSS
@@ -702,8 +810,16 @@ def generate_notice_html(notice):
     return '\n'.join(html_parts)
 
 
-def generate_static_html(notices, template_path, output_path, updated_time):
-    """Generate static HTML from template."""
+def generate_static_html(notices, template_path, output_path, updated_time, category_name=None):
+    """Generate static HTML from template.
+
+    Args:
+        notices: List of notice dictionaries
+        template_path: Path to HTML template file
+        output_path: Path to write generated HTML
+        updated_time: Datetime of last update
+        category_name: Optional category name to replace in template (e.g. "Planning Advisory Board")
+    """
     with open(template_path, 'r', encoding='utf-8') as f:
         template = f.read()
 
@@ -723,6 +839,10 @@ def generate_static_html(notices, template_path, output_path, updated_time):
     html_output = template.replace('<!-- NOTICES_PLACEHOLDER -->', notices_html)
     html_output = html_output.replace('<!-- UPDATED_PLACEHOLDER -->', updated_html)
 
+    # Replace category name if provided
+    if category_name:
+        html_output = html_output.replace('<!-- CATEGORY_NAME_PLACEHOLDER -->', category_name)
+
     # Write output
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(html_output)
@@ -733,7 +853,7 @@ def main():
     print("Fetching public notices...")
 
     try:
-        response = get_kissimmee_planning_advisory_board_docs(limit=50)
+        response = get_kissimmee_planning_advisory_board_docs(limit=500)
         response.raise_for_status()
 
         data = response.json()
@@ -753,20 +873,23 @@ def main():
         notices = [parse_notice(n) for n in raw_notices]
         print(f"Parsed {len(notices)} notices")
 
+        # Group notices by category (meeting body)
+        categories = group_notices_by_category(notices)
+        print(f"Found {len(categories)} notice categories: {', '.join(categories.keys())}")
+
         # Get the script directory
         script_dir = os.path.dirname(os.path.abspath(__file__))
         project_root = os.path.join(script_dir, '..')
         docs_dir = os.path.join(project_root, 'docs')
+        data_dir = os.path.join(project_root, 'data')
         templates_dir = os.path.join(project_root, 'templates')
-        pab_notices_dir = os.path.join(docs_dir, 'pab-notices')
         thumbnails_dir = os.path.join(docs_dir, 'thumbnails')
-        archive_path = os.path.join(script_dir, 'notices_archive.json')
 
         # Ensure directories exist
         os.makedirs(docs_dir, exist_ok=True)
-        os.makedirs(pab_notices_dir, exist_ok=True)
+        os.makedirs(data_dir, exist_ok=True)
 
-        # Generate thumbnails for CURRENT notices first (before merging into archive)
+        # Generate thumbnails for ALL current notices first (before merging into archive)
         print("Generating PDF thumbnails...")
         for notice in notices:
             if notice.get('pdf_url'):
@@ -780,17 +903,38 @@ def main():
                     print(f"  Generated thumbnail for notice {notice['id']}")
         print(f"Thumbnail generation complete")
 
-        # Load and merge with archive (thumbnails will be included in merge)
-        print("Loading archive...")
-        archive = load_archive(archive_path)
-        print(f"Archive contains {len(archive.get('notices', {}))} notices before merge")
+        # Process each category: load archive, merge, save, prepare for page generation
+        category_archives = {}  # Store archives and notices for each category
+        for category_key, category_data in categories.items():
+            category_name = category_data['name']
+            category_notices = category_data['notices']
 
-        archive = merge_notices(archive, notices)
-        save_archive(archive, archive_path)
+            print(f"\nProcessing category: {category_name} ({category_key})")
+            print(f"  Found {len(category_notices)} current notices")
 
-        # Get all archived notices as a list (sorted by date, newest first)
-        all_notices = list(archive['notices'].values())
-        all_notices.sort(key=lambda n: n.get('pub_date', ''), reverse=True)
+            # Archive path for this category (in data/notices/ subdirectory)
+            notices_data_dir = os.path.join(data_dir, 'notices')
+            os.makedirs(notices_data_dir, exist_ok=True)
+            archive_path = os.path.join(notices_data_dir, f'{category_key}.json')
+
+            # Load category-specific archive
+            archive = load_archive(archive_path)
+            print(f"  Archive contains {len(archive.get('notices', {}))} notices before merge")
+
+            # Merge and save
+            archive = merge_notices(archive, category_notices)
+            save_archive(archive, archive_path)
+
+            # Get all archived notices as a list (sorted by date, newest first)
+            all_notices = list(archive['notices'].values())
+            all_notices.sort(key=lambda n: n.get('pub_date', ''), reverse=True)
+
+            # Store for page generation
+            category_archives[category_key] = {
+                'name': category_name,
+                'current_notices': category_notices,
+                'all_notices': all_notices
+            }
 
         updated_time = datetime.now(datetime.UTC if hasattr(datetime, 'UTC') else None)
         if updated_time.tzinfo is None:
@@ -798,44 +942,56 @@ def main():
             from datetime import timezone
             updated_time = datetime.now(timezone.utc)
 
-        # Adjust thumbnail paths for PAB notices (in subdirectory)
-        # Since PAB pages are in /pab-notices/, thumbnails need ../thumbnails/ prefix
-        pab_notices = []
-        for notice in notices:
-            notice_copy = notice.copy()
-            if notice_copy.get('thumbnail_url') and notice_copy['thumbnail_url'].startswith('thumbnails/'):
-                notice_copy['thumbnail_url'] = '../' + notice_copy['thumbnail_url']
-            pab_notices.append(notice_copy)
+        # Generate pages for each category
+        for category_key, archive_data in category_archives.items():
+            category_name = archive_data['name']
+            current_notices = archive_data['current_notices']
+            all_notices = archive_data['all_notices']
+
+            print(f"\nGenerating pages for: {category_name} ({category_key})")
+
+            # Determine directory structure (in docs/notices/ subdirectory)
+            notices_docs_dir = os.path.join(docs_dir, 'notices')
+            category_dir = os.path.join(notices_docs_dir, category_key)
+            os.makedirs(category_dir, exist_ok=True)
+
+            # Adjust thumbnail paths for subdirectory pages
+            # Since category pages are now in docs/notices/{category}/, thumbnails need ../../thumbnails/ prefix
+            current_notices_adjusted = []
+            for notice in current_notices:
+                notice_copy = notice.copy()
+                if notice_copy.get('thumbnail_url') and notice_copy['thumbnail_url'].startswith('thumbnails/'):
+                    notice_copy['thumbnail_url'] = '../../' + notice_copy['thumbnail_url']
+                current_notices_adjusted.append(notice_copy)
+
+            # Generate current notices page (index.html)
+            current_template_path = os.path.join(templates_dir, 'pab.html')
+            current_html_path = os.path.join(category_dir, 'index.html')
+            generate_static_html(current_notices_adjusted, current_template_path, current_html_path, updated_time, category_name)
+            print(f"  Generated {current_html_path}")
+
+            # Generate archive page from all historical notices (without thumbnails)
+            archive_notices_no_thumbs = []
+            for notice in all_notices:
+                notice_copy = notice.copy()
+                notice_copy['thumbnail_url'] = None
+                archive_notices_no_thumbs.append(notice_copy)
+
+            archive_template_path = os.path.join(templates_dir, 'pab_archive.html')
+            archive_html_path = os.path.join(category_dir, 'archive.html')
+            generate_static_html(archive_notices_no_thumbs, archive_template_path, archive_html_path, updated_time, category_name)
+            print(f"  Generated {archive_html_path} with {len(all_notices)} total notices")
+
+            # Generate RSS feed
+            rss_path = os.path.join(category_dir, 'rss.xml')
+            generate_rss(current_notices, rss_path)
+            print(f"  Generated {rss_path}")
 
         # Generate landing page
         landing_template_path = os.path.join(templates_dir, 'index.html')
         landing_html_path = os.path.join(docs_dir, 'index.html')
         generate_static_html([], landing_template_path, landing_html_path, updated_time)
         print(f"Generated {landing_html_path}")
-
-        # Generate PAB main page from current API results only
-        pab_template_path = os.path.join(templates_dir, 'pab.html')
-        pab_html_path = os.path.join(pab_notices_dir, 'index.html')
-        generate_static_html(pab_notices, pab_template_path, pab_html_path, updated_time)
-        print(f"Generated {pab_html_path}")
-
-        # Generate archive page from all historical notices (without thumbnails)
-        # Create copies of notices without thumbnail_url to avoid rendering thumbnails on archive
-        archive_notices_no_thumbs = []
-        for notice in all_notices:
-            notice_copy = notice.copy()
-            notice_copy['thumbnail_url'] = None
-            archive_notices_no_thumbs.append(notice_copy)
-
-        archive_template_path = os.path.join(templates_dir, 'pab_archive.html')
-        archive_html_path = os.path.join(pab_notices_dir, 'archive.html')
-        generate_static_html(archive_notices_no_thumbs, archive_template_path, archive_html_path, updated_time)
-        print(f"Generated {archive_html_path} with {len(all_notices)} total notices")
-
-        # Generate RSS from current API results only
-        rss_path = os.path.join(pab_notices_dir, 'rss.xml')
-        generate_rss(notices, rss_path)
-        print(f"Generated {rss_path}")
 
         # Clean up orphaned thumbnails (only keep thumbnails for current notices)
         cleanup_thumbnails(thumbnails_dir, notices)

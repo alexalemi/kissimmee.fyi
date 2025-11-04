@@ -3,15 +3,18 @@ import logging
 
 
 def get_kissimmee_planning_advisory_board_docs(
-    offset=None, limit=12, keywords=f'"Planning Advisory Board"'
+    offset=None, limit=12, keywords="meeting OR board OR commission OR workshop"
 ):
     """
-    Fetch documents from Florida Public Notices for Kissimmee Planning Advisory Board.
+    Fetch documents from Florida Public Notices for Osceola County.
+
+    Searches broadly for meeting-related notices in Osceola County,
+    which are then filtered and categorized locally by meeting body type.
 
     Args:
         offset: Pagination offset (default: None)
         limit: Number of results to return (default: 12)
-        keywords: Search keywords (default: "Kissimmee Planning Advisory Board")
+        keywords: Search keywords (default: "meeting OR board OR commission OR workshop")
 
     Returns:
         Response object from the API request
