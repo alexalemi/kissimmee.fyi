@@ -755,12 +755,16 @@ def main():
 
         # Get the script directory
         script_dir = os.path.dirname(os.path.abspath(__file__))
-        docs_dir = os.path.join(script_dir, '..', 'docs')
+        project_root = os.path.join(script_dir, '..')
+        docs_dir = os.path.join(project_root, 'docs')
+        templates_dir = os.path.join(project_root, 'templates')
+        pab_notices_dir = os.path.join(docs_dir, 'pab-notices')
         thumbnails_dir = os.path.join(docs_dir, 'thumbnails')
         archive_path = os.path.join(script_dir, 'notices_archive.json')
 
-        # Ensure docs directory exists
+        # Ensure directories exist
         os.makedirs(docs_dir, exist_ok=True)
+        os.makedirs(pab_notices_dir, exist_ok=True)
 
         # Generate thumbnails for CURRENT notices first (before merging into archive)
         print("Generating PDF thumbnails...")
@@ -794,11 +798,26 @@ def main():
             from datetime import timezone
             updated_time = datetime.now(timezone.utc)
 
-        # Generate main page from current API results only
-        template_path = os.path.join(docs_dir, 'template.html')
-        html_path = os.path.join(docs_dir, 'index.html')
-        generate_static_html(notices, template_path, html_path, updated_time)
-        print(f"Generated {html_path}")
+        # Adjust thumbnail paths for PAB notices (in subdirectory)
+        # Since PAB pages are in /pab-notices/, thumbnails need ../thumbnails/ prefix
+        pab_notices = []
+        for notice in notices:
+            notice_copy = notice.copy()
+            if notice_copy.get('thumbnail_url') and notice_copy['thumbnail_url'].startswith('thumbnails/'):
+                notice_copy['thumbnail_url'] = '../' + notice_copy['thumbnail_url']
+            pab_notices.append(notice_copy)
+
+        # Generate landing page
+        landing_template_path = os.path.join(templates_dir, 'index.html')
+        landing_html_path = os.path.join(docs_dir, 'index.html')
+        generate_static_html([], landing_template_path, landing_html_path, updated_time)
+        print(f"Generated {landing_html_path}")
+
+        # Generate PAB main page from current API results only
+        pab_template_path = os.path.join(templates_dir, 'pab.html')
+        pab_html_path = os.path.join(pab_notices_dir, 'index.html')
+        generate_static_html(pab_notices, pab_template_path, pab_html_path, updated_time)
+        print(f"Generated {pab_html_path}")
 
         # Generate archive page from all historical notices (without thumbnails)
         # Create copies of notices without thumbnail_url to avoid rendering thumbnails on archive
@@ -808,13 +827,13 @@ def main():
             notice_copy['thumbnail_url'] = None
             archive_notices_no_thumbs.append(notice_copy)
 
-        archive_template_path = os.path.join(docs_dir, 'archive_template.html')
-        archive_html_path = os.path.join(docs_dir, 'archive.html')
+        archive_template_path = os.path.join(templates_dir, 'pab_archive.html')
+        archive_html_path = os.path.join(pab_notices_dir, 'archive.html')
         generate_static_html(archive_notices_no_thumbs, archive_template_path, archive_html_path, updated_time)
         print(f"Generated {archive_html_path} with {len(all_notices)} total notices")
 
         # Generate RSS from current API results only
-        rss_path = os.path.join(docs_dir, 'rss.xml')
+        rss_path = os.path.join(pab_notices_dir, 'rss.xml')
         generate_rss(notices, rss_path)
         print(f"Generated {rss_path}")
 
