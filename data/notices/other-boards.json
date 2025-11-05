@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-05T12:29:15.787031+00:00",
+  "last_updated": "2025-11-05T18:19:35.319969+00:00",
   "notices": {
     "11377293": {
       "id": 11377293,
@@ -25,7 +25,7 @@
       "pub_date_rfc822": "Thu, 30 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 30, 2025",
       "first_seen": "2025-11-04T14:43:47.184969+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11377285": {
       "id": 11377285,
@@ -51,7 +51,7 @@
       "pub_date_rfc822": "Thu, 30 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 30, 2025",
       "first_seen": "2025-11-04T14:43:47.184969+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11377277": {
       "id": 11377277,
@@ -77,7 +77,7 @@
       "pub_date_rfc822": "Thu, 30 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 30, 2025",
       "first_seen": "2025-11-04T14:43:47.184969+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11375926": {
       "id": 11375926,
@@ -103,7 +103,7 @@
       "pub_date_rfc822": "Thu, 30 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 30, 2025",
       "first_seen": "2025-11-04T14:43:47.184969+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11375925": {
       "id": 11375925,
@@ -129,7 +129,7 @@
       "pub_date_rfc822": "Thu, 30 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 30, 2025",
       "first_seen": "2025-11-04T14:43:47.184969+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11372826": {
       "id": 11372826,
@@ -155,7 +155,7 @@
       "pub_date_rfc822": "Mon, 27 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 27, 2025",
       "first_seen": "2025-11-04T14:43:47.184969+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11372071": {
       "id": 11372071,
@@ -181,7 +181,7 @@
       "pub_date_rfc822": "Sun, 26 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 26, 2025",
       "first_seen": "2025-11-04T14:43:47.184969+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11368699": {
       "id": 11368699,
@@ -207,7 +207,7 @@
       "pub_date_rfc822": "Thu, 23 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 23, 2025",
       "first_seen": "2025-11-04T14:43:47.184969+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11368001": {
       "id": 11368001,
@@ -233,7 +233,7 @@
       "pub_date_rfc822": "Thu, 23 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 23, 2025",
       "first_seen": "2025-11-04T14:43:47.184969+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11358439": {
       "id": 11358439,
@@ -259,7 +259,7 @@
       "pub_date_rfc822": "Tue, 14 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 14, 2025",
       "first_seen": "2025-11-04T14:43:47.184969+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11355597": {
       "id": 11355597,
@@ -285,7 +285,7 @@
       "pub_date_rfc822": "Fri, 10 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 10, 2025",
       "first_seen": "2025-11-04T14:43:47.184969+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11355596": {
       "id": 11355596,
@@ -311,7 +311,7 @@
       "pub_date_rfc822": "Fri, 10 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 10, 2025",
       "first_seen": "2025-11-04T14:43:47.184969+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11353867": {
       "id": 11353867,
@@ -337,7 +337,7 @@
       "pub_date_rfc822": "Thu, 09 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 09, 2025",
       "first_seen": "2025-11-04T14:43:47.184969+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11353852": {
       "id": 11353852,
@@ -363,7 +363,7 @@
       "pub_date_rfc822": "Thu, 09 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 09, 2025",
       "first_seen": "2025-11-04T14:43:47.184969+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11349949": {
       "id": 11349949,
@@ -389,7 +389,7 @@
       "pub_date_rfc822": "Mon, 06 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 06, 2025",
       "first_seen": "2025-11-04T14:43:47.184969+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11349948": {
       "id": 11349948,
@@ -415,7 +415,7 @@
       "pub_date_rfc822": "Mon, 06 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 06, 2025",
       "first_seen": "2025-11-04T14:43:47.184969+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11344648": {
       "id": 11344648,
@@ -441,7 +441,7 @@
       "pub_date_rfc822": "Thu, 02 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 02, 2025",
       "first_seen": "2025-11-04T14:43:47.184969+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11344642": {
       "id": 11344642,
@@ -467,7 +467,7 @@
       "pub_date_rfc822": "Thu, 02 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 02, 2025",
       "first_seen": "2025-11-04T14:43:47.184969+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11344622": {
       "id": 11344622,
@@ -493,7 +493,7 @@
       "pub_date_rfc822": "Thu, 02 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 02, 2025",
       "first_seen": "2025-11-04T14:43:47.184969+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11344613": {
       "id": 11344613,
@@ -519,7 +519,7 @@
       "pub_date_rfc822": "Thu, 02 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 02, 2025",
       "first_seen": "2025-11-04T14:43:47.184969+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11381718": {
       "id": 11381718,
@@ -545,7 +545,7 @@
       "pub_date_rfc822": "Mon, 03 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 03, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11381715": {
       "id": 11381715,
@@ -571,7 +571,7 @@
       "pub_date_rfc822": "Mon, 03 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 03, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11380879": {
       "id": 11380879,
@@ -597,7 +597,7 @@
       "pub_date_rfc822": "Sun, 02 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 02, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11380878": {
       "id": 11380878,
@@ -623,7 +623,7 @@
       "pub_date_rfc822": "Sun, 02 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 02, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11380870": {
       "id": 11380870,
@@ -649,7 +649,7 @@
       "pub_date_rfc822": "Sun, 02 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 02, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11380865": {
       "id": 11380865,
@@ -675,7 +675,7 @@
       "pub_date_rfc822": "Sun, 02 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 02, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11380864": {
       "id": 11380864,
@@ -701,7 +701,7 @@
       "pub_date_rfc822": "Sun, 02 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 02, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11380863": {
       "id": 11380863,
@@ -727,7 +727,7 @@
       "pub_date_rfc822": "Sun, 02 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 02, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11380846": {
       "id": 11380846,
@@ -753,7 +753,7 @@
       "pub_date_rfc822": "Sun, 02 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 02, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11380842": {
       "id": 11380842,
@@ -779,7 +779,7 @@
       "pub_date_rfc822": "Sun, 02 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 02, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11378594": {
       "id": 11378594,
@@ -805,7 +805,7 @@
       "pub_date_rfc822": "Fri, 31 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 31, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11377530": {
       "id": 11377530,
@@ -831,7 +831,7 @@
       "pub_date_rfc822": "Thu, 30 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 30, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11377529": {
       "id": 11377529,
@@ -857,7 +857,7 @@
       "pub_date_rfc822": "Thu, 30 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 30, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11377528": {
       "id": 11377528,
@@ -883,7 +883,7 @@
       "pub_date_rfc822": "Thu, 30 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 30, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11377527": {
       "id": 11377527,
@@ -909,7 +909,7 @@
       "pub_date_rfc822": "Thu, 30 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 30, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11377526": {
       "id": 11377526,
@@ -935,7 +935,7 @@
       "pub_date_rfc822": "Thu, 30 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 30, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11377303": {
       "id": 11377303,
@@ -961,7 +961,7 @@
       "pub_date_rfc822": "Thu, 30 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 30, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11377298": {
       "id": 11377298,
@@ -987,7 +987,7 @@
       "pub_date_rfc822": "Thu, 30 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 30, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11377278": {
       "id": 11377278,
@@ -1013,7 +1013,7 @@
       "pub_date_rfc822": "Thu, 30 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 30, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11377269": {
       "id": 11377269,
@@ -1039,7 +1039,7 @@
       "pub_date_rfc822": "Thu, 30 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 30, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11375602": {
       "id": 11375602,
@@ -1065,7 +1065,7 @@
       "pub_date_rfc822": "Wed, 29 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 29, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11373332": {
       "id": 11373332,
@@ -1091,7 +1091,7 @@
       "pub_date_rfc822": "Tue, 28 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 28, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11372094": {
       "id": 11372094,
@@ -1117,7 +1117,7 @@
       "pub_date_rfc822": "Sun, 26 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 26, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11372086": {
       "id": 11372086,
@@ -1143,7 +1143,7 @@
       "pub_date_rfc822": "Sun, 26 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 26, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11372085": {
       "id": 11372085,
@@ -1169,7 +1169,7 @@
       "pub_date_rfc822": "Sun, 26 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 26, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11372083": {
       "id": 11372083,
@@ -1195,7 +1195,7 @@
       "pub_date_rfc822": "Sun, 26 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 26, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11371431": {
       "id": 11371431,
@@ -1221,7 +1221,7 @@
       "pub_date_rfc822": "Sat, 25 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 25, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11371430": {
       "id": 11371430,
@@ -1247,7 +1247,7 @@
       "pub_date_rfc822": "Sat, 25 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 25, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11368682": {
       "id": 11368682,
@@ -1273,7 +1273,7 @@
       "pub_date_rfc822": "Thu, 23 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 23, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11367853": {
       "id": 11367853,
@@ -1299,7 +1299,7 @@
       "pub_date_rfc822": "Wed, 22 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 22, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11366053": {
       "id": 11366053,
@@ -1325,7 +1325,7 @@
       "pub_date_rfc822": "Tue, 21 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 21, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11365258": {
       "id": 11365258,
@@ -1351,7 +1351,7 @@
       "pub_date_rfc822": "Mon, 20 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 20, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11364461": {
       "id": 11364461,
@@ -1377,7 +1377,7 @@
       "pub_date_rfc822": "Sun, 19 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 19, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11364459": {
       "id": 11364459,
@@ -1403,7 +1403,7 @@
       "pub_date_rfc822": "Sun, 19 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 19, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11364458": {
       "id": 11364458,
@@ -1429,7 +1429,7 @@
       "pub_date_rfc822": "Sun, 19 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 19, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11364454": {
       "id": 11364454,
@@ -1455,7 +1455,7 @@
       "pub_date_rfc822": "Sun, 19 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 19, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11364452": {
       "id": 11364452,
@@ -1481,7 +1481,7 @@
       "pub_date_rfc822": "Sun, 19 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 19, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11364451": {
       "id": 11364451,
@@ -1507,7 +1507,7 @@
       "pub_date_rfc822": "Sun, 19 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 19, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11364440": {
       "id": 11364440,
@@ -1533,7 +1533,7 @@
       "pub_date_rfc822": "Sun, 19 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 19, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11364433": {
       "id": 11364433,
@@ -1559,7 +1559,7 @@
       "pub_date_rfc822": "Sun, 19 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 19, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11363803": {
       "id": 11363803,
@@ -1585,7 +1585,7 @@
       "pub_date_rfc822": "Sat, 18 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 18, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11363147": {
       "id": 11363147,
@@ -1611,7 +1611,7 @@
       "pub_date_rfc822": "Fri, 17 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 17, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11360352": {
       "id": 11360352,
@@ -1637,7 +1637,7 @@
       "pub_date_rfc822": "Thu, 16 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 16, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11360351": {
       "id": 11360351,
@@ -1663,7 +1663,7 @@
       "pub_date_rfc822": "Thu, 16 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 16, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11360058": {
       "id": 11360058,
@@ -1689,7 +1689,7 @@
       "pub_date_rfc822": "Wed, 15 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 15, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11358434": {
       "id": 11358434,
@@ -1715,7 +1715,7 @@
       "pub_date_rfc822": "Tue, 14 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 14, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11358432": {
       "id": 11358432,
@@ -1741,7 +1741,7 @@
       "pub_date_rfc822": "Tue, 14 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 14, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11358431": {
       "id": 11358431,
@@ -1767,7 +1767,7 @@
       "pub_date_rfc822": "Tue, 14 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 14, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11358430": {
       "id": 11358430,
@@ -1793,7 +1793,7 @@
       "pub_date_rfc822": "Tue, 14 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 14, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11358429": {
       "id": 11358429,
@@ -1819,7 +1819,7 @@
       "pub_date_rfc822": "Tue, 14 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 14, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11358428": {
       "id": 11358428,
@@ -1845,7 +1845,7 @@
       "pub_date_rfc822": "Tue, 14 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 14, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11356880": {
       "id": 11356880,
@@ -1871,7 +1871,7 @@
       "pub_date_rfc822": "Sun, 12 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 12, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11356876": {
       "id": 11356876,
@@ -1897,7 +1897,7 @@
       "pub_date_rfc822": "Sun, 12 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 12, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11356869": {
       "id": 11356869,
@@ -1923,7 +1923,7 @@
       "pub_date_rfc822": "Sun, 12 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 12, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11355593": {
       "id": 11355593,
@@ -1949,7 +1949,7 @@
       "pub_date_rfc822": "Fri, 10 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 10, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11354107": {
       "id": 11354107,
@@ -1975,7 +1975,7 @@
       "pub_date_rfc822": "Thu, 09 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 09, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11354104": {
       "id": 11354104,
@@ -2001,7 +2001,7 @@
       "pub_date_rfc822": "Thu, 09 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 09, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11353872": {
       "id": 11353872,
@@ -2027,7 +2027,7 @@
       "pub_date_rfc822": "Thu, 09 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 09, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11353869": {
       "id": 11353869,
@@ -2053,7 +2053,7 @@
       "pub_date_rfc822": "Thu, 09 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 09, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11353866": {
       "id": 11353866,
@@ -2079,7 +2079,7 @@
       "pub_date_rfc822": "Thu, 09 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 09, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11353855": {
       "id": 11353855,
@@ -2105,7 +2105,7 @@
       "pub_date_rfc822": "Thu, 09 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 09, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11353844": {
       "id": 11353844,
@@ -2131,7 +2131,7 @@
       "pub_date_rfc822": "Thu, 09 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 09, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11353839": {
       "id": 11353839,
@@ -2157,7 +2157,7 @@
       "pub_date_rfc822": "Thu, 09 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 09, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11353837": {
       "id": 11353837,
@@ -2183,7 +2183,7 @@
       "pub_date_rfc822": "Thu, 09 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 09, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11352284": {
       "id": 11352284,
@@ -2209,7 +2209,7 @@
       "pub_date_rfc822": "Thu, 09 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 09, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11352283": {
       "id": 11352283,
@@ -2235,7 +2235,7 @@
       "pub_date_rfc822": "Thu, 09 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 09, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11352282": {
       "id": 11352282,
@@ -2261,7 +2261,7 @@
       "pub_date_rfc822": "Thu, 09 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 09, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11349084": {
       "id": 11349084,
@@ -2287,7 +2287,7 @@
       "pub_date_rfc822": "Sun, 05 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 05, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11349083": {
       "id": 11349083,
@@ -2313,7 +2313,7 @@
       "pub_date_rfc822": "Sun, 05 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 05, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11349076": {
       "id": 11349076,
@@ -2339,7 +2339,7 @@
       "pub_date_rfc822": "Sun, 05 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 05, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11348437": {
       "id": 11348437,
@@ -2365,7 +2365,7 @@
       "pub_date_rfc822": "Sat, 04 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 04, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11345009": {
       "id": 11345009,
@@ -2391,7 +2391,7 @@
       "pub_date_rfc822": "Thu, 02 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 02, 2025",
       "first_seen": "2025-11-04T14:45:59.071163+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11343195": {
       "id": 11343195,
@@ -2469,7 +2469,7 @@
       "pub_date_rfc822": "Wed, 29 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 29, 2025",
       "first_seen": "2025-11-04T14:46:43.883693+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11380866": {
       "id": 11380866,
@@ -2495,7 +2495,7 @@
       "pub_date_rfc822": "Sun, 02 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 02, 2025",
       "first_seen": "2025-11-04T14:51:31.090465+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11380856": {
       "id": 11380856,
@@ -2521,7 +2521,7 @@
       "pub_date_rfc822": "Sun, 02 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 02, 2025",
       "first_seen": "2025-11-04T15:04:09.253585+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11380855": {
       "id": 11380855,
@@ -2547,7 +2547,7 @@
       "pub_date_rfc822": "Sun, 02 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 02, 2025",
       "first_seen": "2025-11-04T15:04:09.253585+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11378596": {
       "id": 11378596,
@@ -2573,7 +2573,7 @@
       "pub_date_rfc822": "Fri, 31 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 31, 2025",
       "first_seen": "2025-11-04T15:04:09.253585+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11370752": {
       "id": 11370752,
@@ -2599,7 +2599,7 @@
       "pub_date_rfc822": "Fri, 24 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 24, 2025",
       "first_seen": "2025-11-04T15:04:09.253585+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11368668": {
       "id": 11368668,
@@ -2625,7 +2625,7 @@
       "pub_date_rfc822": "Thu, 23 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 23, 2025",
       "first_seen": "2025-11-04T15:04:09.253585+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11362050": {
       "id": 11362050,
@@ -2651,7 +2651,7 @@
       "pub_date_rfc822": "Thu, 16 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 16, 2025",
       "first_seen": "2025-11-04T15:04:09.253585+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11345008": {
       "id": 11345008,
@@ -2677,7 +2677,7 @@
       "pub_date_rfc822": "Thu, 02 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 02, 2025",
       "first_seen": "2025-11-04T15:04:09.253585+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11382376": {
       "id": 11382376,
@@ -2703,7 +2703,7 @@
       "pub_date_rfc822": "Tue, 04 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 04, 2025",
       "first_seen": "2025-11-04T15:46:04.452989+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     },
     "11382375": {
       "id": 11382375,
@@ -2729,7 +2729,59 @@
       "pub_date_rfc822": "Tue, 04 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 04, 2025",
       "first_seen": "2025-11-04T15:46:04.452989+00:00",
-      "last_seen": "2025-11-05T12:29:15.787031+00:00"
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
+    },
+    "11384320": {
+      "id": 11384320,
+      "title": "Miscellaneous Notices - Orlando",
+      "description": "PLANNING AND ZONING COMMISSION / LOCAL PLANNING AGENCY  PUBLIC HEARING AGENDA November 20, 2025DEAR PROPERTY OWNER OR INTERESTED PARTY:  At 9:00 a",
+      "notice_text": "PLANNING AND ZONING COMMISSION / LOCAL PLANNING AGENCY  PUBLIC HEARING AGENDA November 20, 2025DEAR PROPERTY OWNER OR INTERESTED PARTY:  At 9:00 a.m. on Thursday, November 20, 2025, or as soon thereafter as the matters may be considered, the Orange County Planning and Zoning Commission (PZC) / Local Planning Agency (LPA) shall hold a public hearing to consider the rezoning requests listed below and public hearing for an ordinance as described below.  PZC / LPA public hearings are held in the Board of County Commissioners Chambers located on the 1st Floor of the Orange County Administration Building, 201 South Rosalind Avenue, Orlando, Florida.   The staff report book and meeting agenda will also be available for public viewing on the Orange County website (www.orangecountyfl.net) one week prior to the public hearing.  Please be advised that this notice is published in accordance with the Orange County Code, Section 30-1(d)(6) and Section 30-40 as well as the provisions of the Orange County Comprehensive Plan and applicable state law.  Section 286.0105, Florida Statutes, states that if a person decides to appeal any decision made by a board, agency, or commission with respect to any matter considered at a meeting or hearing, he or she will need a record of the proceedings, and that, for such purpose, he or she may need to ensure that a verbatim record of the proceedings is made, which record includes the testimony and evidence upon which the appeal is to be based.  In accordance with the Americans with Disabilities Act (ADA), if any person with a disability as defined by the ADA needs special accommodations to participate in this proceeding, then not later than two (2) business days prior to the proceedings, he or she should contact the Government Service Center at (407) 836-3111.  Alberto A. Vargas  Planning Manager  Para mas informacion referente a esta vista publica, favor comunicarse al Departamento de Planificacion al numero 407-836-5600. Pou plis enfomasyon an Kreyol souple rele (407)836-3111.  AGENDA:  9:00 A.M.  Pledge of Allegiance, review of the October 16, 2025, PZC/LPA meeting minutes, and public comment.  The following public hearings will occur after public comment:  A. Privately Initiated Rezoning Request:  RZ-25-10-009 APPLICANT: Angelina Lomova Bellew OWNER: Angelina Lomova Bellew REQUEST: To rezone from R-1A (Single-Family Dwelling District) to R-2 (Residential District) LOCATION: 750 28th Street, generally located south of 28th Street, east of Lee Street and north of 29th Street.  LEGAL: Legal description on file in the Planning Division TRACT SIZE: 0.25 gross acre DISTRICT: 3  RZ-25-10-010 APPLICANT: Victor GaubecaOWNER: Victor Gaubeca REQUEST: To rezone from C-2 (General Commercial District) to C-3 (Wholesale Commercial District) LOCATION: 8112 E. Colonial Drive, generally located south of E Colonial drive, east of N Chickasaw Trail, and west of Sue Ann Street  LEGAL: Legal description on file in the Planning Division TRACT SIZE: 1.13 gross acres DISTRICT: 3  RZ-25-10-012 APPLICANT: Laura Hoyos   OWNER: Laura HoyosREQUEST: To rezone from C-1 (Retail Commercial District) to C-2 (General Commercial District)  LOCATION: 8517 E. Colonial Drive, generally located north of E Colonial Drive, west of Harrell Road, and east of Sue Ann Street.  LEGAL: Legal description on file in the Planning Division TRACT SIZE: 0.93 gross acre DISTRICT: 5  RZ-25-11-014 APPLICANT: Joshua Conradi, Kimley Horn and Associates  OWNER: Rolling Frito Lays Sales  REQUEST: To rezone from I-2 / I-3 (Industrial District- General) Commercial District) to C-3 (Wholesale Commercial District) LOCATION: 3900 Silver Star Road; generally located south of Silver Star, east of Mercy Dr, north of West Princeton, and west of John Young Pkwy LEGAL: Legal description on file in the Planning Division TRACT SIZE: 4.8 gross acre DISTRICT: 6  RZ-25-11-016 APPLICANT: Darshani Lokhnath   OWNER: ADLE Investments, LLC REQUEST: To rezone from R-1A (Single-Family Dwelling District) to R-1 (Single-Family Dwelling District) LOCATION: 120 and 124 N Pine Hills Road, generally located north of Washington Street, south of Robinson Street, east of Mandrake Street, and west of Pine Hills Road  LEGAL: Legal description on file in the Planning Division TRACT SIZE: 0.42 gross acre DISTRICT: 6  RZ-25-11-018 APPLICANT: Jimmy L Walton OWNER: Jimmy L Walton REQUEST: To rezone from A-1 (Citrus Rural District) to R-1AA (Single-Family Dwelling District) LOCATION: North of Alpine Drive, south of Red Bird Lane, east of Busbee Avenue, west of S Lake Pleasant Road LEGAL: Legal description on file in the Planning Division TRACT SIZE: 0.45 gross acre DISTRICT: 2  RZ-25-11-026 APPLICANT: Mango Castelo Branco M De Olivera  OWNER: Magno Castelo Branco M De Olivera REQUEST: To rezone from R-3 (Multiple-Family Dwelling District) to R-2 (Residential District) LOCATION: 1111, 1117, and 1123 Derby Avenue; generally located east of Clarcona Road, west of Robinson Avenue, north of E. 12th St LEGAL: Legal description on file in the Planning Division TRACT SIZE: 0.57 gross acre DISTRICT: 2  Public Hearing :  AN ORDINANCE OF ORANGE COUNTY, FLORIDA PERTAINING TO THE ESTABLISHMENT OF CERTIFIED RECOVERY RESIDENCES AND PROCEDURES FOR REASONABLE ACCOMMODATION REQUESTS; PROVIDING A PROCESS TO REVIEW AND APPROVE REASONABLE ACCOMMODATION REQUESTS TO THE COUNTYS ZONING CODE FOR PERSONS WITH  DISABILITIES AS PROVIDED BY THE FAIR HOUSING AMENDMENTS ACT, TITLE II OF THE AMERICANS WITH DISABILITIES ACT AND OTHER APPLICABLE STATE AND FEDERAL REGULATIONS; AMENDING CHAPTER 38 OF THE ORANGE COUNTY CODE (ZONING); CREATING A NEW SECTION 38-1403 (REASONABLE ACCOMMODATION PROCESS); AND PROVIDING AN EFFECTIVE DATE. 7891781 11/5/2025",
+      "pub_date": "2025-11-05",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11384320",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Orlando Sentinel",
+      "city": "Orlando",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": null,
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "other-boards",
+      "meeting_body_name": "Other Boards & Committees",
+      "pub_date_rfc822": "Wed, 05 Nov 2025 00:00:00 +0000",
+      "pub_date_formatted": "November 05, 2025",
+      "first_seen": "2025-11-05T18:19:35.319969+00:00",
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
+    },
+    "11384319": {
+      "id": 11384319,
+      "title": "Government Publications - Notices of Hearings - Orlando",
+      "description": "NOTICE OF REGULAR MEETING OF THE BOARD OF SUPERVISORS OF THE SHINGLE CREEK TRANSIT AND UTILITY COMMUNITY DEVELOPMENT DISTRICTThe Board of Superviso...",
+      "notice_text": "NOTICE OF REGULAR MEETING OF THE BOARD OF SUPERVISORS OF THE SHINGLE CREEK TRANSIT AND UTILITY COMMUNITY DEVELOPMENT DISTRICTThe Board of Supervisors (the Board) of the Shingle Creek Transit and Utility Community Development District (the District) will hold a regular meeting of its Board on Wednesday, November 12, 2025, at 2:00 p.m., at 3501 Quadrangle Boulevard, Suite 197, Orlando, Florida 32817. At such time, the Board is so authorized and may consider any business that may properly come before it. A copy of the agenda for the meeting may be obtained by contacting the District Manager, PFM Group Consulting LLC, 3501 Quadrangle Boulevard, Suite 270, Orlando, Florida 32817, Phone (407) 723-5900.  The meeting is open to the public and will be conducted in accordance with the provisions of Florida law. The meeting may be continued to a date, time, and place to be specified on the record at such meeting. There may be occasions when one or more Supervisors will participate by telephone.   Pursuant to provisions of the Americans with Disabilities Act, any person requiring special accommodations to participate in this meeting is asked to advise the District Manager, at least forty-eight (48) hours before the meeting. If you are hearing or speech impaired, please contact the Florida Relay Service at 7-1-1 or 1-800-955-8771 (TTY), or 1-800-955-8770 (Voice), who can aid you in contacting the District Manager.  A person who decides to appeal any decision made by the Board with respect to any matter considered at the meeting is advised that such person will need a record of the proceedings and that accordingly, the person may need to ensure that a verbatim record of the proceedings is made, including the testimony and evidence upon which the appeal is to be based.   Jennifer Walden District Manager 7882611 11/5/2025",
+      "pub_date": "2025-11-05",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11384319",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Orlando Sentinel",
+      "city": "Orlando",
+      "subcategory": "Government Publications - Notices of Hearings",
+      "meeting_date": null,
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "other-boards",
+      "meeting_body_name": "Other Boards & Committees",
+      "pub_date_rfc822": "Wed, 05 Nov 2025 00:00:00 +0000",
+      "pub_date_formatted": "November 05, 2025",
+      "first_seen": "2025-11-05T18:19:35.319969+00:00",
+      "last_seen": "2025-11-05T18:19:35.319969+00:00"
     }
   }
 }
