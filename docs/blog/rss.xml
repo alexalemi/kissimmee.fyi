@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>kissimmee.fyi Blog</title>
+    <link>https://kissimmee.fyi/blog/</link>
+    <description>Civic education and insights about Kissimmee, Florida</description>
+    <language>en-us</language>
+    <item>
+      <title>Understanding Public Notices - A Guide for Kissimmee Residents</title>
+      <link>https://kissimmee.fyi/blog/understanding-public-notices.html</link>
+      <description>Learn how to read and understand public notices for Planning Advisory Board meetings, including zoning changes and development proposals.</description>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://kissimmee.fyi/blog/understanding-public-notices.html</guid>
+    </item>
+  </channel>
+</rss>
