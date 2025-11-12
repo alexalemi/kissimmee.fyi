@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-12T12:28:34.304760+00:00",
+  "last_updated": "2025-11-12T18:20:23.690657+00:00",
   "notices": {
     "11378591": {
       "id": 11378591,
@@ -26,7 +26,7 @@
       "pub_date_rfc822": "Fri, 31 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 31, 2025",
       "first_seen": "2025-11-02T13:18:30.703012",
-      "last_seen": "2025-11-12T12:28:34.304760+00:00",
+      "last_seen": "2025-11-12T18:20:23.690657+00:00",
       "meeting_body_key": "pab",
       "meeting_body_name": "Planning Advisory Board"
     },
@@ -55,7 +55,7 @@
       "pub_date_rfc822": "Tue, 21 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 21, 2025",
       "first_seen": "2025-11-02T13:18:30.703012",
-      "last_seen": "2025-11-12T12:28:34.304760+00:00",
+      "last_seen": "2025-11-12T18:20:23.690657+00:00",
       "meeting_body_key": "pab",
       "meeting_body_name": "Planning Advisory Board"
     },
@@ -84,7 +84,7 @@
       "pub_date_rfc822": "Tue, 21 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 21, 2025",
       "first_seen": "2025-11-02T13:18:30.703012",
-      "last_seen": "2025-11-12T12:28:34.304760+00:00",
+      "last_seen": "2025-11-12T18:20:23.690657+00:00",
       "meeting_body_key": "pab",
       "meeting_body_name": "Planning Advisory Board"
     },
