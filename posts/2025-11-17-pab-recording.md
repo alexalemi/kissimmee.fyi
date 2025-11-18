@@ -23,7 +23,7 @@ Here are some time stamps for when various [agenda](https://media.kissimmee.fyi/
  - @0:07:20 - Item 5.A: Public Hearing - ZMA-25-0003 4200 W. Vine Str Rezoning
  - @0:12:54 - Item 5.B: Public Hearing - ZMA-25-0007 201 E. Dakin St. Rezoning
  - @0:47:05 - Item 5.C: Conditional Use with Site Plan Waiver for 1226 Dyer Blvd.
- - @1:22:35 - Item 5.D: LUPA-25-0003 - 2001 Yates Rd. Future Land Use Map Amendment 
+ - @0:51:35 - Item 5.D: LUPA-25-0003 - 2001 Yates Rd. Future Land Use Map Amendment 
  - @1:22:35 - Item 5.E: PUB-25-0014 - 2001 Yates Rd. Rezoning
  - @1:25:22 - Item 7.A: Rosenberg's Rules of Order
  - @1:50:00 - Item 7.B: PAB Meeting Dates
