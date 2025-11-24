@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-24T12:28:29.072176+00:00",
+  "last_updated": "2025-11-24T18:21:09.322216+00:00",
   "notices": {
     "11381716": {
       "id": 11381716,
@@ -26,7 +26,7 @@
       "pub_date_rfc822": "Mon, 03 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 03, 2025",
       "first_seen": "2025-11-04T12:38:05.429531+00:00",
-      "last_seen": "2025-11-24T12:28:29.072176+00:00",
+      "last_seen": "2025-11-24T18:21:09.322216+00:00",
       "meeting_body_key": "city-commission",
       "meeting_body_name": "City Commission"
     },
@@ -52,7 +52,7 @@
       "pub_date_rfc822": "Mon, 03 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 03, 2025",
       "first_seen": "2025-11-04T12:38:05.429531+00:00",
-      "last_seen": "2025-11-24T12:28:29.072176+00:00",
+      "last_seen": "2025-11-24T18:21:09.322216+00:00",
       "meeting_body_key": "city-commission",
       "meeting_body_name": "City Commission"
     },
@@ -132,7 +132,7 @@
       "pub_date_rfc822": "Tue, 11 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 11, 2025",
       "first_seen": "2025-11-11T18:21:09.007554+00:00",
-      "last_seen": "2025-11-24T12:28:29.072176+00:00"
+      "last_seen": "2025-11-24T18:21:09.322216+00:00"
     },
     "11392587": {
       "id": 11392587,
@@ -158,7 +158,7 @@
       "pub_date_rfc822": "Wed, 12 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 12, 2025",
       "first_seen": "2025-11-12T18:20:23.673698+00:00",
-      "last_seen": "2025-11-24T12:28:29.072176+00:00"
+      "last_seen": "2025-11-24T18:21:09.322216+00:00"
     },
     "11392586": {
       "id": 11392586,
@@ -184,7 +184,7 @@
       "pub_date_rfc822": "Wed, 12 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 12, 2025",
       "first_seen": "2025-11-12T18:20:23.673698+00:00",
-      "last_seen": "2025-11-24T12:28:29.072176+00:00"
+      "last_seen": "2025-11-24T18:21:09.322216+00:00"
     },
     "11399370": {
       "id": 11399370,
@@ -213,7 +213,7 @@
       "pub_date_rfc822": "Wed, 19 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 19, 2025",
       "first_seen": "2025-11-19T18:20:02.608428+00:00",
-      "last_seen": "2025-11-24T12:28:29.072176+00:00"
+      "last_seen": "2025-11-24T18:21:09.322216+00:00"
     }
   }
 }
