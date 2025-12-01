@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-01T12:28:58.891708+00:00",
+  "last_updated": "2025-12-01T18:23:06.796474+00:00",
   "notices": {
     "11378591": {
       "id": 11378591,
@@ -26,7 +26,7 @@
       "pub_date_rfc822": "Fri, 31 Oct 2025 00:00:00 +0000",
       "pub_date_formatted": "October 31, 2025",
       "first_seen": "2025-11-02T13:18:30.703012",
-      "last_seen": "2025-12-01T12:28:58.891708+00:00",
+      "last_seen": "2025-12-01T18:23:06.796474+00:00",
       "meeting_body_key": "pab",
       "meeting_body_name": "Planning Advisory Board"
     },
@@ -145,6 +145,32 @@
       "last_seen": "2025-11-04T18:21:26.358689+00:00",
       "meeting_body_key": "pab",
       "meeting_body_name": "Planning Advisory Board"
+    },
+    "11411335": {
+      "id": 11411335,
+      "title": "CU-25-0017 - 1720 W Oak St Kissimmee",
+      "description": "Notice at 1720 W Oak St Kissimmee",
+      "notice_text": "12/1/2025 NOTICE OF PUBLIC HEARING PLANNING ADVISORY BOARD  This is to inform you that the Planning Advisory Board of the City of Kissimmee will consider a request for a Conditional Use to establish an office at 1720 W Oak St. The Planning Advisory Board will hold a meeting on Wednesday, December 17, 2025, at 6:00 p.m. at the City Commission Chambers, 101 Church St., Kissimmee, FL 34741. The subject property is located at 1720 W Oak St Kissimmee, FL 34741 Parcel ID: 21- 25-29-1670-0046-0180 Any interested party wanting to be heard on this issue may submit testimony to be read into the official record to CityClerkEmail@kissimmee.gov prior to the start of the meeting or may be heard by participating in person. Any questions regarding this public hearing may be directed to the Development Services Department at (407) 518-2140 or planning@kissimmee.gov. Reference # CU-25-0017 PLANNING ADVISORY BOARD 1720 W Oak St. Office KISSIMMEE, FLORIDA In accordance with Florida Statute 286.26, persons needing assistance to participate in any of these proceedings should contact the Office of the City Clerk (407) 518-2308 prior to the meeting. (FS286.26) In accordance with Florida Statute 286.0105: any person wishing to appeal any decision made by the City Commission with respect to any matter considered at such meeting or hearing will need a record of the proceedings, and for such purposes may need to ensure that a verbatim record of the proceeding is made, which record includes the testimony and evidence upon which the appeal is made. 7901507 NOTICE OF PUBLIC HEARING PLANNING ADVISORY BOARD",
+      "pub_date": "2025-12-01",
+      "pdf_url": "https://dgfc4k3gho5kh.cloudfront.net/35/11411335.pdf",
+      "link": "https://floridapublicnotices.com/notices/11411335",
+      "image_url": null,
+      "thumbnail_url": "thumbnails/11411335.jpg",
+      "newspaper": "Orlando Sentinel",
+      "city": "Orlando",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": null,
+      "property_address": "1720 W Oak St Kissimmee",
+      "zoning_change": null,
+      "reference_num": "CU-25-0017",
+      "parcel_id": "21- 25-29-1670-0046-0180 Any interested party wanting to be heard on this issue may submit testimony to be read into the official record to CityClerkEmail@kissimmee.gov prior to the start of the meeting or may be heard by participating in person. Any questions regarding this public hearing may be directed to the Development Services Department at (407) 518-2140 or planning@kissimmee.gov. Reference # CU-25-0017 PLANNING ADVISORY BOARD 1720 W Oak St. Office KISSIMMEE, FLORIDA In accordance with Florida Statute 286.26, persons needing assistance to participate in any of these proceedings should contact the Office of the City Clerk (407) 518-2308 prior to the meeting. (FS286.26) In accordance with Florida Statute 286.0105: any person wishing to appeal any decision made by the City Commission with respect to any matter considered at such meeting or hearing will need a record of the proceedings, and for such purposes may need to ensure that a verbatim record of the proceeding is made, which record includes the testimony and evidence upon which the appeal is made. 7901507 NOTICE OF PUBLIC HEARING PLANNING ADVISORY BOARD",
+      "amendment_type": null,
+      "meeting_body_key": "pab",
+      "meeting_body_name": "Planning Advisory Board",
+      "pub_date_rfc822": "Mon, 01 Dec 2025 00:00:00 +0000",
+      "pub_date_formatted": "December 01, 2025",
+      "first_seen": "2025-12-01T18:23:06.796474+00:00",
+      "last_seen": "2025-12-01T18:23:06.796474+00:00"
     }
   }
 }
