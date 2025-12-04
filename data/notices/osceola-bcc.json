@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-04T12:29:53.450454+00:00",
+  "last_updated": "2025-12-04T18:22:49.537806+00:00",
   "notices": {
     "11368706": {
       "id": 11368706,
@@ -181,7 +181,7 @@
       "pub_date_rfc822": "Sun, 02 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 02, 2025",
       "first_seen": "2025-11-04T14:45:59.105708+00:00",
-      "last_seen": "2025-12-04T12:29:53.450454+00:00"
+      "last_seen": "2025-12-04T18:22:49.537806+00:00"
     },
     "11377289": {
       "id": 11377289,
@@ -337,7 +337,7 @@
       "pub_date_rfc822": "Thu, 06 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 06, 2025",
       "first_seen": "2025-11-06T18:20:43.507473+00:00",
-      "last_seen": "2025-12-04T12:29:53.450454+00:00"
+      "last_seen": "2025-12-04T18:22:49.537806+00:00"
     },
     "11392658": {
       "id": 11392658,
@@ -363,7 +363,7 @@
       "pub_date_rfc822": "Thu, 13 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 13, 2025",
       "first_seen": "2025-11-13T01:03:29.456695+00:00",
-      "last_seen": "2025-12-04T12:29:53.450454+00:00"
+      "last_seen": "2025-12-04T18:22:49.537806+00:00"
     },
     "11396428": {
       "id": 11396428,
@@ -389,7 +389,7 @@
       "pub_date_rfc822": "Sun, 16 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 16, 2025",
       "first_seen": "2025-11-16T18:17:33.866152+00:00",
-      "last_seen": "2025-12-04T12:29:53.450454+00:00"
+      "last_seen": "2025-12-04T18:22:49.537806+00:00"
     },
     "11400201": {
       "id": 11400201,
@@ -415,7 +415,7 @@
       "pub_date_rfc822": "Thu, 20 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 20, 2025",
       "first_seen": "2025-11-20T18:20:16.230863+00:00",
-      "last_seen": "2025-12-04T12:29:53.450454+00:00"
+      "last_seen": "2025-12-04T18:22:49.537806+00:00"
     },
     "11413194": {
       "id": 11413194,
@@ -441,7 +441,33 @@
       "pub_date_rfc822": "Thu, 04 Dec 2025 00:00:00 +0000",
       "pub_date_formatted": "December 04, 2025",
       "first_seen": "2025-12-04T01:04:07.597558+00:00",
-      "last_seen": "2025-12-04T12:29:53.450454+00:00"
+      "last_seen": "2025-12-04T18:22:49.537806+00:00"
+    },
+    "11414568": {
+      "id": 11414568,
+      "title": "Miscellaneous Notices - Kissimmee",
+      "description": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY\nBOARD OF COUNTY COMMISSIONERS PROJECTS:\n1) RFP-26-15512-MB  Support Services for Community Outreach, Social Medi...",
+      "notice_text": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY\nBOARD OF COUNTY COMMISSIONERS PROJECTS:\n1) RFP-26-15512-MB  Support Services for Community Outreach, Social Media, and Marketing. There will be a VIRTUAL NON-MANDATORY PRE-PROPOSAL CONFERENCE on Wednesday, December 10, 2025, at 10:00 AM Local Time. Dial in at 407-906-2344, and when prompted, enter the following conference code: 219 431 781#.Please note the meeting will be audio recorded. Deadline for questions is Friday, December 12, 2025, at 12:00 PM Local Time. Due Date: Tuesday, January 6, 2026, at 2:00 PM Local Time. Contact: Melissa Baumwell (407) 742-0938.\n2)RFLOI-26-15647-RR - Request for Letters of Interest to Purchase 25.27 +/- Acres of Real Property for Development. Deadline for questions is Friday, December 19, 2025, at 12:00 PM Local Time. Due Date: Tuesday, January 13, 2026, at 2:00 PM Local Time. Contact: Robert Rosenstein (407) 742-0941.\nFOR MORE INFORMATION, VISIT OSCEOLA COUNTYS VENDORLINK WEB SITE AT http://vendorlink.osceola.org [http://vendorlink.osceola.org].\nDecember 4, 2025",
+      "pub_date": "2025-12-04",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11414568",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Osceola News-Gazette",
+      "city": "Kissimmee",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": null,
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "osceola-bcc",
+      "meeting_body_name": "Osceola County Board of County Commissioners",
+      "pub_date_rfc822": "Thu, 04 Dec 2025 00:00:00 +0000",
+      "pub_date_formatted": "December 04, 2025",
+      "first_seen": "2025-12-04T18:22:49.537806+00:00",
+      "last_seen": "2025-12-04T18:22:49.537806+00:00"
     }
   }
 }
