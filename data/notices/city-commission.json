@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-15T12:31:39.815316+00:00",
+  "last_updated": "2025-12-15T18:22:00.605173+00:00",
   "notices": {
     "11381716": {
       "id": 11381716,
@@ -132,7 +132,7 @@
       "pub_date_rfc822": "Tue, 11 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 11, 2025",
       "first_seen": "2025-11-11T18:21:09.007554+00:00",
-      "last_seen": "2025-12-15T12:31:39.815316+00:00"
+      "last_seen": "2025-12-15T18:22:00.605173+00:00"
     },
     "11392587": {
       "id": 11392587,
@@ -158,7 +158,7 @@
       "pub_date_rfc822": "Wed, 12 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 12, 2025",
       "first_seen": "2025-11-12T18:20:23.673698+00:00",
-      "last_seen": "2025-12-15T12:31:39.815316+00:00"
+      "last_seen": "2025-12-15T18:22:00.605173+00:00"
     },
     "11392586": {
       "id": 11392586,
@@ -184,7 +184,7 @@
       "pub_date_rfc822": "Wed, 12 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 12, 2025",
       "first_seen": "2025-11-12T18:20:23.673698+00:00",
-      "last_seen": "2025-12-15T12:31:39.815316+00:00"
+      "last_seen": "2025-12-15T18:22:00.605173+00:00"
     },
     "11399370": {
       "id": 11399370,
@@ -213,7 +213,7 @@
       "pub_date_rfc822": "Wed, 19 Nov 2025 00:00:00 +0000",
       "pub_date_formatted": "November 19, 2025",
       "first_seen": "2025-11-19T18:20:02.608428+00:00",
-      "last_seen": "2025-12-15T12:31:39.815316+00:00"
+      "last_seen": "2025-12-15T18:22:00.605173+00:00"
     },
     "11413367": {
       "id": 11413367,
@@ -242,7 +242,7 @@
       "pub_date_rfc822": "Wed, 03 Dec 2025 00:00:00 +0000",
       "pub_date_formatted": "December 03, 2025",
       "first_seen": "2025-12-03T18:22:30.236504+00:00",
-      "last_seen": "2025-12-15T12:31:39.815316+00:00"
+      "last_seen": "2025-12-15T18:22:00.605173+00:00"
     },
     "11414805": {
       "id": 11414805,
@@ -271,7 +271,33 @@
       "pub_date_rfc822": "Thu, 04 Dec 2025 00:00:00 +0000",
       "pub_date_formatted": "December 04, 2025",
       "first_seen": "2025-12-04T18:22:49.519275+00:00",
-      "last_seen": "2025-12-15T12:31:39.815316+00:00"
+      "last_seen": "2025-12-15T18:22:00.605173+00:00"
+    },
+    "11424093": {
+      "id": 11424093,
+      "title": "Government Publications - Notices of Hearings - Orlando",
+      "description": "CITY OF KISSIMMEE NOTICE OF PUBLIC HEARING   The City Commission will hold a Public Hearing on Tuesday, January 6, 2026 at 6:00 p",
+      "notice_text": "CITY OF KISSIMMEE NOTICE OF PUBLIC HEARING   The City Commission will hold a Public Hearing on Tuesday, January 6, 2026 at 6:00 p.m. or as soon thereafter as possible, in the Commission Chambers of City Hall, 101 Church Street, Kissimmee, Florida to consider a Pain Management License for Pharm Aid.  The subject property is located 1341 E. Vine Street; Parcel ID#14-25-29-00U0-0302- 0000.  Any interested party wanting to be heard on this issue may submit testimony to be read into the official record to CityClerkEmail@kissimmee.gov prior to the start of the meeting or may be heard by participating in person. Any questions regarding this public hearing may be directed to the Development Services Department at (407) 518-2140 or at planning@kissimmee.gov.  In accordance with Florida Statutes 286.0105: any person wishing to appeal any decision made by the City Commission with respect to any matter considered at such meeting or hearing will need a record of the proceedings, and for such purposes may need to ensure that a verbatim record of the proceeding is made, which record includes the testimony and evidence upon which the appeal is made.  In accordance with Florida Statute 286.26, persons needing assistance to participate in any of these proceedings should contact the Office of the City Clerk (407) 518-2308 prior to the meeting. (FS286.26)   12/15/2025 7907983",
+      "pub_date": "2025-12-15",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11424093",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Orlando Sentinel",
+      "city": "Orlando",
+      "subcategory": "Government Publications - Notices of Hearings",
+      "meeting_date": "Tuesday, January 6, 2026 at 6:00 p.m.",
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "city-commission",
+      "meeting_body_name": "City Commission",
+      "pub_date_rfc822": "Mon, 15 Dec 2025 00:00:00 +0000",
+      "pub_date_formatted": "December 15, 2025",
+      "first_seen": "2025-12-15T18:22:00.605173+00:00",
+      "last_seen": "2025-12-15T18:22:00.605173+00:00"
     }
   }
 }
