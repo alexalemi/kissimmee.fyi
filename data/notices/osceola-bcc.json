@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-11T12:27:28.565989+00:00",
+  "last_updated": "2026-01-11T18:20:01.678630+00:00",
   "notices": {
     "11368706": {
       "id": 11368706,
@@ -519,7 +519,7 @@
       "pub_date_rfc822": "Thu, 11 Dec 2025 00:00:00 +0000",
       "pub_date_formatted": "December 11, 2025",
       "first_seen": "2025-12-11T18:20:47.878394+00:00",
-      "last_seen": "2026-01-11T12:27:28.565989+00:00"
+      "last_seen": "2026-01-11T18:20:01.678630+00:00"
     },
     "11423413": {
       "id": 11423413,
@@ -545,7 +545,7 @@
       "pub_date_rfc822": "Sun, 14 Dec 2025 00:00:00 +0000",
       "pub_date_formatted": "December 14, 2025",
       "first_seen": "2025-12-14T18:19:27.676005+00:00",
-      "last_seen": "2026-01-11T12:27:28.565989+00:00"
+      "last_seen": "2026-01-11T18:20:01.678630+00:00"
     },
     "11428233": {
       "id": 11428233,
@@ -571,7 +571,7 @@
       "pub_date_rfc822": "Thu, 18 Dec 2025 00:00:00 +0000",
       "pub_date_formatted": "December 18, 2025",
       "first_seen": "2025-12-18T18:21:38.242064+00:00",
-      "last_seen": "2026-01-11T12:27:28.565989+00:00"
+      "last_seen": "2026-01-11T18:20:01.678630+00:00"
     },
     "11428211": {
       "id": 11428211,
@@ -597,7 +597,7 @@
       "pub_date_rfc822": "Thu, 18 Dec 2025 00:00:00 +0000",
       "pub_date_formatted": "December 18, 2025",
       "first_seen": "2025-12-18T18:21:38.242064+00:00",
-      "last_seen": "2026-01-11T12:27:28.565989+00:00"
+      "last_seen": "2026-01-11T18:20:01.678630+00:00"
     },
     "11434822": {
       "id": 11434822,
@@ -623,7 +623,7 @@
       "pub_date_rfc822": "Thu, 25 Dec 2025 00:00:00 +0000",
       "pub_date_formatted": "December 25, 2025",
       "first_seen": "2025-12-25T18:20:40.693762+00:00",
-      "last_seen": "2026-01-11T12:27:28.565989+00:00"
+      "last_seen": "2026-01-11T18:20:01.678630+00:00"
     },
     "11441769": {
       "id": 11441769,
@@ -649,7 +649,7 @@
       "pub_date_rfc822": "Thu, 01 Jan 2026 00:00:00 +0000",
       "pub_date_formatted": "January 01, 2026",
       "first_seen": "2026-01-01T18:20:47.807190+00:00",
-      "last_seen": "2026-01-11T12:27:28.565989+00:00"
+      "last_seen": "2026-01-11T18:20:01.678630+00:00"
     },
     "11443750": {
       "id": 11443750,
@@ -675,7 +675,7 @@
       "pub_date_rfc822": "Sun, 04 Jan 2026 00:00:00 +0000",
       "pub_date_formatted": "January 04, 2026",
       "first_seen": "2026-01-04T18:20:08.405654+00:00",
-      "last_seen": "2026-01-11T12:27:28.565989+00:00"
+      "last_seen": "2026-01-11T18:20:01.678630+00:00"
     },
     "11447911": {
       "id": 11447911,
@@ -701,7 +701,33 @@
       "pub_date_rfc822": "Thu, 08 Jan 2026 00:00:00 +0000",
       "pub_date_formatted": "January 08, 2026",
       "first_seen": "2026-01-08T18:19:45.953049+00:00",
-      "last_seen": "2026-01-11T12:27:28.565989+00:00"
+      "last_seen": "2026-01-11T18:20:01.678630+00:00"
+    },
+    "11450281": {
+      "id": 11450281,
+      "title": "Bid Notices and Requests for Services - Orlando",
+      "description": "OSCEOLA COUNTY BOARD OF COUNTY COMMISSIONERS PROJECTS:   1",
+      "notice_text": "OSCEOLA COUNTY BOARD OF COUNTY COMMISSIONERS PROJECTS:   1. ITB-26-15633-NO  Heated Meal Delivery Equipment. There will be no pre-bid Conference for this project. Deadline for questions: Friday, January 23, 2026, at 12:00 P.M. Local Time. Due Date: Tuesday, February 10, 2026, at 2:00 P.M. Local Time. Contact: Nancy Ortiz, (407)742-0940.  FOR MORE INFORMATION, VISIT OSCEOLA COUNTYS VENDORLINK WEB SITE AT http://vendorlink.osceola.org.   1/11/2026 7917464",
+      "pub_date": "2026-01-11",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11450281",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Orlando Sentinel",
+      "city": "Orlando",
+      "subcategory": "Bid Notices and Requests for Services",
+      "meeting_date": null,
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "osceola-bcc",
+      "meeting_body_name": "Osceola County Board of County Commissioners",
+      "pub_date_rfc822": "Sun, 11 Jan 2026 00:00:00 +0000",
+      "pub_date_formatted": "January 11, 2026",
+      "first_seen": "2026-01-11T18:20:01.678630+00:00",
+      "last_seen": "2026-01-11T18:20:01.678630+00:00"
     }
   }
 }
