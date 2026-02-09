@@ -10,8 +10,10 @@ on:
       - main
       - dev
     paths:
-      - 'src/publicnotices.py'
-      - 'src/update_notices.py'
+      - 'src/**'
+      - 'templates/**'
+      - 'posts/**'
+      - 'docs/**'
       - '.github/workflows/fetch-notices.yml'
 
 permissions:
