@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T12:44:47.633864+00:00",
+  "last_updated": "2026-02-26T18:41:30.307888+00:00",
   "notices": {
     "11368706": {
       "id": 11368706,
@@ -831,7 +831,7 @@
       "pub_date_rfc822": "Sun, 25 Jan 2026 00:00:00 +0000",
       "pub_date_formatted": "January 25, 2026",
       "first_seen": "2026-01-25T18:20:31.944160+00:00",
-      "last_seen": "2026-02-26T12:44:47.633864+00:00"
+      "last_seen": "2026-02-26T18:41:30.307888+00:00"
     },
     "11469157": {
       "id": 11469157,
@@ -857,7 +857,7 @@
       "pub_date_rfc822": "Thu, 29 Jan 2026 00:00:00 +0000",
       "pub_date_formatted": "January 29, 2026",
       "first_seen": "2026-01-29T18:34:06.424481+00:00",
-      "last_seen": "2026-02-26T12:44:47.633864+00:00"
+      "last_seen": "2026-02-26T18:41:30.307888+00:00"
     },
     "11471536": {
       "id": 11471536,
@@ -883,7 +883,7 @@
       "pub_date_rfc822": "Sun, 01 Feb 2026 00:00:00 +0000",
       "pub_date_formatted": "February 01, 2026",
       "first_seen": "2026-02-01T18:24:09.740321+00:00",
-      "last_seen": "2026-02-26T12:44:47.633864+00:00"
+      "last_seen": "2026-02-26T18:41:30.307888+00:00"
     },
     "11471579": {
       "id": 11471579,
@@ -909,7 +909,7 @@
       "pub_date_rfc822": "Sun, 01 Feb 2026 00:00:00 +0000",
       "pub_date_formatted": "February 01, 2026",
       "first_seen": "2026-02-02T01:23:17.342097+00:00",
-      "last_seen": "2026-02-26T12:44:47.633864+00:00"
+      "last_seen": "2026-02-26T18:41:30.307888+00:00"
     },
     "11475837": {
       "id": 11475837,
@@ -935,7 +935,7 @@
       "pub_date_rfc822": "Thu, 05 Feb 2026 00:00:00 +0000",
       "pub_date_formatted": "February 05, 2026",
       "first_seen": "2026-02-05T18:38:55.156821+00:00",
-      "last_seen": "2026-02-26T12:44:47.633864+00:00"
+      "last_seen": "2026-02-26T18:41:30.307888+00:00"
     },
     "11488999": {
       "id": 11488999,
@@ -961,7 +961,33 @@
       "pub_date_rfc822": "Thu, 19 Feb 2026 00:00:00 +0000",
       "pub_date_formatted": "February 19, 2026",
       "first_seen": "2026-02-19T18:41:26.218001+00:00",
-      "last_seen": "2026-02-26T12:44:47.633864+00:00"
+      "last_seen": "2026-02-26T18:41:30.307888+00:00"
+    },
+    "11495167": {
+      "id": 11495167,
+      "title": "Miscellaneous Notices - Kissimmee",
+      "description": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY \nBOARD OF COUNTY COMMISSIONERS PROJECTS:\n1) PS-26-15716-PC  Design Services for Canoe Creek Road Widening Project",
+      "notice_text": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY \nBOARD OF COUNTY COMMISSIONERS PROJECTS:\n1) PS-26-15716-PC  Design Services for Canoe Creek Road Widening Project. There will be a VIRTUAL Non-Mandatory Pre-Proposal Conference via the Microsoft TEAMs application on Tuesday, March 3, 2026, at 10:00 AM Local Time. Dial in at 407-906-2344, and when prompted enter the conference code: 518 149 335#. Deadline for questions is Wednesday, March 11, 2026, at 2:00 PM Local Time. Due Date: Tuesday, March 24, 2026, at 2:00 PM Local Time. Contact: Paul Callaway (407) 742-0932.\n2) PS-26-15784-LA - Continuing Planning, Engineering, Architecture, Construction Engineering Inspection and Design Services. Osceola County Board of County Commissioners is seeking proposals from qualified firms to provide Engineering, Construction Engineering and Inspection (CEI) services, Planning, Landscape Architecture, Architecture and Design, and economic consulting and/or advisory services on a Task Authorization basis. The solicitation document and any addenda can be accessed and downloaded from VendorLink at the following web address: Vendorlink.osceola.org. There will be no pre-proposal conference. The deadline for questions is Wednesday, March 4, 2026, at 5:00 PM Local Time. DUE DATE: Tuesday, March 24, 2026, at 2:00 PM Local Time. Contact: Luis Aviles (407) 742-0937. The release date for this solicitation is February 22, 2026.\nFOR MORE INFORMATION, VISIT OSCEOLA COUNTYS VENDORLINK WEB SITE AT http://vendorlink.osceola.org.\nFebruary 26, 2026",
+      "pub_date": "2026-02-26",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11495167",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Osceola News-Gazette",
+      "city": "Kissimmee",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": null,
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "osceola-bcc",
+      "meeting_body_name": "Osceola County Board of County Commissioners",
+      "pub_date_rfc822": "Thu, 26 Feb 2026 00:00:00 +0000",
+      "pub_date_formatted": "February 26, 2026",
+      "first_seen": "2026-02-26T18:41:30.307888+00:00",
+      "last_seen": "2026-02-26T18:41:30.307888+00:00"
     }
   }
 }
