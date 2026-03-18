@@ -1,5 +1,6 @@
 .secrets
 media/
-docs/thumbnails/
-media/
 __pycache__/
+
+# Whisper raw output (duplicated into data/commission/*/captions.srt)
+data/commission_meetings/
