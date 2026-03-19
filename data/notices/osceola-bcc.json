@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T06:49:06.713121+00:00",
+  "last_updated": "2026-03-19T12:43:33.977662+00:00",
   "notices": {
     "11368706": {
       "id": 11368706,
@@ -961,7 +961,7 @@
       "pub_date_rfc822": "Thu, 19 Feb 2026 00:00:00 +0000",
       "pub_date_formatted": "February 19, 2026",
       "first_seen": "2026-02-19T18:41:26.218001+00:00",
-      "last_seen": "2026-03-19T06:49:06.713121+00:00"
+      "last_seen": "2026-03-19T12:43:33.977662+00:00"
     },
     "11495167": {
       "id": 11495167,
@@ -987,7 +987,7 @@
       "pub_date_rfc822": "Thu, 26 Feb 2026 00:00:00 +0000",
       "pub_date_formatted": "February 26, 2026",
       "first_seen": "2026-02-26T18:41:30.307888+00:00",
-      "last_seen": "2026-03-19T06:49:06.713121+00:00"
+      "last_seen": "2026-03-19T12:43:33.977662+00:00"
     },
     "11501931": {
       "id": 11501931,
@@ -1013,7 +1013,59 @@
       "pub_date_rfc822": "Thu, 05 Mar 2026 00:00:00 +0000",
       "pub_date_formatted": "March 05, 2026",
       "first_seen": "2026-03-05T19:10:41.441999+00:00",
-      "last_seen": "2026-03-19T06:49:06.713121+00:00"
+      "last_seen": "2026-03-19T12:43:33.977662+00:00"
+    },
+    "11513805": {
+      "id": 11513805,
+      "title": "Miscellaneous Notices - Kissimmee",
+      "description": "SOUTH FLORIDA WATER MANAGEMENT DISTRICT\n3301 Gun Club Road, West Palm Beach, FL 33406\nRegPermitting@sfwmd",
+      "notice_text": "SOUTH FLORIDA WATER MANAGEMENT DISTRICT\n3301 Gun Club Road, West Palm Beach, FL 33406\nRegPermitting@sfwmd.gov\nNOTICE OF RECEIPT OF APPLICATION\n\n\nNotice is hereby given, pursuant to Chapter 373, Florida Statutes, that the application(s) for permit described below has been received for project(s) in Palm Beach County. The application(s) and future additional application documents can be obtained by any of the following methods: 1) Accessing the District's website (www.sfwmd.gov) and clicking on Application/Permit Search on the RegPermitting page; 2) Submitting a written request to the South Florida Water Management District, Attn: Regulation Division, 3301 Gun Club Road, West Palm Beach, FL 33406; or 3) Submitting an electronic request at regpermitting@sfwmd.gov.\n\n\nWeslyn Park, Tri Pointe Homes Holdings Inc, 200 Colonial Center Pkwy, Ste 140, Lake Mary, FL 32746, has submitted Application 260212-61582 for a New Water Use Permit to dewater on undeveloped lands. The water will be withdrawn from the water table aquifer and the project is located in Osceola and Orange Counties.\n\n\n7-Eleven Store No. 42831, 7-Eleven Inc, PO Box 711 Loc 148, Dallas, TX 75211, has submitted Application 260216-61675 for a New Water Use Permit to dewater on undeveloped lands. The water will be withdrawn from the surficial aquifer and the project is located in Osceola County.\n\n\nBoggy Creek Road Widening, Osceola County Board of County Commissioners, 1 Courthouse Sq, Ste 4700, Kissimmee, FL 34741, has submitted Application 260216-61665 for a New Water Use Permit to dewater on undeveloped lands. The water will be withdrawn from the water table aquifer and the project is located in Osceola County.\n\n\nCross Prairie Parkway North Roadway, GAI Consultants Inc, 618 E South, Ste 700, Orlando, FL 32801, has submitted Application 260224-61908 for a New Water Use Permit to dewater on undeveloped lands. The water will be withdrawn from the water table aquifer and the project is located in Osceola County.\n\n\nDuke Energy - Turnpike PWS, Duck Energy Business Services LLC, 525 S Tryon St, Charlotte, NC 28208, has submitted Application 260224-61907 for a New Water Use Permit to irrigate public water supply lands. The water will be withdrawn from the Upper Floridan aquifer and the project is located in Osceola County.\n\n\nHibiscus on the Creek, Kissimmee Leased Housing Associates V LLC, 4835 Lyndon B Johnson HWY, Ste 1000, Dallas, TX 75244, has submitted Application 260305-62200 for a New Water Use Permit to dewater on undeveloped lands. The water will be withdrawn from the water table aquifer and the project is located in Osceola County.\nMarch 19, 2026",
+      "pub_date": "2026-03-19",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11513805",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Osceola News-Gazette",
+      "city": "Kissimmee",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": null,
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "osceola-bcc",
+      "meeting_body_name": "Osceola County Board of County Commissioners",
+      "pub_date_rfc822": "Thu, 19 Mar 2026 00:00:00 +0000",
+      "pub_date_formatted": "March 19, 2026",
+      "first_seen": "2026-03-19T12:43:33.977662+00:00",
+      "last_seen": "2026-03-19T12:43:33.977662+00:00"
+    },
+    "11513798": {
+      "id": 11513798,
+      "title": "Miscellaneous Notices - Kissimmee",
+      "description": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY \nBOARD OF COUNTY COMMISSIONERS PROJECTS:\n1) AR-26-15757-NO  Oxygen Cylinder Rental and Refill Services",
+      "notice_text": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY \nBOARD OF COUNTY COMMISSIONERS PROJECTS:\n1) AR-26-15757-NO  Oxygen Cylinder Rental and Refill Services. There will be No Pre-Bid Conference for this project. Deadline for Questions: Thursday, March 26, 2026, at 2:00 PM, local time. Due Date: Tuesday, April 14, 2026, at 2:00 PM, local time. Contact: Nancy Ortiz at 407-742-0940\n2) PS-26-15854-DG Osceola County Board of County Commissioners is seeking proposals from professional engineering firms to provide Construction Engineering and Inspection (CEI) Services for the Cross Prairie Parkway Design Build project from Nolte Road to C-31 Canal. The solicitation document and any addenda can be accessed and downloaded from VendorLink at the following web address: Vendorlink.osceola.org. The Proposer (Prime Consultant) must be Florida Department of Transportation (FDOT) prequalified in the following Major Work Groups: 10.1 Roadway Construction Engineering Inspection, 10.5.1 Major Bridge CEI  Concrete, and Minor Work Group 10.3 Construction Materials Inspection. There will be a VIRTUAL NON-MANDATORY PRE-PROPOSAL CONFERENCE held on Wednesday, March 25 2026, at 10:00 AM Local Time. Dial in at 407-906-2344, and when prompted, enter the following conference code: 227 063 259#.Please note the meeting will be audio recorded. The deadline for questions is Wednesday, April 1, 2026 at 12:00 PM Local Time. DUE DATE: Tuesday, April 14, 2026 at 2:00 PM Local Time. Contact: Don Gaskins (407) 742-0931. The release date for this solicitation is March 15, 2026.\nFOR MORE INFORMATION, VISIT OSCEOLA COUNTYS VENDORLINK WEB SITE AT http://vendorlink.osceola.org.\nMarch 19, 2026",
+      "pub_date": "2026-03-19",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11513798",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Osceola News-Gazette",
+      "city": "Kissimmee",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": "Wednesday, April 1, 2026 at 12:00 PM",
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "osceola-bcc",
+      "meeting_body_name": "Osceola County Board of County Commissioners",
+      "pub_date_rfc822": "Thu, 19 Mar 2026 00:00:00 +0000",
+      "pub_date_formatted": "March 19, 2026",
+      "first_seen": "2026-03-19T12:43:33.977662+00:00",
+      "last_seen": "2026-03-19T12:43:33.977662+00:00"
     }
   }
 }
