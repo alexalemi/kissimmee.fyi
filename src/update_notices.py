@@ -968,19 +968,25 @@ def main():
             category_dir = os.path.join(notices_docs_dir, category_key)
             os.makedirs(category_dir, exist_ok=True)
 
+            # If no current notices, fall back to most recent archived notices
+            display_notices = current_notices if current_notices else all_notices
+
             # Adjust thumbnail paths for subdirectory pages
             # Since category pages are now in docs/notices/{category}/, thumbnails need ../../thumbnails/ prefix
-            current_notices_adjusted = []
-            for notice in current_notices:
+            display_notices_adjusted = []
+            for notice in display_notices:
                 notice_copy = notice.copy()
                 if notice_copy.get('thumbnail_url') and notice_copy['thumbnail_url'].startswith('thumbnails/'):
                     notice_copy['thumbnail_url'] = '../../' + notice_copy['thumbnail_url']
-                current_notices_adjusted.append(notice_copy)
+                # Strip thumbnail refs for archived notices (files may not exist)
+                if not current_notices:
+                    notice_copy['thumbnail_url'] = None
+                display_notices_adjusted.append(notice_copy)
 
             # Generate current notices page (index.html)
             current_template_path = os.path.join(templates_dir, 'pab.html')
             current_html_path = os.path.join(category_dir, 'index.html')
-            generate_static_html(current_notices_adjusted, current_template_path, current_html_path, updated_time, category_name)
+            generate_static_html(display_notices_adjusted, current_template_path, current_html_path, updated_time, category_name)
             print(f"  Generated {current_html_path}")
 
             # Generate archive page from all historical notices (without thumbnails)
