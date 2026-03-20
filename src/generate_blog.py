@@ -17,9 +17,10 @@ except ImportError:
     exit(1)
 
 
-POSTS_DIR = Path("posts")
-OUTPUT_DIR = Path("docs/blog")
-TEMPLATES_DIR = Path("templates")
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+POSTS_DIR = PROJECT_ROOT / "posts"
+OUTPUT_DIR = PROJECT_ROOT / "docs" / "blog"
+TEMPLATES_DIR = PROJECT_ROOT / "templates"
 
 
 def parse_frontmatter(content):

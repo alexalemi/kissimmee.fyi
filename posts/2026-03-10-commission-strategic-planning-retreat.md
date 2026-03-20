@@ -5,10 +5,7 @@ author: kissimmee.fyi
 description: Recording of the City Commission's Strategic Planning Retreat Continuation from March 10, 2026, obtained via public records request.
 ---
 
-The Kissimmee City Commission held a continuation of their Annual Strategic
-Planning Retreat on March 10, 2026. This recording was not available on the
-[CivicClerk Public Meeting Portal](https://kissimmeefl.api.civicclerk.com). It
-was obtained via Florida public records request PRR2026-307.
+The Kissimmee City Commission held a continuation of their Annual Strategic Planning Retreat on March 10, 2026. This recording was not available on the [CivicClerk Public Meeting Portal](https://kissimmeefl.api.civicclerk.com). It was obtained via public records request.
 
 The retreat is split into two parts:
 
@@ -17,8 +14,7 @@ The retreat is split into two parts:
 
 ## Topics Discussed
 
-The retreat focused on governance and internal commission operations. Key topics
-included:
+The retreat focused on governance and internal commission operations. Key topics included:
 
 - **Action Agenda with Deadlines** — Review of the 18-month strategic priorities
   action plan developed with department heads, with milestones for this fiscal
@@ -40,15 +36,15 @@ included:
 
 ## Timestamps - Part 1
 
-- [@0:00:36](https://media.kissimmee.fyi/commission/2026-03-10/strategic-planning-retreat-part1.mp3#t=36) - Introduction: agenda for the day, focus on governance
-- [@0:00:44](https://media.kissimmee.fyi/commission/2026-03-10/strategic-planning-retreat-part1.mp3#t=44) - Action agenda deadlines and strategic priorities review
-- [@0:05:10](https://media.kissimmee.fyi/commission/2026-03-10/strategic-planning-retreat-part1.mp3#t=310) - Mid-year strategic planning workshop proposal
-- [@0:14:10](https://media.kissimmee.fyi/commission/2026-03-10/strategic-planning-retreat-part1.mp3#t=850) - Meeting procedures: public comment and discussion order
-- [@0:17:33](https://media.kissimmee.fyi/commission/2026-03-10/strategic-planning-retreat-part1.mp3#t=1053) - Parliamentary procedure and the role of motions
-- [@0:33:00](https://media.kissimmee.fyi/commission/2026-03-10/strategic-planning-retreat-part1.mp3#t=1980) - House rules and civility discussion
-- [@1:16:13](https://media.kissimmee.fyi/commission/2026-03-10/strategic-planning-retreat-part1.mp3#t=4573) - Code of civility review and comments
-- [@1:18:39](https://media.kissimmee.fyi/commission/2026-03-10/strategic-planning-retreat-part1.mp3#t=4719) - Proposal for special governance workshop
-- [@1:57:05](https://media.kissimmee.fyi/commission/2026-03-10/strategic-planning-retreat-part1.mp3#t=7025) - Social media discussion
+- [@0:00:00](https://media.kissimmee.fyi/commission/2026-03-10/strategic-planning-retreat-part1.mp3#t=0) - Introduction: agenda for the day, focus on governance
+- [@0:02:40](https://media.kissimmee.fyi/commission/2026-03-10/strategic-planning-retreat-part1.mp3#t=160) - Mid-year strategic planning workshop proposal
+- [@0:08:30](https://media.kissimmee.fyi/commission/2026-03-10/strategic-planning-retreat-part1.mp3#t=510) - Robert's and Rosenberg's Rules of Order
+- [@0:11:40](https://media.kissimmee.fyi/commission/2026-03-10/strategic-planning-retreat-part1.mp3#t=700) - Meeting procedures: public comment and discussion order
+- [@0:15:03](https://media.kissimmee.fyi/commission/2026-03-10/strategic-planning-retreat-part1.mp3#t=903) - Parliamentary procedure and the role of motions
+- [@0:30:30](https://media.kissimmee.fyi/commission/2026-03-10/strategic-planning-retreat-part1.mp3#t=1830) - House rules and civility discussion
+- [@1:13:43](https://media.kissimmee.fyi/commission/2026-03-10/strategic-planning-retreat-part1.mp3#t=4423) - Code of civility review and comments
+- [@1:16:09](https://media.kissimmee.fyi/commission/2026-03-10/strategic-planning-retreat-part1.mp3#t=4569) - Proposal for special governance workshop
+- [@1:54:35](https://media.kissimmee.fyi/commission/2026-03-10/strategic-planning-retreat-part1.mp3#t=6875) - Social media discussion
 
 ## Timestamps - Part 2
 
