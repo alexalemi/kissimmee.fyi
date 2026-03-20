@@ -877,6 +877,19 @@ def main():
         categories = group_notices_by_category(notices)
         print(f"Found {len(categories)} notice categories: {', '.join(categories.keys())}")
 
+        # Ensure all known categories are present (even with no current notices)
+        # so pages are always regenerated and stale HTML doesn't reference deleted thumbnails
+        known_categories = {
+            'pab': 'Planning Advisory Board',
+            'city-commission': 'City Commission',
+            'osceola-bcc': 'Osceola County BCC',
+            'other-boards': 'Other Boards & Committees',
+            'other': 'Other Notices',
+        }
+        for cat_key, cat_name in known_categories.items():
+            if cat_key not in categories:
+                categories[cat_key] = {'name': cat_name, 'notices': []}
+
         # Get the script directory
         script_dir = os.path.dirname(os.path.abspath(__file__))
         project_root = os.path.join(script_dir, '..')

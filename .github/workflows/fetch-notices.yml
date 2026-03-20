@@ -16,6 +16,9 @@ on:
       - 'docs/**'
       - '.github/workflows/fetch-notices.yml'
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 permissions:
   contents: write
   pages: write
@@ -49,17 +52,24 @@ jobs:
           uv run python update_notices.py
           uv run python generate_blog.py
 
+      - name: Debug thumbnail generation
+        run: |
+          echo "=== Thumbnail directory contents ==="
+          ls -la docs/thumbnails/ 2>/dev/null || echo "docs/thumbnails/ does not exist"
+          echo "=== Thumbnail count ==="
+          find docs/thumbnails/ -name '*.jpg' 2>/dev/null | wc -l
+
       - name: Check for changes
         id: check_changes
         run: |
-          git diff --quiet data/notices/ docs/ || echo "changed=true" >> $GITHUB_OUTPUT
+          git add data/notices/ docs/*.html docs/notices/ docs/blog/ docs/thumbnails/
+          git diff --cached --quiet || echo "changed=true" >> $GITHUB_OUTPUT
 
       - name: Commit and push if changed
         if: steps.check_changes.outputs.changed == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/notices/ docs/*.html docs/notices/ docs/blog/ docs/thumbnails/
           git commit -m "Update public notices [skip ci]"
           git push
 
