@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T07:03:00.230787+00:00",
+  "last_updated": "2026-04-02T12:54:39.774194+00:00",
   "notices": {
     "11368706": {
       "id": 11368706,
@@ -1013,7 +1013,7 @@
       "pub_date_rfc822": "Thu, 05 Mar 2026 00:00:00 +0000",
       "pub_date_formatted": "March 05, 2026",
       "first_seen": "2026-03-05T19:10:41.441999+00:00",
-      "last_seen": "2026-04-02T07:03:00.230787+00:00"
+      "last_seen": "2026-04-02T12:54:39.774194+00:00"
     },
     "11513805": {
       "id": 11513805,
@@ -1039,7 +1039,7 @@
       "pub_date_rfc822": "Thu, 19 Mar 2026 00:00:00 +0000",
       "pub_date_formatted": "March 19, 2026",
       "first_seen": "2026-03-19T12:43:33.977662+00:00",
-      "last_seen": "2026-04-02T07:03:00.230787+00:00"
+      "last_seen": "2026-04-02T12:54:39.774194+00:00"
     },
     "11513798": {
       "id": 11513798,
@@ -1065,7 +1065,7 @@
       "pub_date_rfc822": "Thu, 19 Mar 2026 00:00:00 +0000",
       "pub_date_formatted": "March 19, 2026",
       "first_seen": "2026-03-19T12:43:33.977662+00:00",
-      "last_seen": "2026-04-02T07:03:00.230787+00:00"
+      "last_seen": "2026-04-02T12:54:39.774194+00:00"
     },
     "11519882": {
       "id": 11519882,
@@ -1091,7 +1091,33 @@
       "pub_date_rfc822": "Thu, 26 Mar 2026 00:00:00 +0000",
       "pub_date_formatted": "March 26, 2026",
       "first_seen": "2026-03-26T12:56:21.884604+00:00",
-      "last_seen": "2026-04-02T07:03:00.230787+00:00"
+      "last_seen": "2026-04-02T12:54:39.774194+00:00"
+    },
+    "11526696": {
+      "id": 11526696,
+      "title": "Miscellaneous Notices - Kissimmee",
+      "description": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY \nBOARD OF COUNTY COMMISSIONERS PROJECTS:\n\n1) ITB-26-15873-EN-Austin Tindall Sports Complex  Field No",
+      "notice_text": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY \nBOARD OF COUNTY COMMISSIONERS PROJECTS:\n\n1) ITB-26-15873-EN-Austin Tindall Sports Complex  Field No.9 Repair. There will be no Pre-Bid Conference for this project: Deadline for Questions: Friday, April 17th, 2026, at 4:00 PM Local Time. Due Date: Tuesday, May 5, 2026, at 2:00PM Local Time. Contact Evelyn Nunez (407) 742-0935.\n2) PS-26-15859-DG - Osceola County Board of County Commissioners is seeking proposals for Design Build Services for the Cross Prairie Parkway Project from Nolte Road to C-31 Canal. The solicitation document and any addenda can be accessed and downloaded from VendorLink at the following web address: Vendorlink.osceola.org. There will be a VIRTUAL NON-MANDATORY PRE-PROPOSAL CONFERENCE held on Wednesday, April 8, 2026, at 10:00 AM Local Time. Dial in at 407-906-2344, and when prompted, enter the following conference code: 961 891 907#. Please note the meeting will be audio recorded. The deadline for questions is Wednesday, April 15, 2026, at 12:00 PM Local Time. DUE DATE: Tuesday, April 28, 2026, at 2:00 PM Local Time. Contact: Don Gaskins (407) 742-0931. The release date for this solicitation is March 29, 2026.\nFOR MORE INFORMATION, VISIT OSCEOLA COUNTYS VENDORLINK WEB SITE AT http://vendorlink.osceola.org.\nApril 2, 2026",
+      "pub_date": "2026-04-02",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11526696",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Osceola News-Gazette",
+      "city": "Kissimmee",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": null,
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "osceola-bcc",
+      "meeting_body_name": "Osceola County Board of County Commissioners",
+      "pub_date_rfc822": "Thu, 02 Apr 2026 00:00:00 +0000",
+      "pub_date_formatted": "April 02, 2026",
+      "first_seen": "2026-04-02T12:54:39.774194+00:00",
+      "last_seen": "2026-04-02T12:54:39.774194+00:00"
     }
   }
 }

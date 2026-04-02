@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T07:03:00.248748+00:00",
+  "last_updated": "2026-04-02T12:54:39.775721+00:00",
   "notices": {
     "11381716": {
       "id": 11381716,
@@ -376,6 +376,32 @@
       "pub_date_formatted": "January 29, 2026",
       "first_seen": "2026-01-29T18:34:06.425649+00:00",
       "last_seen": "2026-03-04T18:37:31.183438+00:00"
+    },
+    "11526694": {
+      "id": 11526694,
+      "title": "Miscellaneous Notices - Kissimmee",
+      "description": "NOTICE OF PUBLIC HEARING\n\n\nThe City Commission of the City of Kissimmee, Florida will meet on Tuesday, April 7, 2026, at 6:00 p",
+      "notice_text": "NOTICE OF PUBLIC HEARING\n\n\nThe City Commission of the City of Kissimmee, Florida will meet on Tuesday, April 7, 2026, at 6:00 p.m. in the City Commission Chambers at City Hall, 101 Church Street, Kissimmee, Florida, to hear the FIRST READING and will meet on Tuesday, April 21, 2026, at 6:00 p.m. to hear the SECOND AND FINAL READING and consider the passage of the proposed ordinance as set forth below. All interested parties may appear and be heard on the above dates.\n\n\nPROPOSED ORDINANCE #26-13\n\n\nAN ORDINANCE OF THE CITY OF KISSIMMEE, FLORIDA, AMENDING CHAPTER 30, PERSONNEL, ARTICLE III, EMPLOYEE RETIREMENT, DIVISION III, FIREFIGHTERS RETIREMENT PLAN, OF THE CODE OF ORDINANCES OF THE CITY OF KISSIMMEE; AMENDING SECTION 30-167, DEFERRED RETIREMENT OPTION PLAN; PROVIDING FOR CODIFICATION; PROVIDING FOR SEVERABILITY OF PROVISIONS; REPEALING ALL ORDINANCES IN CONFLICT HEREWITH AND PROVIDING AN EFFECTIVE DATE\nCITY COMMISSION\nKISSIMMEE , FLORIDA\n\n\nIN ACCORDANCE WITH FLORIDA STATUTE 286.0105: ANY PERSON WISHING TO APPEAL ANY DECISION MADE BY THE CITY COMMISSION WITH RESPECT TO ANY MATTER CONSIDERED AT SUCH MEETING OR HEARING WILL NEED A RECORD OF THE PROCEEDINGS, AND FOR SUCH PURPOSES MAY NEED TO ENSURE THAT A VERBATIM RECORD OF THE PROCEEDINGS IS MADE, WHICH RECORD INCLUDES THE TESTIMONY AND EVIDENCE UPON WHICH THE APPEAL IS MADE.\n\n\nIN ACCORDANCE WITH FLORIDA STATUTE 286.26, PERSONS NEEDING ASSISTANCE TO PARTICIPATE IN ANY OF THESE PROCEEDING SHOULD CONTACT THE OFFICE OF THE CITY CLERK 407-518-2309 AT 101 CHURCH STREET, KISSIMMEE, FL 34741, PRIOR TO THE MEETING (FS 286.26).\nApril 2, 2026",
+      "pub_date": "2026-04-02",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11526694",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Osceola News-Gazette",
+      "city": "Kissimmee",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": null,
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "city-commission",
+      "meeting_body_name": "City Commission",
+      "pub_date_rfc822": "Thu, 02 Apr 2026 00:00:00 +0000",
+      "pub_date_formatted": "April 02, 2026",
+      "first_seen": "2026-04-02T12:54:39.775721+00:00",
+      "last_seen": "2026-04-02T12:54:39.775721+00:00"
     }
   }
 }
