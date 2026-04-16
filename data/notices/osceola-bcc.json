@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T07:21:23.684787+00:00",
+  "last_updated": "2026-04-16T13:14:16.729970+00:00",
   "notices": {
     "11368706": {
       "id": 11368706,
@@ -1039,7 +1039,7 @@
       "pub_date_rfc822": "Thu, 19 Mar 2026 00:00:00 +0000",
       "pub_date_formatted": "March 19, 2026",
       "first_seen": "2026-03-19T12:43:33.977662+00:00",
-      "last_seen": "2026-04-16T07:21:23.684787+00:00"
+      "last_seen": "2026-04-16T13:14:16.729970+00:00"
     },
     "11513798": {
       "id": 11513798,
@@ -1065,7 +1065,7 @@
       "pub_date_rfc822": "Thu, 19 Mar 2026 00:00:00 +0000",
       "pub_date_formatted": "March 19, 2026",
       "first_seen": "2026-03-19T12:43:33.977662+00:00",
-      "last_seen": "2026-04-16T07:21:23.684787+00:00"
+      "last_seen": "2026-04-16T13:14:16.729970+00:00"
     },
     "11519882": {
       "id": 11519882,
@@ -1091,7 +1091,7 @@
       "pub_date_rfc822": "Thu, 26 Mar 2026 00:00:00 +0000",
       "pub_date_formatted": "March 26, 2026",
       "first_seen": "2026-03-26T12:56:21.884604+00:00",
-      "last_seen": "2026-04-16T07:21:23.684787+00:00"
+      "last_seen": "2026-04-16T13:14:16.729970+00:00"
     },
     "11526696": {
       "id": 11526696,
@@ -1117,7 +1117,33 @@
       "pub_date_rfc822": "Thu, 02 Apr 2026 00:00:00 +0000",
       "pub_date_formatted": "April 02, 2026",
       "first_seen": "2026-04-02T12:54:39.774194+00:00",
-      "last_seen": "2026-04-16T07:21:23.684787+00:00"
+      "last_seen": "2026-04-16T13:14:16.729970+00:00"
+    },
+    "11538893": {
+      "id": 11538893,
+      "title": "Miscellaneous Notices - Kissimmee",
+      "description": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY \nBOARD OF COUNTY COMMISSIONERS PROJECTS:\n1) AR-26-15871-EN - Emergency Generator Preventive Maintenance Inspecti...",
+      "notice_text": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY \nBOARD OF COUNTY COMMISSIONERS PROJECTS:\n1) AR-26-15871-EN - Emergency Generator Preventive Maintenance Inspection and Service. There will be no Pre-Bid Conference for this project: Deadline for Questions: Friday, April 24th, 2026, at 4:00 PM Local Time. Due Date: Tuesday, May 12th, 2026, at 2:00 PM Local Time. Contact Evelyn Nunez (407) 742-0935.\n2) RFP-26-15262-DG - Osceola County Board of County Commissioners is seeking proposals for Inmate Banking and Commissary Ordering Software, Intake/Kiosk Bail Bond Services, Secure Release Services (Debit Card Program), Inmate Phone Services, Video Visitation System, Commissary Services and Inmate Vending Services for the Inmates at the Osceola County Corrections Facility. The solicitation document and any addenda can be accessed and downloaded from VendorLink at the following web address: Vendorlink.osceola.org. There will be a VIRTUAL NON-MANDATORY PRE-PROPOSAL CONFERENCE held on Wednesday, April 22, 2026, at 10:00 AM Local Time. Dial in at 407-906-2344, and when prompted, enter the following conference code: 727 049 153#.Please note the meeting will be audio recorded. There will be a Non-Mandatory Onsite Visit held on Thursday, April 23, 2026 at 9:00 AM Local Time at the Osceola County Corrections Facility, 402 Simpson Road, Kissimmee, Florida 34744. The deadline for questions is Wednesday, May 6, 2026 at 12:00 PM Local Time. DUE DATE: Tuesday, May 19, 2026 at 2:00 PM Local Time. Contact: Don Gaskins (407) 742-0931. The release date for this solicitation is April 12, 2026.\nFOR MORE INFORMATION, VISIT OSCEOLA COUNTYS VENDORLINK WEB SITE AT http://vendorlink.osceola.org.\nApril 16, 2026",
+      "pub_date": "2026-04-16",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11538893",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Osceola News-Gazette",
+      "city": "Kissimmee",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": "Thursday, April 23, 2026 at 9:00 AM",
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "osceola-bcc",
+      "meeting_body_name": "Osceola County Board of County Commissioners",
+      "pub_date_rfc822": "Thu, 16 Apr 2026 00:00:00 +0000",
+      "pub_date_formatted": "April 16, 2026",
+      "first_seen": "2026-04-16T13:14:16.729970+00:00",
+      "last_seen": "2026-04-16T13:14:16.729970+00:00"
     }
   }
 }
