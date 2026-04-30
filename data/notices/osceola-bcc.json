@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T08:07:23.079541+00:00",
+  "last_updated": "2026-04-30T13:24:49.749788+00:00",
   "notices": {
     "11368706": {
       "id": 11368706,
@@ -1117,7 +1117,7 @@
       "pub_date_rfc822": "Thu, 02 Apr 2026 00:00:00 +0000",
       "pub_date_formatted": "April 02, 2026",
       "first_seen": "2026-04-02T12:54:39.774194+00:00",
-      "last_seen": "2026-04-30T08:07:23.079541+00:00"
+      "last_seen": "2026-04-30T13:24:49.749788+00:00"
     },
     "11538893": {
       "id": 11538893,
@@ -1143,7 +1143,7 @@
       "pub_date_rfc822": "Thu, 16 Apr 2026 00:00:00 +0000",
       "pub_date_formatted": "April 16, 2026",
       "first_seen": "2026-04-16T13:14:16.729970+00:00",
-      "last_seen": "2026-04-30T08:07:23.079541+00:00"
+      "last_seen": "2026-04-30T13:24:49.749788+00:00"
     },
     "11544649": {
       "id": 11544649,
@@ -1169,7 +1169,33 @@
       "pub_date_rfc822": "Thu, 23 Apr 2026 00:00:00 +0000",
       "pub_date_formatted": "April 23, 2026",
       "first_seen": "2026-04-23T13:07:39.156486+00:00",
-      "last_seen": "2026-04-30T08:07:23.079541+00:00"
+      "last_seen": "2026-04-30T13:24:49.749788+00:00"
+    },
+    "11551850": {
+      "id": 11551850,
+      "title": "Miscellaneous Notices - Kissimmee",
+      "description": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY\n BOARD OF COUNTY COMMISSIONERS PROJECTS:\n1) ITB-26-15488-DG - Osceola County Board of County Commissioners is se...",
+      "notice_text": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY\n BOARD OF COUNTY COMMISSIONERS PROJECTS:\n1) ITB-26-15488-DG - Osceola County Board of County Commissioners is seeking bids from Florida Department of Transportation (FDOT) pre-qualified contractors to provide Construction Services for Carroll Street from West of Lehigh Avenue to East of Sample Street Project (FPN: 433204-2-58-01). The Carroll Street Improvements project is designed to improve traffic operations and safety of approximately 1,700 feet (0.33 miles) of the existing Carroll Street from West of Lehigh Avenue to East of Sample Street. The project includes the construction of roadway safety improvements, pedestrian improvements, mast arm signalized intersection, pavement widening, milling and resurfacing, signing and striping, mobilization, maintenance of traffic, drainage improvements, and TOHO utility relocation along Carroll Street. To be considered, the Contractor (Prime) shall be Florida Department of Transportation (FDOT) Prequalified in the following Work Classes: 7. Drainage, 10. Flexible Paving, and 11. Grading. The solicitation document and any addenda can be accessed and downloaded from VendorLink at the following web address: https://Vendorlink.osceola.org. There will be a VIRTUAL NON-MANDATORY PRE-BID CONFERENCE on Wednesday, May 6, 2026 at 10:00 AM Local Time. Dial in at 407-906-2344, and when prompted, enter the following conference code: 749 319 711#. Please note the meeting will be audio recorded. The deadline for questions is Wednesday, May 13, 2026 at 12:00 PM Local Time. DUE DATE: Tuesday, May 26, 2026 at 2:00 PM Local Time. Contact: Don Gaskins (407) 742-0931. The broadcast date is April 26, 2026.\nFOR MORE INFORMATION, VISIT OSCEOLA COUNTYS VENDORLINK WEB SITE AT http://vendorlink.osceola.org.\nApril 30, 2026",
+      "pub_date": "2026-04-30",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11551850",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Osceola News-Gazette",
+      "city": "Kissimmee",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": "Wednesday, May 6, 2026 at 10:00 AM",
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "osceola-bcc",
+      "meeting_body_name": "Osceola County Board of County Commissioners",
+      "pub_date_rfc822": "Thu, 30 Apr 2026 00:00:00 +0000",
+      "pub_date_formatted": "April 30, 2026",
+      "first_seen": "2026-04-30T13:24:49.749788+00:00",
+      "last_seen": "2026-04-30T13:24:49.749788+00:00"
     }
   }
 }
