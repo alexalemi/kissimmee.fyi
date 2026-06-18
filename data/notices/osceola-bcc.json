@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T10:08:37.143235+00:00",
+  "last_updated": "2026-06-18T14:51:26.731993+00:00",
   "notices": {
     "11368706": {
       "id": 11368706,
@@ -1247,7 +1247,7 @@
       "pub_date_rfc822": "Sun, 17 May 2026 00:00:00 +0000",
       "pub_date_formatted": "May 17, 2026",
       "first_seen": "2026-05-17T08:11:59.622294+00:00",
-      "last_seen": "2026-06-18T10:08:37.143235+00:00"
+      "last_seen": "2026-06-18T14:51:26.731993+00:00"
     },
     "11571154": {
       "id": 11571154,
@@ -1273,7 +1273,7 @@
       "pub_date_rfc822": "Thu, 21 May 2026 00:00:00 +0000",
       "pub_date_formatted": "May 21, 2026",
       "first_seen": "2026-05-21T14:46:30.671271+00:00",
-      "last_seen": "2026-06-18T10:08:37.143235+00:00"
+      "last_seen": "2026-06-18T14:51:26.731993+00:00"
     },
     "11573492": {
       "id": 11573492,
@@ -1299,7 +1299,7 @@
       "pub_date_rfc822": "Sun, 24 May 2026 00:00:00 +0000",
       "pub_date_formatted": "May 24, 2026",
       "first_seen": "2026-05-24T02:33:46.395809+00:00",
-      "last_seen": "2026-06-18T10:08:37.143235+00:00"
+      "last_seen": "2026-06-18T14:51:26.731993+00:00"
     },
     "11577057": {
       "id": 11577057,
@@ -1325,7 +1325,7 @@
       "pub_date_rfc822": "Thu, 28 May 2026 00:00:00 +0000",
       "pub_date_formatted": "May 28, 2026",
       "first_seen": "2026-05-28T15:32:49.507891+00:00",
-      "last_seen": "2026-06-18T10:08:37.143235+00:00"
+      "last_seen": "2026-06-18T14:51:26.731993+00:00"
     },
     "11591552": {
       "id": 11591552,
@@ -1351,7 +1351,33 @@
       "pub_date_rfc822": "Sun, 14 Jun 2026 00:00:00 +0000",
       "pub_date_formatted": "June 14, 2026",
       "first_seen": "2026-06-14T09:20:55.090011+00:00",
-      "last_seen": "2026-06-18T10:08:37.143235+00:00"
+      "last_seen": "2026-06-18T14:51:26.731993+00:00"
+    },
+    "11595507": {
+      "id": 11595507,
+      "title": "Miscellaneous Notices - Kissimmee",
+      "description": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY \nBOARD OF COUNTY COMMISSIONERS PROJECTS:\n1) ITB-26-15927-PC  Ventura Elementary Sidewalk Project  Community Deve...",
+      "notice_text": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY \nBOARD OF COUNTY COMMISSIONERS PROJECTS:\n1) ITB-26-15927-PC  Ventura Elementary Sidewalk Project  Community Development Block Grant Funded - #B-24-UC-12-0020. The solicitation document and any addenda can be accessed and downloaded from VendorLink at the following web address: Vendorlink.osceola.org. A VIRTUAL Non-Mandatory Pre-Bid Conference will be held on Tuesday, June 23, 2026, at 1:00 PM Local Time via the Microsoft TEAMS Application. Dial-in using (407)-906-2344, and when prompted enter the Conference Code: 120 119 455#. Please note the meeting will be audio recorded. The deadline for questions is Wednesday, July 1, 2026, at 2:00 PM Local Time. Due Date: Tuesday, July 14, 2026, at 2:00 PM Local Time. Contact: Paul Callaway  (407) -742-0932.\n2) PS-26-15955-PC  Design Services for the Cypress Parkway Sidewalk Project  Funded by Community Development Block Grant (CDBG) #B-25-UC-12-0020. The solicitation document and any addenda can be accessed and downloaded from VendorLink at the following web address: Vendorlink.osceola.org. A VIRTUAL Non-Mandatory Pre-Proposal Conference will be held on Thursday, June 25, 2026, at 11:00 AM Local Time via the Microsoft TEAMS Application. Dial-in using (407) 906-2344, and when prompted enter the Conference Code: 898 316 89#. Please note the meeting will be audio recorded. The deadline for questions is Wednesday, July 1, 2026, at 2:00 PM Local Time. Due Date: Tuesday, July 14, 2026, at 2:00 PM Local Time. Contact: Paul Callaway  (407)-742-0932.\nFOR MORE INFORMATION, VISIT OSCEOLA COUNTYS VENDORLINK WEB SITE AT http://vendorlink.osceola.org.\nJune 18, 2026",
+      "pub_date": "2026-06-18",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11595507",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Osceola News-Gazette",
+      "city": "Kissimmee",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": null,
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "osceola-bcc",
+      "meeting_body_name": "Osceola County Board of County Commissioners",
+      "pub_date_rfc822": "Thu, 18 Jun 2026 00:00:00 +0000",
+      "pub_date_formatted": "June 18, 2026",
+      "first_seen": "2026-06-18T14:51:26.731993+00:00",
+      "last_seen": "2026-06-18T14:51:26.731993+00:00"
     }
   }
 }
