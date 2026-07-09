@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T09:24:20.493058+00:00",
+  "last_updated": "2026-07-09T14:36:32.014478+00:00",
   "notices": {
     "11368706": {
       "id": 11368706,
@@ -1351,7 +1351,7 @@
       "pub_date_rfc822": "Sun, 14 Jun 2026 00:00:00 +0000",
       "pub_date_formatted": "June 14, 2026",
       "first_seen": "2026-06-14T09:20:55.090011+00:00",
-      "last_seen": "2026-07-09T09:24:20.493058+00:00"
+      "last_seen": "2026-07-09T14:36:32.014478+00:00"
     },
     "11595507": {
       "id": 11595507,
@@ -1377,7 +1377,7 @@
       "pub_date_rfc822": "Thu, 18 Jun 2026 00:00:00 +0000",
       "pub_date_formatted": "June 18, 2026",
       "first_seen": "2026-06-18T14:51:26.731993+00:00",
-      "last_seen": "2026-07-09T09:24:20.493058+00:00"
+      "last_seen": "2026-07-09T14:36:32.014478+00:00"
     },
     "11610860": {
       "id": 11610860,
@@ -1403,7 +1403,33 @@
       "pub_date_rfc822": "Sun, 05 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 05, 2026",
       "first_seen": "2026-07-05T02:22:41.161156+00:00",
-      "last_seen": "2026-07-09T09:24:20.493058+00:00"
+      "last_seen": "2026-07-09T14:36:32.014478+00:00"
+    },
+    "11614734": {
+      "id": 11614734,
+      "title": "Miscellaneous Notices - Kissimmee",
+      "description": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY \nBOARD OF COUNTY\n COMMISSIONERS PROJECTS:\n1) AR-26-16034-LA, Aerial Adulticiding and Aerial Larviciding Applicat...",
+      "notice_text": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY \nBOARD OF COUNTY\n COMMISSIONERS PROJECTS:\n1) AR-26-16034-LA, Aerial Adulticiding and Aerial Larviciding Application Services for Mosquito Control. There will be a virtual non-mandatory pre-bid conference held on Monday, July 13, 2026, at 10:00 AM local time. Dial in at 407-906-2344, and when prompted, enter the following conference code: 724 080 512#. Question period ends: Friday, July 17, 2026, at 4:00 PM Local time. Bid Due date is: Tuesday, August 4, 2026, at 2:00 PM Local time. Contact: Luis Aviles, 407-742-0937.\nFOR MORE INFORMATION, VISIT OSCEOLA COUNTYS VENDORLINK WEB SITE AT http://vendorlink.osceola.org [http://vendorlink.osceola.org].\nJuly 9, 2026",
+      "pub_date": "2026-07-09",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11614734",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Osceola News-Gazette",
+      "city": "Kissimmee",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": null,
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "osceola-bcc",
+      "meeting_body_name": "Osceola County Board of County Commissioners",
+      "pub_date_rfc822": "Thu, 09 Jul 2026 00:00:00 +0000",
+      "pub_date_formatted": "July 09, 2026",
+      "first_seen": "2026-07-09T14:36:32.014478+00:00",
+      "last_seen": "2026-07-09T14:36:32.014478+00:00"
     }
   }
 }
