@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T01:57:49.098368+00:00",
+  "last_updated": "2026-07-12T08:03:35.418993+00:00",
   "notices": {
     "11368706": {
       "id": 11368706,
@@ -1351,7 +1351,7 @@
       "pub_date_rfc822": "Sun, 14 Jun 2026 00:00:00 +0000",
       "pub_date_formatted": "June 14, 2026",
       "first_seen": "2026-06-14T09:20:55.090011+00:00",
-      "last_seen": "2026-07-12T01:57:49.098368+00:00"
+      "last_seen": "2026-07-12T08:03:35.418993+00:00"
     },
     "11595507": {
       "id": 11595507,
@@ -1377,7 +1377,7 @@
       "pub_date_rfc822": "Thu, 18 Jun 2026 00:00:00 +0000",
       "pub_date_formatted": "June 18, 2026",
       "first_seen": "2026-06-18T14:51:26.731993+00:00",
-      "last_seen": "2026-07-12T01:57:49.098368+00:00"
+      "last_seen": "2026-07-12T08:03:35.418993+00:00"
     },
     "11610860": {
       "id": 11610860,
@@ -1403,7 +1403,7 @@
       "pub_date_rfc822": "Sun, 05 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 05, 2026",
       "first_seen": "2026-07-05T02:22:41.161156+00:00",
-      "last_seen": "2026-07-12T01:57:49.098368+00:00"
+      "last_seen": "2026-07-12T08:03:35.418993+00:00"
     },
     "11614734": {
       "id": 11614734,
@@ -1429,7 +1429,33 @@
       "pub_date_rfc822": "Thu, 09 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 09, 2026",
       "first_seen": "2026-07-09T14:36:32.014478+00:00",
-      "last_seen": "2026-07-12T01:57:49.098368+00:00"
+      "last_seen": "2026-07-12T08:03:35.418993+00:00"
+    },
+    "11618060": {
+      "id": 11618060,
+      "title": "Miscellaneous Notices - Orlando",
+      "description": "OSCEOLA COUNTY BOARD OF COUNTY COMMISSIONERS PROJECTS\n1",
+      "notice_text": "OSCEOLA COUNTY BOARD OF COUNTY COMMISSIONERS PROJECTS\n1. AR-26-15994-NO  Ready Mix Concrete. There will be no Pre-Proposal Conference for this project. Deadline for Questions: Friday, July 24 2026, at 2:00PM Local Time. Due Date: Tuesday, August 18, 2026, at 2:00PM Local Time. Contact: Nancy Ortiz, 407-742-0940.\n2. AR-26-15962-NO  Annual Supply of Limerock. There will be no Pre-Proposal Conference for this project. Deadline for Questions: Friday, July 24 2026, at 2:00PM Local Time. Due Date: Tuesday, August 18, 2026, at 2:00PM Local Time. Contact: Nancy Ortiz, 407-742-0940.\n3. AR-26-16029-AS  Asphalt Resurfacing. There will be no Pre-Proposal Conference for this project. The Solicitation document and any addenda can be accessed and downloaded from \nVendorlink at the following web address:  Vendorlink.osceola.org. The deadline for questions is Wednesday, August 5, 2026 at 2:00 p.m. local time. Due Date is Tuesday, August 18, 2026 at 2:00 p.m. local time. Contact: Arima Santana (407) 742-0925.\nFOR MORE INFORMATION, VISIT OSCEOLA COUNTYS VENDORLINK WEB SITE AT http://vendorlink.osceola.org.\n101639\n7/12/2026",
+      "pub_date": "2026-07-12",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11618060",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Orlando Sentinel",
+      "city": "Orlando",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": "Wednesday, August 5, 2026 at 2:00 p.m.",
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "osceola-bcc",
+      "meeting_body_name": "Osceola County Board of County Commissioners",
+      "pub_date_rfc822": "Sun, 12 Jul 2026 00:00:00 +0000",
+      "pub_date_formatted": "July 12, 2026",
+      "first_seen": "2026-07-12T08:03:35.418993+00:00",
+      "last_seen": "2026-07-12T08:03:35.418993+00:00"
     }
   }
 }
