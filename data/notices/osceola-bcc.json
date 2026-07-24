@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T01:57:08.531877+00:00",
+  "last_updated": "2026-07-24T08:11:09.429371+00:00",
   "notices": {
     "11368706": {
       "id": 11368706,
@@ -1403,7 +1403,7 @@
       "pub_date_rfc822": "Sun, 05 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 05, 2026",
       "first_seen": "2026-07-05T02:22:41.161156+00:00",
-      "last_seen": "2026-07-24T01:57:08.531877+00:00"
+      "last_seen": "2026-07-24T08:11:09.429371+00:00"
     },
     "11614734": {
       "id": 11614734,
@@ -1429,7 +1429,7 @@
       "pub_date_rfc822": "Thu, 09 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 09, 2026",
       "first_seen": "2026-07-09T14:36:32.014478+00:00",
-      "last_seen": "2026-07-24T01:57:08.531877+00:00"
+      "last_seen": "2026-07-24T08:11:09.429371+00:00"
     },
     "11618060": {
       "id": 11618060,
@@ -1455,7 +1455,7 @@
       "pub_date_rfc822": "Sun, 12 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 12, 2026",
       "first_seen": "2026-07-12T08:03:35.418993+00:00",
-      "last_seen": "2026-07-24T01:57:08.531877+00:00"
+      "last_seen": "2026-07-24T08:11:09.429371+00:00"
     },
     "11622841": {
       "id": 11622841,
@@ -1481,7 +1481,7 @@
       "pub_date_rfc822": "Thu, 16 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 16, 2026",
       "first_seen": "2026-07-16T13:24:53.464646+00:00",
-      "last_seen": "2026-07-24T01:57:08.531877+00:00"
+      "last_seen": "2026-07-24T08:11:09.429371+00:00"
     },
     "11629133": {
       "id": 11629133,
@@ -1507,7 +1507,33 @@
       "pub_date_rfc822": "Thu, 23 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 23, 2026",
       "first_seen": "2026-07-23T13:28:24.158337+00:00",
-      "last_seen": "2026-07-24T01:57:08.531877+00:00"
+      "last_seen": "2026-07-24T08:11:09.429371+00:00"
+    },
+    "11631413": {
+      "id": 11631413,
+      "title": "Miscellaneous Notices - Orlando",
+      "description": "OSCEOLA COUNTY BOARD OF COUNTY COMMISSIONERS PROJECTS:\n1",
+      "notice_text": "OSCEOLA COUNTY BOARD OF COUNTY COMMISSIONERS PROJECTS:\n1. AR-26-15952-NO Septic Repairs & Maintenance. There will be no Pre-Proposal Conference for this project. The Solicitation document and any addenda can be accessed and downloaded from Vendorlink at the following web address: Vendorlink.osceola.org.\nThe deadline for questions is Friday, July 31, 2026 at 2:00 p.m. local time. Due Date is Tuesday, August 25, 2026 at 2:00 p.m. local time. Contact: Nancy Ortiz, 407) 742-0940.\nFOR MORE INFORMATION, VISIT OSCEOLA COUNTYS VENDORLINK WEB SITE AT http://vendorlink.osceola.org.\n104670\n7/24/2026",
+      "pub_date": "2026-07-24",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11631413",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Orlando Sentinel",
+      "city": "Orlando",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": "Friday, July 31, 2026 at 2:00 p.m.",
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "osceola-bcc",
+      "meeting_body_name": "Osceola County Board of County Commissioners",
+      "pub_date_rfc822": "Fri, 24 Jul 2026 00:00:00 +0000",
+      "pub_date_formatted": "July 24, 2026",
+      "first_seen": "2026-07-24T08:11:09.429371+00:00",
+      "last_seen": "2026-07-24T08:11:09.429371+00:00"
     }
   }
 }
