@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T01:04:56.768791+00:00",
+  "last_updated": "2026-08-09T06:40:49.145397+00:00",
   "notices": {
     "11368706": {
       "id": 11368706,
@@ -1429,7 +1429,7 @@
       "pub_date_rfc822": "Thu, 09 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 09, 2026",
       "first_seen": "2026-07-09T14:36:32.014478+00:00",
-      "last_seen": "2026-08-09T01:04:56.768791+00:00"
+      "last_seen": "2026-08-09T06:40:49.145397+00:00"
     },
     "11618060": {
       "id": 11618060,
@@ -1455,7 +1455,7 @@
       "pub_date_rfc822": "Sun, 12 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 12, 2026",
       "first_seen": "2026-07-12T08:03:35.418993+00:00",
-      "last_seen": "2026-08-09T01:04:56.768791+00:00"
+      "last_seen": "2026-08-09T06:40:49.145397+00:00"
     },
     "11622841": {
       "id": 11622841,
@@ -1481,7 +1481,7 @@
       "pub_date_rfc822": "Thu, 16 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 16, 2026",
       "first_seen": "2026-07-16T13:24:53.464646+00:00",
-      "last_seen": "2026-08-09T01:04:56.768791+00:00"
+      "last_seen": "2026-08-09T06:40:49.145397+00:00"
     },
     "11629133": {
       "id": 11629133,
@@ -1507,7 +1507,7 @@
       "pub_date_rfc822": "Thu, 23 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 23, 2026",
       "first_seen": "2026-07-23T13:28:24.158337+00:00",
-      "last_seen": "2026-08-09T01:04:56.768791+00:00"
+      "last_seen": "2026-08-09T06:40:49.145397+00:00"
     },
     "11631413": {
       "id": 11631413,
@@ -1533,7 +1533,7 @@
       "pub_date_rfc822": "Fri, 24 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 24, 2026",
       "first_seen": "2026-07-24T08:11:09.429371+00:00",
-      "last_seen": "2026-08-09T01:04:56.768791+00:00"
+      "last_seen": "2026-08-09T06:40:49.145397+00:00"
     },
     "11632719": {
       "id": 11632719,
@@ -1559,7 +1559,7 @@
       "pub_date_rfc822": "Sun, 26 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 26, 2026",
       "first_seen": "2026-07-26T08:11:25.901368+00:00",
-      "last_seen": "2026-08-09T01:04:56.768791+00:00"
+      "last_seen": "2026-08-09T06:40:49.145397+00:00"
     },
     "11636739": {
       "id": 11636739,
@@ -1585,7 +1585,7 @@
       "pub_date_rfc822": "Thu, 30 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 30, 2026",
       "first_seen": "2026-07-30T01:44:46.036584+00:00",
-      "last_seen": "2026-08-09T01:04:56.768791+00:00"
+      "last_seen": "2026-08-09T06:40:49.145397+00:00"
     },
     "11637398": {
       "id": 11637398,
@@ -1611,7 +1611,7 @@
       "pub_date_rfc822": "Thu, 30 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 30, 2026",
       "first_seen": "2026-07-30T13:40:59.963598+00:00",
-      "last_seen": "2026-08-09T01:04:56.768791+00:00"
+      "last_seen": "2026-08-09T06:40:49.145397+00:00"
     },
     "11639898": {
       "id": 11639898,
@@ -1637,7 +1637,7 @@
       "pub_date_rfc822": "Sun, 02 Aug 2026 00:00:00 +0000",
       "pub_date_formatted": "August 02, 2026",
       "first_seen": "2026-08-02T08:08:38.883353+00:00",
-      "last_seen": "2026-08-09T01:04:56.768791+00:00"
+      "last_seen": "2026-08-09T06:40:49.145397+00:00"
     },
     "11639894": {
       "id": 11639894,
@@ -1663,7 +1663,7 @@
       "pub_date_rfc822": "Sun, 02 Aug 2026 00:00:00 +0000",
       "pub_date_formatted": "August 02, 2026",
       "first_seen": "2026-08-02T08:08:38.883353+00:00",
-      "last_seen": "2026-08-09T01:04:56.768791+00:00"
+      "last_seen": "2026-08-09T06:40:49.145397+00:00"
     },
     "11644323": {
       "id": 11644323,
@@ -1689,7 +1689,33 @@
       "pub_date_rfc822": "Thu, 06 Aug 2026 00:00:00 +0000",
       "pub_date_formatted": "August 06, 2026",
       "first_seen": "2026-08-06T13:45:17.193413+00:00",
-      "last_seen": "2026-08-09T01:04:56.768791+00:00"
+      "last_seen": "2026-08-09T06:40:49.145397+00:00"
+    },
+    "11646592": {
+      "id": 11646592,
+      "title": "Miscellaneous Notices - Orlando",
+      "description": "OSCEOLA COUNTY BOARD OF COUNTY COMMISSIONERS PROJECTS:\n1",
+      "notice_text": "OSCEOLA COUNTY BOARD OF COUNTY COMMISSIONERS PROJECTS:\n1. RFP-26-16072-AS  Countywide Painting Services on a Task Authorization Basis: The Solicitation document and any addenda can be accessed and downloaded from Vendorlink at the following web address: \nVendorlink.osceola.org. There will be no pre-proposal conference for this project. The deadline for questions is Thursday, August 27, 2026 at 12:00 p.m. local time. Due Date is Tuesday, September 15, 2026 at 2:00 p.m. local time. Contact: Arima Santana (407)742-0925.\n2. AR-26-15949-NO Countywide Electrical Repair & Maintenance Services. There will be no Pre-Proposal Conference for this project. The Solicitation document and any addenda can be accessed and downloaded from Vendorlink at the following web address: \n   Vendorlink.osceola.org. The deadline for questions is August 28, 2026 at 2:00 PM Local Time. DUE DATE: Tuesday, September 15, 2026, at 2:00 PM Local Time. Contact: Nancy Ortiz, 407) 742-0940.\n3. PS-26- 15980-LA - Architectural and Engineering Services for the Osceola County Sheriffs Department West Command Station. The solicitation document and any addenda can be accessed and downloaded from VendorLink at the following web address: \nVendorlink.osceola.org. There will be a VIRTUAL NON-MANDATORY PRE-PROPOSAL CONFERENCE held on Monday, August 17, 2026 at 10:00 AM Local Time. Dial in at 407-\n906-2344, and when prompted, enter the following conference code: 782 981 222#. Please note the meeting will be audio recorded. The deadline for questions is Friday, August 21, 2026 at 4:00 PM Local Time. DUE DATE: Tuesday, September 8, 2026 at 2:00 PM Local Time. Contact: Luis Aviles (407) 742-0937.\nFOR MORE INFORMATION, VISIT OSCEOLA COUNTYS VENDORLINK WEB SITE AT http://vendorlink.osceola.org.\n114820\n8/09/2026",
+      "pub_date": "2026-08-09",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11646592",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Orlando Sentinel",
+      "city": "Orlando",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": "Thursday, August 27, 2026 at 12:00 p.m.",
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "osceola-bcc",
+      "meeting_body_name": "Osceola County Board of County Commissioners",
+      "pub_date_rfc822": "Sun, 09 Aug 2026 00:00:00 +0000",
+      "pub_date_formatted": "August 09, 2026",
+      "first_seen": "2026-08-09T06:40:49.145397+00:00",
+      "last_seen": "2026-08-09T06:40:49.145397+00:00"
     }
   }
 }
