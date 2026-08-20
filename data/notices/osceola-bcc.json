@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T06:31:04.260327+00:00",
+  "last_updated": "2026-08-20T12:30:50.522407+00:00",
   "notices": {
     "11368706": {
       "id": 11368706,
@@ -1507,7 +1507,7 @@
       "pub_date_rfc822": "Thu, 23 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 23, 2026",
       "first_seen": "2026-07-23T13:28:24.158337+00:00",
-      "last_seen": "2026-08-20T06:31:04.260327+00:00"
+      "last_seen": "2026-08-20T12:30:50.522407+00:00"
     },
     "11631413": {
       "id": 11631413,
@@ -1533,7 +1533,7 @@
       "pub_date_rfc822": "Fri, 24 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 24, 2026",
       "first_seen": "2026-07-24T08:11:09.429371+00:00",
-      "last_seen": "2026-08-20T06:31:04.260327+00:00"
+      "last_seen": "2026-08-20T12:30:50.522407+00:00"
     },
     "11632719": {
       "id": 11632719,
@@ -1559,7 +1559,7 @@
       "pub_date_rfc822": "Sun, 26 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 26, 2026",
       "first_seen": "2026-07-26T08:11:25.901368+00:00",
-      "last_seen": "2026-08-20T06:31:04.260327+00:00"
+      "last_seen": "2026-08-20T12:30:50.522407+00:00"
     },
     "11636739": {
       "id": 11636739,
@@ -1585,7 +1585,7 @@
       "pub_date_rfc822": "Thu, 30 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 30, 2026",
       "first_seen": "2026-07-30T01:44:46.036584+00:00",
-      "last_seen": "2026-08-20T06:31:04.260327+00:00"
+      "last_seen": "2026-08-20T12:30:50.522407+00:00"
     },
     "11637398": {
       "id": 11637398,
@@ -1611,7 +1611,7 @@
       "pub_date_rfc822": "Thu, 30 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 30, 2026",
       "first_seen": "2026-07-30T13:40:59.963598+00:00",
-      "last_seen": "2026-08-20T06:31:04.260327+00:00"
+      "last_seen": "2026-08-20T12:30:50.522407+00:00"
     },
     "11639898": {
       "id": 11639898,
@@ -1637,7 +1637,7 @@
       "pub_date_rfc822": "Sun, 02 Aug 2026 00:00:00 +0000",
       "pub_date_formatted": "August 02, 2026",
       "first_seen": "2026-08-02T08:08:38.883353+00:00",
-      "last_seen": "2026-08-20T06:31:04.260327+00:00"
+      "last_seen": "2026-08-20T12:30:50.522407+00:00"
     },
     "11639894": {
       "id": 11639894,
@@ -1663,7 +1663,7 @@
       "pub_date_rfc822": "Sun, 02 Aug 2026 00:00:00 +0000",
       "pub_date_formatted": "August 02, 2026",
       "first_seen": "2026-08-02T08:08:38.883353+00:00",
-      "last_seen": "2026-08-20T06:31:04.260327+00:00"
+      "last_seen": "2026-08-20T12:30:50.522407+00:00"
     },
     "11644323": {
       "id": 11644323,
@@ -1689,7 +1689,7 @@
       "pub_date_rfc822": "Thu, 06 Aug 2026 00:00:00 +0000",
       "pub_date_formatted": "August 06, 2026",
       "first_seen": "2026-08-06T13:45:17.193413+00:00",
-      "last_seen": "2026-08-20T06:31:04.260327+00:00"
+      "last_seen": "2026-08-20T12:30:50.522407+00:00"
     },
     "11646592": {
       "id": 11646592,
@@ -1715,7 +1715,7 @@
       "pub_date_rfc822": "Sun, 09 Aug 2026 00:00:00 +0000",
       "pub_date_formatted": "August 09, 2026",
       "first_seen": "2026-08-09T06:40:49.145397+00:00",
-      "last_seen": "2026-08-20T06:31:04.260327+00:00"
+      "last_seen": "2026-08-20T12:30:50.522407+00:00"
     },
     "11650572": {
       "id": 11650572,
@@ -1741,7 +1741,7 @@
       "pub_date_rfc822": "Thu, 13 Aug 2026 00:00:00 +0000",
       "pub_date_formatted": "August 13, 2026",
       "first_seen": "2026-08-13T12:52:07.105825+00:00",
-      "last_seen": "2026-08-20T06:31:04.260327+00:00"
+      "last_seen": "2026-08-20T12:30:50.522407+00:00"
     },
     "11653171": {
       "id": 11653171,
@@ -1767,7 +1767,33 @@
       "pub_date_rfc822": "Sun, 16 Aug 2026 00:00:00 +0000",
       "pub_date_formatted": "August 16, 2026",
       "first_seen": "2026-08-16T06:25:42.689808+00:00",
-      "last_seen": "2026-08-20T06:31:04.260327+00:00"
+      "last_seen": "2026-08-20T12:30:50.522407+00:00"
+    },
+    "11657217": {
+      "id": 11657217,
+      "title": "Miscellaneous Notices - Kissimmee",
+      "description": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY \nBOARD OF COUNTY COMMISSIONERS PROJECTS:\n1) RFP-26-15979-AS  Osceola County Corrections Facility Inmate Populati...",
+      "notice_text": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY \nBOARD OF COUNTY COMMISSIONERS PROJECTS:\n1) RFP-26-15979-AS  Osceola County Corrections Facility Inmate Population Study: The Solicitation document and any addenda can be accessed and downloaded from Vendorlink at the following web address: Vendorlink.osceola.org. There will be no pre-proposal conference for this project. The deadline for questions is Tuesday, September 1, 2026, at 12:00 p.m. local time. Due Date is Tuesday, September 15, 2026, at 2:00 p.m. local time. Contact: Arima Santana (407) 742-0925.\nFOR MORE INFORMATION, VISIT OSCEOLA COUNTYS VENDORLINK WEB SITE AT http://vendorlink.osceola.org.\nAugust 20, 2026",
+      "pub_date": "2026-08-20",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11657217",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Osceola News-Gazette",
+      "city": "Kissimmee",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": null,
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "osceola-bcc",
+      "meeting_body_name": "Osceola County Board of County Commissioners",
+      "pub_date_rfc822": "Thu, 20 Aug 2026 00:00:00 +0000",
+      "pub_date_formatted": "August 20, 2026",
+      "first_seen": "2026-08-20T12:30:50.522407+00:00",
+      "last_seen": "2026-08-20T12:30:50.522407+00:00"
     }
   }
 }
