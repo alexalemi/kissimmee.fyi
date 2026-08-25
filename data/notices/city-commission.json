@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T00:47:24.653344+00:00",
+  "last_updated": "2026-08-25T06:32:37.936675+00:00",
   "notices": {
     "11381716": {
       "id": 11381716,
@@ -531,7 +531,7 @@
       "pub_date_rfc822": "Thu, 30 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 30, 2026",
       "first_seen": "2026-07-30T13:40:59.965616+00:00",
-      "last_seen": "2026-08-25T00:47:24.653344+00:00"
+      "last_seen": "2026-08-25T06:32:37.936675+00:00"
     },
     "11637379": {
       "id": 11637379,
@@ -557,7 +557,59 @@
       "pub_date_rfc822": "Thu, 30 Jul 2026 00:00:00 +0000",
       "pub_date_formatted": "July 30, 2026",
       "first_seen": "2026-07-30T13:40:59.965616+00:00",
-      "last_seen": "2026-08-25T00:47:24.653344+00:00"
+      "last_seen": "2026-08-25T06:32:37.936675+00:00"
+    },
+    "11660970": {
+      "id": 11660970,
+      "title": "Miscellaneous Notices - Orlando",
+      "description": "NOTICE OF PUBLIC HEARING(S)\nThe City Commission of the City of Kissimmee, Florida will meet on Wednesday, September 9, 2026 at 6:00 p",
+      "notice_text": "NOTICE OF PUBLIC HEARING(S)\nThe City Commission of the City of Kissimmee, Florida will meet on Wednesday, September 9, 2026 at 6:00 p.m. in the Commission Chambers at City Hall, 101 Church Street, Kissimmee, Florida, to hear the FIRST READING and on Tuesday, September 22, 2026, at 6:00 p.m. to hear the SECOND AND FINAL READING and consider the passage of the proposed ordinance as set forth below. All interested parties may appear and be heard on the above dates.\nPROPOSED ORDINANCE #26-20\nAN ORDINANCE AMENDING THE CODE OF THE CITY OF KISSIMMEE, FLORIDA CODE OF ORDINANCES TITLES; REORGANIZING AND UPDATING CHAPTER 14-11 SIGNS; UPDATING 14-11-9.B TABLE 11-3; UPDATING 14-11-11.A TABLE 11-5; ADDING MINOR CLARIFICATION LANGUAGE THROUGHOUT; REPEALING ALL ORDINANCES IN CONFLICT HEREWITH AND PROVIDING AN EFFECTIVE DATE\nIn accordance with Florida Statutes 286.0105, any person wishing to appeal any decision made by the City Commission with respect to any matter considered at such meeting or hearing will need a record of the proceeding, and for such purposes may need to ensure that verbatim record of the proceedings is made, which record includes the testimony and evidence upon which the appeal is made.\nIn accordance with Florida Statutes 286.26, any person needing assistance to participate in these proceedings should contact the Office of the City Clerk in writing at least 48 hours prior to the meeting at cityclerkemail@kissimmee.gov or by telephone at (407) 518-2308.\n123328\n8/25/2026",
+      "pub_date": "2026-08-25",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11660970",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Orlando Sentinel",
+      "city": "Orlando",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": "Wednesday, September 9, 2026 at 6:00 p.m.",
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "city-commission",
+      "meeting_body_name": "City Commission",
+      "pub_date_rfc822": "Tue, 25 Aug 2026 00:00:00 +0000",
+      "pub_date_formatted": "August 25, 2026",
+      "first_seen": "2026-08-25T06:32:37.936675+00:00",
+      "last_seen": "2026-08-25T06:32:37.936675+00:00"
+    },
+    "11660969": {
+      "id": 11660969,
+      "title": "Miscellaneous Notices - Orlando",
+      "description": "NOTICE OF PUBLIC HEARING(S)\nThe City Commission of the City of Kissimmee, Florida will meet on Wednesday, September 9, 2026 at 6:00 p",
+      "notice_text": "NOTICE OF PUBLIC HEARING(S)\nThe City Commission of the City of Kissimmee, Florida will meet on Wednesday, September 9, 2026 at 6:00 p.m. in the Commission Chambers at City Hall, 101 Church Street, Kissimmee, Florida, to hear the FIRST READING and on Tuesday, September 22, 2026, at 6:00 p.m. to hear the SECOND AND FINAL READING and consider the passage of the proposed ordinance as set forth below. All interested parties may appear and be heard on the above dates.\nPROPOSED ORDINANCE #26-21\nAN ORDINANCE AMENDING THE CODE OF THE CITY OF KISSIMMEE, FLORIDA CODE OF ORDINANCES TITLES; AMENDING 14-3-1; AMENDING 14-3-16, TABLE 3-1 TO DESIGNATE THE CITY COMMISSION AS A REVIEWING AUTHORITY FOR CONDITIONAL USES; AMENDING SECTION 14-3-29 TO ADD PROVISIONS FOR SITE PLAN WAIVERS, DESIGNATING THE CITY COMMISSION AS THE APPROVAL BOARD FOR CONDITIONAL USES; REPEALING ALL ORDINANCES IN CONFLICT HEREWITH AND PROVIDING AN EFFECTIVE DATE\nIn accordance with Florida Statutes 286.0105, any person wishing to appeal any decision made by the City Commission with respect to any matter considered at such meeting or hearing will need a record of the proceeding, and for such purposes may need to ensure that verbatim record of the proceedings is made, which record includes the testimony and evidence upon which the appeal is made.\nIn accordance with Florida Statutes 286.26, any person needing assistance to participate in these proceedings should contact the Office of the City Clerk in writing at least 48 hours prior to the meeting at cityclerkemail@kissimmee.gov or by telephone at (407) 518-2308.\n123313\n8/25/2026",
+      "pub_date": "2026-08-25",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11660969",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Orlando Sentinel",
+      "city": "Orlando",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": "Wednesday, September 9, 2026 at 6:00 p.m.",
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "city-commission",
+      "meeting_body_name": "City Commission",
+      "pub_date_rfc822": "Tue, 25 Aug 2026 00:00:00 +0000",
+      "pub_date_formatted": "August 25, 2026",
+      "first_seen": "2026-08-25T06:32:37.936675+00:00",
+      "last_seen": "2026-08-25T06:32:37.936675+00:00"
     }
   }
 }
