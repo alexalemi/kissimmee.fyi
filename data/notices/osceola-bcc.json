@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T02:10:40.776456+00:00",
+  "last_updated": "2026-09-06T09:59:37.484420+00:00",
   "notices": {
     "11368706": {
       "id": 11368706,
@@ -1689,7 +1689,7 @@
       "pub_date_rfc822": "Thu, 06 Aug 2026 00:00:00 +0000",
       "pub_date_formatted": "August 06, 2026",
       "first_seen": "2026-08-06T13:45:17.193413+00:00",
-      "last_seen": "2026-09-06T02:10:40.776456+00:00"
+      "last_seen": "2026-09-06T09:59:37.484420+00:00"
     },
     "11646592": {
       "id": 11646592,
@@ -1715,7 +1715,7 @@
       "pub_date_rfc822": "Sun, 09 Aug 2026 00:00:00 +0000",
       "pub_date_formatted": "August 09, 2026",
       "first_seen": "2026-08-09T06:40:49.145397+00:00",
-      "last_seen": "2026-09-06T02:10:40.776456+00:00"
+      "last_seen": "2026-09-06T09:59:37.484420+00:00"
     },
     "11650572": {
       "id": 11650572,
@@ -1741,7 +1741,7 @@
       "pub_date_rfc822": "Thu, 13 Aug 2026 00:00:00 +0000",
       "pub_date_formatted": "August 13, 2026",
       "first_seen": "2026-08-13T12:52:07.105825+00:00",
-      "last_seen": "2026-09-06T02:10:40.776456+00:00"
+      "last_seen": "2026-09-06T09:59:37.484420+00:00"
     },
     "11653171": {
       "id": 11653171,
@@ -1767,7 +1767,7 @@
       "pub_date_rfc822": "Sun, 16 Aug 2026 00:00:00 +0000",
       "pub_date_formatted": "August 16, 2026",
       "first_seen": "2026-08-16T06:25:42.689808+00:00",
-      "last_seen": "2026-09-06T02:10:40.776456+00:00"
+      "last_seen": "2026-09-06T09:59:37.484420+00:00"
     },
     "11657217": {
       "id": 11657217,
@@ -1793,7 +1793,7 @@
       "pub_date_rfc822": "Thu, 20 Aug 2026 00:00:00 +0000",
       "pub_date_formatted": "August 20, 2026",
       "first_seen": "2026-08-20T12:30:50.522407+00:00",
-      "last_seen": "2026-09-06T02:10:40.776456+00:00"
+      "last_seen": "2026-09-06T09:59:37.484420+00:00"
     },
     "11669454": {
       "id": 11669454,
@@ -1819,7 +1819,7 @@
       "pub_date_rfc822": "Thu, 03 Sep 2026 00:00:00 +0000",
       "pub_date_formatted": "September 03, 2026",
       "first_seen": "2026-09-03T02:19:07.268379+00:00",
-      "last_seen": "2026-09-06T02:10:40.776456+00:00"
+      "last_seen": "2026-09-06T09:59:37.484420+00:00"
     },
     "11669453": {
       "id": 11669453,
@@ -1845,7 +1845,33 @@
       "pub_date_rfc822": "Thu, 03 Sep 2026 00:00:00 +0000",
       "pub_date_formatted": "September 03, 2026",
       "first_seen": "2026-09-03T02:19:07.268379+00:00",
-      "last_seen": "2026-09-06T02:10:40.776456+00:00"
+      "last_seen": "2026-09-06T09:59:37.484420+00:00"
+    },
+    "11673711": {
+      "id": 11673711,
+      "title": "Miscellaneous Notices - Orlando",
+      "description": "OSCEOLA COUNTY BOARD OF COUNTY COMMISSIONERS PROJECTS:\n1",
+      "notice_text": "OSCEOLA COUNTY BOARD OF COUNTY COMMISSIONERS PROJECTS:\n1. AR-26-16105-EN Supply of Hot Mix Asphalt and Sand. There will be no Pre-Bid Conference for this project: Deadline for Questions: Friday, September 18th, 2026, at 12:00 PM Local Time. Due Date: Tuesday, October 6th, 2026, at 2:00 PM Local Time. Contact Evelyn Nunez (407) 742-0935.\n2. ITB-26-16047-PC  Construction Services for Narcoossee Road Turn-Lane Improvements. The solicitation document and any addenda may be accessed and downloaded from Vendorlink at the following web address: https://vendorlink.osceola.org/external/login. A VIRTUAL Non-Mandatory Pre-Bid Conference will be held on Tuesday, September 15, 2026, at 10:00AM Local Time via the Microsoft TEAMS Application. Dial-in using 407-906-2344, and when prompted enter the Conference Code: 339 163 942#. Please note the Conference will be audio recorded. Deadline for Questions: Wednesday, September 23, 2026, at 2:00PM Local Time. Due Date: Tuesday, October 6, 2026, at 2:00PM Local Time. Contact: Paul Callaway, 407-742-0932.\n3. AR-26-16096-JG  East 192 Mowing and Landscaping Services. There will be no Pre-Proposal Conference for this project. Deadline for Questions: Wednesday, September 16, 2026, at 12:00PM Local Time. Due Date: Tuesday, October 6, 2026, at 2:00PM Local Time. Contact: Jovany Galarza - (407) 742-0943.\nFOR MORE INFORMATION, VISIT OSCEOLA COUNTYS VENDORLINK WEB SITE AT http://vendorlink.osceola.org.\n132649\n9/06/2026",
+      "pub_date": "2026-09-06",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11673711",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Orlando Sentinel",
+      "city": "Orlando",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": null,
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "osceola-bcc",
+      "meeting_body_name": "Osceola County Board of County Commissioners",
+      "pub_date_rfc822": "Sun, 06 Sep 2026 00:00:00 +0000",
+      "pub_date_formatted": "September 06, 2026",
+      "first_seen": "2026-09-06T09:59:37.484420+00:00",
+      "last_seen": "2026-09-06T09:59:37.484420+00:00"
     }
   }
 }
