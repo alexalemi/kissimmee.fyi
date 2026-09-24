@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T02:28:12.784551+00:00",
+  "last_updated": "2026-09-24T10:50:23.153999+00:00",
   "notices": {
     "11368706": {
       "id": 11368706,
@@ -1819,7 +1819,7 @@
       "pub_date_rfc822": "Thu, 03 Sep 2026 00:00:00 +0000",
       "pub_date_formatted": "September 03, 2026",
       "first_seen": "2026-09-03T02:19:07.268379+00:00",
-      "last_seen": "2026-09-24T02:28:12.784551+00:00"
+      "last_seen": "2026-09-24T10:50:23.153999+00:00"
     },
     "11669453": {
       "id": 11669453,
@@ -1845,7 +1845,7 @@
       "pub_date_rfc822": "Thu, 03 Sep 2026 00:00:00 +0000",
       "pub_date_formatted": "September 03, 2026",
       "first_seen": "2026-09-03T02:19:07.268379+00:00",
-      "last_seen": "2026-09-24T02:28:12.784551+00:00"
+      "last_seen": "2026-09-24T10:50:23.153999+00:00"
     },
     "11673711": {
       "id": 11673711,
@@ -1871,7 +1871,7 @@
       "pub_date_rfc822": "Sun, 06 Sep 2026 00:00:00 +0000",
       "pub_date_formatted": "September 06, 2026",
       "first_seen": "2026-09-06T09:59:37.484420+00:00",
-      "last_seen": "2026-09-24T02:28:12.784551+00:00"
+      "last_seen": "2026-09-24T10:50:23.153999+00:00"
     },
     "11676978": {
       "id": 11676978,
@@ -1897,7 +1897,7 @@
       "pub_date_rfc822": "Thu, 10 Sep 2026 00:00:00 +0000",
       "pub_date_formatted": "September 10, 2026",
       "first_seen": "2026-09-10T15:35:27.315852+00:00",
-      "last_seen": "2026-09-24T02:28:12.784551+00:00"
+      "last_seen": "2026-09-24T10:50:23.153999+00:00"
     },
     "11687644": {
       "id": 11687644,
@@ -1923,7 +1923,33 @@
       "pub_date_rfc822": "Sun, 20 Sep 2026 00:00:00 +0000",
       "pub_date_formatted": "September 20, 2026",
       "first_seen": "2026-09-20T10:21:28.785575+00:00",
-      "last_seen": "2026-09-24T02:28:12.784551+00:00"
+      "last_seen": "2026-09-24T10:50:23.153999+00:00"
+    },
+    "11692427": {
+      "id": 11692427,
+      "title": "Miscellaneous Notices - Kissimmee",
+      "description": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY \nBOARD OF COUNTY COMMISSIONERS PROJECTS:\n1) RFP-26-16091-JG  Special Assessments Mowing and Landscaping Services...",
+      "notice_text": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY \nBOARD OF COUNTY COMMISSIONERS PROJECTS:\n1) RFP-26-16091-JG  Special Assessments Mowing and Landscaping Services on a Task Authorization Basis There will be no Pre-Proposal Conference for this project. Deadline for Questions: Tuesday, September 29, 2026, at 12:00 PM Local Time. Due Date: Tuesday, October 20, 2026, at 2:00 PM Local Time. Contact: Jovany Galarza - (407) 742-0943.\n2) AR-26-16151-EN - Polypropylene & Polyethylene Pipe & Fittings. There will be no pre-conference for this project. Deadline for questions is Friday, October 9, 2026, by 12:00 PM local time. Due Date: Tuesday, October 20, 2026, at 2:00 PM local time. Contact: 407-742-0935.\nFOR MORE INFORMATION, VISIT OSCEOLA COUNTYS VENDORLINK WEB SITE AT http://vendorlink.osceola.org.\nSeptember 24, 2026",
+      "pub_date": "2026-09-24",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11692427",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Osceola News-Gazette",
+      "city": "Kissimmee",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": null,
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "osceola-bcc",
+      "meeting_body_name": "Osceola County Board of County Commissioners",
+      "pub_date_rfc822": "Thu, 24 Sep 2026 00:00:00 +0000",
+      "pub_date_formatted": "September 24, 2026",
+      "first_seen": "2026-09-24T10:50:23.153999+00:00",
+      "last_seen": "2026-09-24T10:50:23.153999+00:00"
     }
   }
 }
