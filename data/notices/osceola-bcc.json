@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T03:40:02.276336+00:00",
+  "last_updated": "2026-11-08T12:31:09.529981+00:00",
   "notices": {
     "11368706": {
       "id": 11368706,
@@ -2027,7 +2027,7 @@
       "pub_date_rfc822": "Sun, 11 Oct 2026 00:00:00 +0000",
       "pub_date_formatted": "October 11, 2026",
       "first_seen": "2026-10-11T11:52:53.240829+00:00",
-      "last_seen": "2026-11-08T03:40:02.276336+00:00"
+      "last_seen": "2026-11-08T12:31:09.529981+00:00"
     },
     "11713658": {
       "id": 11713658,
@@ -2053,7 +2053,7 @@
       "pub_date_rfc822": "Thu, 15 Oct 2026 00:00:00 +0000",
       "pub_date_formatted": "October 15, 2026",
       "first_seen": "2026-10-15T10:37:17.599097+00:00",
-      "last_seen": "2026-11-08T03:40:02.276336+00:00"
+      "last_seen": "2026-11-08T12:31:09.529981+00:00"
     },
     "11715391": {
       "id": 11715391,
@@ -2079,7 +2079,7 @@
       "pub_date_rfc822": "Sun, 18 Oct 2026 00:00:00 +0000",
       "pub_date_formatted": "October 18, 2026",
       "first_seen": "2026-10-18T10:09:35.221080+00:00",
-      "last_seen": "2026-11-08T03:40:02.276336+00:00"
+      "last_seen": "2026-11-08T12:31:09.529981+00:00"
     },
     "11718953": {
       "id": 11718953,
@@ -2105,7 +2105,7 @@
       "pub_date_rfc822": "Thu, 22 Oct 2026 00:00:00 +0000",
       "pub_date_formatted": "October 22, 2026",
       "first_seen": "2026-10-22T10:54:55.114835+00:00",
-      "last_seen": "2026-11-08T03:40:02.276336+00:00"
+      "last_seen": "2026-11-08T12:31:09.529981+00:00"
     },
     "11726611": {
       "id": 11726611,
@@ -2131,7 +2131,33 @@
       "pub_date_rfc822": "Sun, 01 Nov 2026 00:00:00 +0000",
       "pub_date_formatted": "November 01, 2026",
       "first_seen": "2026-11-01T12:24:49.501122+00:00",
-      "last_seen": "2026-11-08T03:40:02.276336+00:00"
+      "last_seen": "2026-11-08T12:31:09.529981+00:00"
+    },
+    "11732108": {
+      "id": 11732108,
+      "title": "Miscellaneous Notices - Orlando",
+      "description": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY BOARD OF COUNTY COMMISSIONERS PROJECTS:\n1",
+      "notice_text": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY BOARD OF COUNTY COMMISSIONERS PROJECTS:\n1. AR-27-16179-AS, Metro-Ethernet and Dedicated Internet Access for Osceola County Libraries  eRate Subsidized. The Solicitation document and any addenda can be accessed and downloaded from Vendorlink at the following web address: Vendorlink.osceola.org. There will be no pre-proposal conference for this project. The deadline for questions is Thursday, November 19, 2026 at 12:00 p.m. local time. Due Date is Tuesday, December 15, 2026 at 2:00 p.m. local time. Contact: Arima Santana (407)742-0925.\n2. ITB-27-15110-PC - Osceola County Board of County Commissioners is seeking bids from Florida Department of Transportation (FDOT) pre-qualified contractors to provide Construction Services for Intersection Improvements with Traffic Signals at Funie Steed Road & Lindfields Boulevard and Funie Steed Road & Formosa Gardens Boulevard (FM#451545-1-58-01). This project involves the construction of a Traffic Signal at Funie Steed Rd and Lindfields Blvd & Funie Steed Rd and Formosa Gardens Blvd, milling and resurfacing, overbuild, widening with adding turn lanes, adding curb & gutter including ADA ramps and drainage improvements. Additionally upgrading signing & pavement marking and providing intersection lighting. To be considered, the Contractor (Prime) shall be Florida Department of Transportation (FDOT) Prequalified in the following Work Classes: 7. Drainage, 10. Flexible Paving, and 11. Grading. The solicitation document and any addenda can be accessed and downloaded from VendorLink at the following web address: https://Vendorlink.osceola.org. There will be a VIRTUAL NON-MANDATORY PRE-BID CONFERENCE on Tuesday, November 17, 2026 at 10:00 AM Local Time. Dial in at 407-906-2344, and when prompted, enter the following conference code: 815 277 835#. Please note the meeting will be audio recorded. The deadline for questions is Wednesday, December 2, 2026 at 12:00 PM Local Time. DUE DATE: Tuesday, December 15, 2026 at 12:00 PM Local Time. Contact: Paul Callaway (407) 742-0932. The broadcast date is November 8, 2026.\nFOR MORE INFORMATION, VISIT OSCEOLA COUNTYS VENDORLINK WEB SITE AT http://vendorlink.osceola.org.\n183027\n11/8/2026",
+      "pub_date": "2026-11-08",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11732108",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Orlando Sentinel",
+      "city": "Orlando",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": "Thursday, November 19, 2026 at 12:00 p.m.",
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "osceola-bcc",
+      "meeting_body_name": "Osceola County Board of County Commissioners",
+      "pub_date_rfc822": "Sun, 08 Nov 2026 00:00:00 +0000",
+      "pub_date_formatted": "November 08, 2026",
+      "first_seen": "2026-11-08T12:31:09.529981+00:00",
+      "last_seen": "2026-11-08T12:31:09.529981+00:00"
     }
   }
 }
