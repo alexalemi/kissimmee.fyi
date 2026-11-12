@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T05:06:23.560797+00:00",
+  "last_updated": "2026-11-12T14:22:00.389787+00:00",
   "notices": {
     "11381716": {
       "id": 11381716,
@@ -739,7 +739,7 @@
       "pub_date_rfc822": "Mon, 02 Nov 2026 00:00:00 +0000",
       "pub_date_formatted": "November 02, 2026",
       "first_seen": "2026-11-02T14:21:05.985581+00:00",
-      "last_seen": "2026-11-12T05:06:23.560797+00:00"
+      "last_seen": "2026-11-12T14:22:00.389787+00:00"
     },
     "11730259": {
       "id": 11730259,
@@ -765,7 +765,33 @@
       "pub_date_rfc822": "Thu, 05 Nov 2026 00:00:00 +0000",
       "pub_date_formatted": "November 05, 2026",
       "first_seen": "2026-11-05T13:47:00.758377+00:00",
-      "last_seen": "2026-11-12T05:06:23.560797+00:00"
+      "last_seen": "2026-11-12T14:22:00.389787+00:00"
+    },
+    "11734520": {
+      "id": 11734520,
+      "title": "Miscellaneous Notices - Kissimmee",
+      "description": "NOTICE OF PUBLIC HEARINGS\n\n\nThe City Commission of the City of Kissimmee, Florida, will meet on Tuesday, November 17, 2026, at 6:00 p",
+      "notice_text": "NOTICE OF PUBLIC HEARINGS\n\n\nThe City Commission of the City of Kissimmee, Florida, will meet on Tuesday, November 17, 2026, at 6:00 p.m. in the Commission Chambers at City Hall, 101 Church Street, Kissimmee, Florida, to hear the FIRST READING, and on Tuesday, December 1, 2026, at 6:00 p.m. to hear the SECOND AND FINAL READING and consider the passage of the proposed ordinance as set forth below. All interested parties may appear and be heard on the above dates.\n\n\nPROPOSED ORDINANCE #26-23\n\n\nAN ORDINANCE OF THE CITY OF KISSIMMEE, FLORIDA, REPEALING CHAPTER 30, ARTICLE II, CODE OF ETHICS, SECTIONS 30-19 THROUGH 30-26 OF THE CITY CODE; PROVIDING FOR SEVERABILITY; CONFLICTS; CORRECTION OF SCRIVENERS ERRORS; CODIFICATION; PUBLICATION; AND AN EFFECTIVE DATE.\n\n\nIN ACCORDANCE WITH FLORIDA STATUTE 286.0105: ANY PERSON WISHING TO APPEAL ANY DECISION MADE BY THE CITY COMMISSION WITH RESPECT TO ANY MATTER CONSIDERED AT SUCH MEETING OR HEARING WILL NEED A RECORD OF THE PROCEEDINGS, AND FOR SUCH PURPOSES MAY NEED TO ENSURE THAT A VERBATIM RECORD OF THE PROCEEDINGS IS MADE, WHICH RECORD INCLUDES THE TESTIMONY AND EVIDENCE UPON WHICH THE APPEAL IS MADE.\n\n\nIN ACCORDANCE WITH FLORIDA STATUTE 286.26, ANY PERSON NEEDING ASSISTANCE TO PARTICIPATE IN THESE PROCEEDINGS SHOULD CONTACT THE OFFICE OF THE CITY CLERK AT 407-518-2308 AT 101 CHURCH STREET, KISSIMMEE, FL 34741, AT LEAST 48 HOURS PRIOR TO THE MEETING.\nNovember 12, 2026",
+      "pub_date": "2026-11-12",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11734520",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Osceola News-Gazette",
+      "city": "Kissimmee",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": null,
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "city-commission",
+      "meeting_body_name": "City Commission",
+      "pub_date_rfc822": "Thu, 12 Nov 2026 00:00:00 +0000",
+      "pub_date_formatted": "November 12, 2026",
+      "first_seen": "2026-11-12T14:22:00.389787+00:00",
+      "last_seen": "2026-11-12T14:22:00.389787+00:00"
     }
   }
 }
