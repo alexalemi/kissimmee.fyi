@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T22:38:35.219580+00:00",
+  "last_updated": "2026-11-22T04:20:22.416725+00:00",
   "notices": {
     "11368706": {
       "id": 11368706,
@@ -2105,7 +2105,7 @@
       "pub_date_rfc822": "Thu, 22 Oct 2026 00:00:00 +0000",
       "pub_date_formatted": "October 22, 2026",
       "first_seen": "2026-10-22T10:54:55.114835+00:00",
-      "last_seen": "2026-11-21T22:38:35.219580+00:00"
+      "last_seen": "2026-11-22T04:20:22.416725+00:00"
     },
     "11726611": {
       "id": 11726611,
@@ -2131,7 +2131,7 @@
       "pub_date_rfc822": "Sun, 01 Nov 2026 00:00:00 +0000",
       "pub_date_formatted": "November 01, 2026",
       "first_seen": "2026-11-01T12:24:49.501122+00:00",
-      "last_seen": "2026-11-21T22:38:35.219580+00:00"
+      "last_seen": "2026-11-22T04:20:22.416725+00:00"
     },
     "11732108": {
       "id": 11732108,
@@ -2157,7 +2157,7 @@
       "pub_date_rfc822": "Sun, 08 Nov 2026 00:00:00 +0000",
       "pub_date_formatted": "November 08, 2026",
       "first_seen": "2026-11-08T12:31:09.529981+00:00",
-      "last_seen": "2026-11-21T22:38:35.219580+00:00"
+      "last_seen": "2026-11-22T04:20:22.416725+00:00"
     },
     "11734485": {
       "id": 11734485,
@@ -2183,7 +2183,7 @@
       "pub_date_rfc822": "Thu, 12 Nov 2026 00:00:00 +0000",
       "pub_date_formatted": "November 12, 2026",
       "first_seen": "2026-11-12T14:22:00.509786+00:00",
-      "last_seen": "2026-11-21T22:38:35.219580+00:00"
+      "last_seen": "2026-11-22T04:20:22.416725+00:00"
     },
     "11737090": {
       "id": 11737090,
@@ -2209,7 +2209,7 @@
       "pub_date_rfc822": "Sun, 15 Nov 2026 00:00:00 +0000",
       "pub_date_formatted": "November 15, 2026",
       "first_seen": "2026-11-15T04:01:49.301675+00:00",
-      "last_seen": "2026-11-21T22:38:35.219580+00:00"
+      "last_seen": "2026-11-22T04:20:22.416725+00:00"
     },
     "11740290": {
       "id": 11740290,
@@ -2235,7 +2235,33 @@
       "pub_date_rfc822": "Thu, 19 Nov 2026 00:00:00 +0000",
       "pub_date_formatted": "November 19, 2026",
       "first_seen": "2026-11-19T14:58:35.121521+00:00",
-      "last_seen": "2026-11-21T22:38:35.219580+00:00"
+      "last_seen": "2026-11-22T04:20:22.416725+00:00"
+    },
+    "11741883": {
+      "id": 11741883,
+      "title": "Miscellaneous Notices - Orlando",
+      "description": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY BOARD OF COUNTY COMMISSIONERS PROJECTS:\n1",
+      "notice_text": "LEGAL ADVERTISEMENT\nOSCEOLA COUNTY BOARD OF COUNTY COMMISSIONERS PROJECTS:\n1. AR-27-16197-NO  Septic Repairs and Maintenance Services. There will be a Virtual Non-Mandatory Pre-Proposal Conference for this project on Wednesday, December 2, 2026 at 10:00 AM. via Microsoft TEAMS Application Dial-in using (407) 906-2344, and when prompted enter the Conference code: 104243715#. Please note the meeting will be audio recorded. Deadline for Questions: Tuesday, December 8, 2026, at 12:00 PM Local Time. Due Date: Tuesday, December 22, 2026, at 2:00 PM Local Time. Contact: Nancy Ortiz, 407-742-0940.\nFOR MORE INFORMATION, VISIT OSCEOLA COUNTYS VENDORLINK WEB SITE AT\nhttp://vendorlink.osceola.org.\n193336\n11/22/26",
+      "pub_date": "2026-11-22",
+      "pdf_url": null,
+      "link": "https://floridapublicnotices.com/notices/11741883",
+      "image_url": null,
+      "thumbnail_url": null,
+      "newspaper": "Orlando Sentinel",
+      "city": "Orlando",
+      "subcategory": "Miscellaneous Notices",
+      "meeting_date": "Wednesday, December 2, 2026 at 10:00 AM.",
+      "property_address": null,
+      "zoning_change": null,
+      "reference_num": null,
+      "parcel_id": null,
+      "amendment_type": null,
+      "meeting_body_key": "osceola-bcc",
+      "meeting_body_name": "Osceola County Board of County Commissioners",
+      "pub_date_rfc822": "Sun, 22 Nov 2026 00:00:00 +0000",
+      "pub_date_formatted": "November 22, 2026",
+      "first_seen": "2026-11-22T04:20:22.416725+00:00",
+      "last_seen": "2026-11-22T04:20:22.416725+00:00"
     }
   }
 }
